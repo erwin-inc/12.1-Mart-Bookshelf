@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html lang="en" xmlns:madcap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title>Mart Server Log Files</title>
+        <link href="..\..\Resources\StyleSheets\stylesheet.css" rel="stylesheet" type="text/css" />
+        <link href="..\..\Resources\StyleSheets\docsstylesheet.css" rel="stylesheet" type="text/css" />
+        <meta content="&lt;authorit:componentcd&gt;" name="componentcd" />
+        <meta content="8297" name="objectid" />
+        <meta content="249" name="basedOnKey" />
+        <!--metadata variables for XMD: translatable-->
+        <meta content="" name="description" />
+        <meta content="&lt;authorit:ca_keywords&gt;" name="keywords" />
+        <meta content="&lt;authorit:ca_content_type&gt;" name="ca_content_type" />
+        <meta content="&lt;authorit:ca_context&gt;" name="ca_context" />
+        <meta content="&lt;authorit:ca_role&gt;" name="ca_role" />
+        <meta content="en-US" name="ca_language" />
+        <!--metadata variables for XMD: do not translate-->
+        <meta content="&lt;authorit:ca_offering_name&gt;" name="ca_offering_name" />
+        <meta content="&lt;authorit:ca_product_version&gt;" name="ca_product_version" />
+        <meta content="&lt;authorit:ca_product_family&gt;" name="ca_product_family" />
+        <meta content="&lt;authorit:ca_alias_name&gt;" name="ca_alias_name" />
+        <meta content="&lt;authorit:ca_related_offering&gt;" name="ca_related_offering" />
+        <meta content="&lt;authorit:ca_access_level&gt;" name="ca_access_level" />
+        <meta content="8/13/2018T12:00-5:00" name="ca_date_time" />
+        <meta content="(supervisor)" name="ca_creator" />
+        <meta content="&lt;authorit:ca_source&gt;" name="ca_source" />
+        <meta content="HTML" name="ca_format" />
+        <meta content="&lt;authorit:ca_database&gt;" name="ca_database" />
+        <meta content="&lt;authorit:ca_application_server&gt;" name="ca_application_server" />
+        <meta content="&lt;authorit:ca_operating_system&gt;" name="ca_operating_system" />
+        <meta content="&lt;authorit:ca_star_code&gt;" name="ca_star_code" />
+        <meta content="&lt;authorit:ca_cms_id&gt;" name="ca_cms_id" />
+        <script language="javascript" src="..\..\Resources\dhtml_toc.js" type="text/javascript">
+        </script> <script language="javascript" src="..\..\Resources\open_parent.js" type="text/javascript"></script> <script language="javascript" src="../../Resources/mailerwin.js" type="text/javascript"></script> <script language="javascript" type="text/javascript"></script></head>
+    <body onload="loadParent();highlightx();if (isTOCLoaded()) {highlight('8297')}">
+        <p class="bodytext">
+            <MadCap:concept term="User Guides" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        </p>
+        <h1 class="heading1" id="t8297"> Mart Server Log Files</h1>
+        <p class="bodytext">Mart Server can now generate log files (application.log) when there are errors. You can find the log file at the following locations:</p>
+        <ul class="listbullet">
+            <li class="listbullet"><b>Mart Server as a Tomcat server</b>: {user.home}/AppData/Local/erwin/Mart Server/logs/application.log</li>
+            <li class="listbullet"><b>Mart Server as Windows service</b>: C:\Windows\System32\config\systemprofile\AppData\Local\erwin\Mart Server\logs\application.log</li>
+        </ul>
+        <p class="bodytext">You can configure how the log is generated. For more information about how to configure logging, see the erwin Mart Administrator Help.</p>
+        <p class="note"><strong>Note</strong>: The latest version of Apache Tomcat does not support custom authorization-related error messages. Hence, a generic error message, "Unauthorized operation attempted. For more information, please review the log file.", is displayed. To understand the cause of the error, review the application.log file, which contains the description of the cause. Following is one such sample from the application.log file:</p><pre xml:space="preserve">
+ERROR exception.MMException.setException: java.lang.Exception: 
+User "johndoe" does not have required "View Users" permission on
+ "User Management". Please contact the Mart Administrator for 
+required permission.
+</pre>
+        <p class="minitocintro">This section contains the following topics</p>
+        <p class="minitocitem"><a href="Generate_Log_Files_on_Mart_Server_1.html" target="_self">Generate Log Files on the Mart Server</a>
+        </p>
+        <p class="minitocitem"><a href="Generate_Log_Files_on_Mart_Server_1.html#EnableLogging" target="_self">Enable Logging in Local AppData</a>
+        </p>
+        <p>
+        </p>
+    </body>
+</html>

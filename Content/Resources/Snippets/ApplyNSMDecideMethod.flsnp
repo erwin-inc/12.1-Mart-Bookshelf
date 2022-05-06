@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="bodytext">You can apply naming standards in the following ways:</p>
+        <ul class="listbullet">
+            <li class="listbullet">Create and apply: Use this option when you are creating the naming standards for the first time.
+</li>
+            <li class="listbullet">Import from a previous version: Use this option if you have created naming standards using a previous version of erwin DM.
+</li>
+            <li class="listbullet">Bind a model template: Use this option if you want to use the naming standards that you have already created and attached to a model or a model template.</li>
+            <li class="listbullet">Connect to the Mart and use NSM files available in NSM File Management.</li>
+        </ul>
+    </body>
+</html>

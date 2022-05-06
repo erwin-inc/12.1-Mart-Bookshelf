@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="3"
+  SkinType="Component"
+  Comment="HTML5 Toolbar skin"
+  ComponentType="TopicToolbar"
+  EnableResponsiveOutput="True">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Toolbar">
+        <Properties>
+          <Property
+            Name="MarginBottom">33px</Property>
+          <Property
+            Name="MarginRight">-4px</Property>
+          <Property
+            Name="Float">right</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="ToolbarItem">
+        <Classes>
+          <StyleClass
+            Name="AddToFavorites"
+            Custom="true">
+            <Properties>
+              <Property
+                Name="BackgroundRepeat">no-repeat</Property>
+              <Property
+                Name="BackgroundPosition">center center</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="PDF"
+            Custom="true">
+            <Properties>
+              <Property
+                Name="BackgroundRepeat">no-repeat</Property>
+              <Property
+                Name="BackgroundPosition">center center</Property>
+              <Property
+                Name="BackgroundImage">url('iconfinder_icon-5-file-pdf_315651.png')</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="FacebookSharing"
+            Custom="true">
+            <Properties>
+              <Property
+                Name="BackgroundRepeat">no-repeat</Property>
+              <Property
+                Name="BackgroundPosition">center center</Property>
+              <Property
+                Name="Click">shareFB()</Property>
+              <Property
+                Name="BackgroundImage">url('FacebookIcon.png')</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
+      </Style>
+      <Medium
+        Name="Tablet">
+        <Style
+          Name="ToolbarItem">
+          <Classes>
+            <StyleClass
+              Name="Home">
+              <Properties>
+                <Property
+                  Name="BackgroundRepeat">no-repeat</Property>
+                <Property
+                  Name="BackgroundPosition">center center</Property>
+              </Properties>
+            </StyleClass>
+            <StyleClass
+              Name="AddToFavorites">
+              <Properties>
+                <Property
+                  Name="BackgroundRepeat">no-repeat</Property>
+                <Property
+                  Name="BackgroundPosition">center center</Property>
+              </Properties>
+            </StyleClass>
+            <StyleClass
+              Name="PDF">
+              <Properties>
+                <Property
+                  Name="BackgroundRepeat">no-repeat</Property>
+                <Property
+                  Name="BackgroundPosition">center center</Property>
+              </Properties>
+            </StyleClass>
+            <StyleClass
+              Name="FacebookSharing">
+              <Properties>
+                <Property
+                  Name="BackgroundRepeat">no-repeat</Property>
+                <Property
+                  Name="BackgroundPosition">center center</Property>
+              </Properties>
+            </StyleClass>
+          </Classes>
+        </Style>
+      </Medium>
+      <Medium
+        Name="Mobile">
+        <Style
+          Name="Toolbar">
+          <Properties>
+            <Property
+              Name="Display">none</Property>
+          </Properties>
+        </Style>
+        <Style
+          Name="ToolbarItem">
+          <Classes>
+            <StyleClass
+              Name="Home">
+              <Properties>
+                <Property
+                  Name="BackgroundRepeat">no-repeat</Property>
+                <Property
+                  Name="BackgroundPosition">center center</Property>
+              </Properties>
+            </StyleClass>
+            <StyleClass
+              Name="AddToFavorites">
+              <Properties>
+                <Property
+                  Name="BackgroundRepeat">no-repeat</Property>
+                <Property
+                  Name="BackgroundPosition">center center</Property>
+              </Properties>
+            </StyleClass>
+            <StyleClass
+              Name="PDF">
+              <Properties>
+                <Property
+                  Name="BackgroundRepeat">no-repeat</Property>
+                <Property
+                  Name="BackgroundPosition">center center</Property>
+              </Properties>
+            </StyleClass>
+            <StyleClass
+              Name="FacebookSharing">
+              <Properties>
+                <Property
+                  Name="BackgroundRepeat">no-repeat</Property>
+                <Property
+                  Name="BackgroundPosition">center center</Property>
+              </Properties>
+            </StyleClass>
+          </Classes>
+        </Style>
+      </Medium>
+    </Styles>
+    <Stylesheet></Stylesheet>
+    <Resources>
+      <Resource
+        Name="iconfinder_icon-5-file-pdf_315651.png">H4sIAAAAAAAEAI1U/TfTCxyet7sp1SUvi2pas0pql5GaZcp3GFpumZdQblhUhjJ5XzqTLW9ndbFFU5uwyZySuclFJ+ZmIoqJzapdrEklXUuLe9f9C3rOeT7PeX55ns/5/PBhBhF916yyXQUCgdYQ/IAjer34nZCf9POx529SvRifP0gIhuiRDYll6L1psl/4eRBo9frvNABdr4KCQCZzBOBAcHrVnGIwyTIOCv44k1F7xPbsekH6VIGzLWOIz62J5k0e6obZ8NK2KDhvba2SKvfvNk07NR4Ub7b/5jfIJLbr9hqagSNjqDvsmR0i2IZxe669FCwmp9EpE5yXipfLuZQFiq49CTM44LHQ8aHdwRD0Q7iY9ujpnX7t8g1hphdJaz5EgY8j4Yddm9fMDUCbAaCVs4RBD/50IFkUtF3u19BRi+gaGxtbK73XB3zeY05Aa97Z+5BQYeVURPWgMhCTrjF9pVsBA6mXGOKaqNCCh03CfTJqJ8ElXqj0UWpxW3nP6deq6bv6v7XMZFQjN7i27PSaq6RhjomEoeyMPijaA4ejNQc77qoduez0CdskgzZ7A4uC00Tg+JUVM3Rn0sQiB6EJcDDIVioJgKx+pfLfUuH0pl4OmXyIP0k86mQdNzvaCBMIt8ErvWEKG9Z+gnx9zbBJ/WkOfFs1YzI5SmtJXBkv83dQtb23RHcmFIVDcu47QC6ds6Aick3qc3Q0ftA5gaZANMv1bxNR3mRM/oKuNrPi2EO4xToGW2L1KkqIWwrd2Msh3uKKzs0M3GhiqAuCWPoL2FPk3eu7oGhLT/L0jshF1c4yfx9SHbzHu/Tba6of1gCIPfxlDIquTN2k0JjTpIqUmNoUk3RMNhaHq/6iJrVasOxYvFNvJO+YdvaOGLFSvU+pXf4nbV0h4OoLNAOpwylVMLQ1jVSiwi5K5FQFuONDQeGenkZUoepTJUOdAcecLVrqOCKoYnO5k3J1xR5b5UL7E7qqtcwJ2UUD6HjEBe17RUBvyabZgK2eaJgwpMHGw83U5QZoS1N4uVt5SDJ5MqIx5Gih0p+pNOpuOQbzA1ydnedjfzb2FmYGA8chOa7vdCuxfM8s/jzJLVQQjPT19W2SMJUUlwsmf80saCNly0TSCQfeidA+PJ1E3Sv4kpOT0wSNyTXttWGNzU8cmraIxt8K+hJAKqVLT+8stmBJp1bI0yh4D7MnyYZzCATn5efnt+WZm7/kxGZL75Hh+IdXi5Rr9SsmSPX5cPyfuxL8ruitPlf3uFfCfhDS4tDgUgnqLYXR+qBH3bcN9LMvhNWJs8zO1kTu1moXFzs62tsjrVkzIX3Fzo7woZcu8TfnLKL5MbP98mR5x4bRiZWQUrtY8WrI0RGpkZFRfkjr1kJ9gQTqwHuSl5fXunYz9o9nH21e0cZFq+O7oc328PNCTEz46O+JE7JjilqnMw+N46nV0NDR8eq3u0FvvA1T9yG8KrwN7/D0/b5XNt+v2bLjoOEdOEbmBXS2/m+wEv60rfq1/+uS4bTSvEbxeKSROVUe6S1z6PKZsQX+pqv2NojA/fBUgzM3hRU6nQ6XQPUYvmgchnfvd0uNsnnm1/rUDeFJiRIEWz/+ABZqyDKqx/ulB1bYwdm46Y9l8UMpVWGzls/VhhQZyf7e/nxM21VnZJvjUoicnYDoGmSpSiIClI7lcXhwbe4VO/S8MWN3f/BI5N2w7qfkwJ6TvxY5D7lfO7ku8PbdA93hcJdbvAowGIwjtnEp6L170/2A45H79kiMJeyFFBWSC2qJaugotsxSqVRZ10QNEelcdwA4cVnKXnqnVqthKTF15xKsWYNMdW59fSgJlcG9AFU8GrcqxM9jk+gc1JHlCMLI1NSUOqvQbvhz40mmWigkOi8UCQdem989ntgwFlUeN+cuMStA6YB14DonaWaveG414UWF5mvLOHnI9/kdfuULYu4jcSJKwBagojfCYLQmceemNLPSumMTKW6ZNKsAzfLdxIlTp7PAXP7XOqMwo5hAL6Cuorw8bVvOJ+b1b6gYJBIpBh9Ivsi4zM5YZ57IX5s9hakFCzMLOU0NmsDDhweXWCwWLkKx/QcearyIZtD6FkW6tcui/bsn4ImA6GD0pf8At/Izj0sGAAA=</Resource>
+      <Resource
+        Name="FacebookIcon.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0rogzMEMEjkitAJIsaQ7+joyMGzs5/6TyArkKyR7BPkyMFSpMTA0tDAw/AIKNbxgYCg1YGB4lcDAYDWDgUG8YM6uQBsGBkaRAJ8QV6CCfZcMRhEcAQNE5YnGNCAVVRLkF8yglTP/+JMPCk13VRb9vjozwVJagKPxx2JH1fOK7h+POXmE/lzCPkft3FI2prxy5WUPvP/Ianz9275gRofN6fVRktYPte+JZPMnrqp9Oq037LMU36dXjDLzlnM5NHs+W9i47A/QFsYkb3cXhg5WWQ8gh7PAI7KYgYFbCIQZL92tA6pg4vZ0cQzxOD51anb0LQeBVncmRaUnSm0NvlM6xKMuXLvWtTbs4KUrcSv2bp/3/7/zLu6szdNdZvB7ztv8fvJdW2trZ5WjQQc1pvnMWLooMGLRHY3o0x7HN4WeS9HWDl2QZr1uu9fqea9vmC7YFXRx01dT+QyWJjEThvurVhdsZpV43bUnj2HtsjV2XIK5Gc95lFpmL7rSt/HqyRt+6dyF1ro5R26c25glXZh1b9lM7uI7d3aWJ4tX/3zuUH1jb3Ea79FzzCXbObK/hX5cuOOjRcWl119/aaY/ON+XKd/26PnBLw/mL1Nh/v3nan2bM2fdPyau2g5lu6veMqf3yzksfSmh/qayIdzo76zFy9Pfmmd+lBF3cb4iwu42Z9+Uq1JtX8SYW/c9+BIRG9/49urMyWUzygVjAmumqwR7+01+stfggdIi7Qqlvw//u/7W4KnQCNTwn7nInpM5uYXF47T15rfnZUxzqpX6DExCtk/eeFp/R9j1uZ7VO4JsTy7ZqW61f3/ar9gLc5bOrJy2y+biZRv/G0rnny+K5KtTtgr8vHvV4vSfd+2D3vGZfPl+8+7FO96yf5ntl+eXPT96youzP77pi/S/3LdbBEo17XcJ/rtTdy26+Mqqa7Wi9yOX8OlFJMuvuM+7sk44d9M9gYzEa9Lr/p965FTbbpn8sjpqzevMkuv67H3WkpcrHlk1z6k7uTintyXO5tTLo5clNtnVCyvtSayt0+D/x5zH2MDMXDLpMDCtMHi6+rmsc0poAgCfzz/qKAQAAA==</Resource>
+    </Resources>
+  </Stylesheet>
+  <TopicToolbar
+    EnableCustomLayout="true"
+    Buttons="PreviousTopic|NextTopic|Print">
+    <Script>function shareFB() {
+var e = document.createElement('script'); e.async = true;
+e.src = document.location.protocol +
+'//connect.facebook.net/en_US/all.js';
+document.getElementById('foo').appendChild(e);
+}());</Script>
+  </TopicToolbar>
+  <Strings>
+    <Stylesheet
+      lang="en-us">
+      <Stylesheet>
+        <Styles>
+          <Style
+            Name="Toolbar">
+            <Properties>
+              <Property
+                Name="MarginBottom">33px</Property>
+              <Property
+                Name="MarginRight">-4px</Property>
+              <Property
+                Name="Float">right</Property>
+            </Properties>
+          </Style>
+          <Style
+            Name="ToolbarItem">
+            <Classes>
+              <StyleClass
+                Name="PDF">
+                <Properties>
+                  <Property
+                    Name="Tooltip">Open PDF</Property>
+                </Properties>
+              </StyleClass>
+            </Classes>
+          </Style>
+          <Medium
+            Name="Tablet">
+            <Style
+              Name="ToolbarItem">
+              <Classes>
+                <StyleClass
+                  Name="Home">
+                  <Properties>
+                    <Property
+                      Name="BackgroundRepeat">no-repeat</Property>
+                    <Property
+                      Name="BackgroundPosition">center center</Property>
+                  </Properties>
+                </StyleClass>
+              </Classes>
+            </Style>
+          </Medium>
+          <Medium
+            Name="Mobile">
+            <Style
+              Name="Toolbar">
+              <Properties>
+                <Property
+                  Name="Display">none</Property>
+              </Properties>
+            </Style>
+            <Style
+              Name="ToolbarItem">
+              <Classes>
+                <StyleClass
+                  Name="Home">
+                  <Properties>
+                    <Property
+                      Name="BackgroundRepeat">no-repeat</Property>
+                    <Property
+                      Name="BackgroundPosition">center center</Property>
+                  </Properties>
+                </StyleClass>
+              </Classes>
+            </Style>
+          </Medium>
+        </Styles>
+        <Stylesheet></Stylesheet>
+      </Stylesheet>
+    </Stylesheet>
+  </Strings>
+</CatapultSkin>

@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Creating a Database Schema"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-09-01T23:43:42.2868630+05:30"
+  ImportTopicsLocation="Content/Tutorials/Scenarios/"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/">
+  <Files>
+    <Url
+      Source="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Creating a Database Schema"
+      AbsoluteSource="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Creating a Database Schema" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Database Schema/dhtml_search.htm"
+      TimeStamp="9/1/2018 11:43:34 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Database Schema/heading.htm"
+      TimeStamp="9/1/2018 11:43:34 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Database Schema/html_frameset.htm"
+      TimeStamp="9/1/2018 11:43:34 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Database Schema/index.htm"
+      TimeStamp="9/1/2018 11:43:34 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Database Schema/index_template.htm"
+      TimeStamp="9/1/2018 11:43:34 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Database Schema/tab_search.htm"
+      TimeStamp="9/1/2018 11:43:34 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Database Schema/tab_toc.htm"
+      TimeStamp="9/1/2018 11:43:34 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Database Schema/toc.htm"
+      TimeStamp="9/1/2018 11:43:34 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Database Schema/Change_schema_generation_options_Forward_Engineering.html"
+      TimeStamp="9/1/2018 11:43:34 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Database Schema/copyright.html"
+      TimeStamp="9/1/2018 11:43:35 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Database Schema/creating_a_database_schema.html"
+      TimeStamp="9/1/2018 11:43:35 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Database Schema/Introduction- Create a Database Schema.html"
+      TimeStamp="9/1/2018 11:43:35 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Database Schema/open_the_model_and_validate_it.html"
+      TimeStamp="9/1/2018 11:43:35 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Database Schema/Preview_the_schema_DDL_script_FE.html"
+      TimeStamp="9/1/2018 11:43:35 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Database Schema/Review_schema_generation_options_Forward_Engineering.html"
+      TimeStamp="9/1/2018 11:43:35 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Database Schema/save_an_option_set.html"
+      TimeStamp="9/1/2018 11:43:35 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Database Schema/Select_schema_generation_options_Forward_Engineering.html"
+      TimeStamp="9/1/2018 11:43:36 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Database Schema/use_custom_template_file.html"
+      TimeStamp="9/1/2018 11:43:36 PM" />
+    <Url
+      Source="../TOCs/Creating a Database Schema.fltoc"
+      TimeStamp="9/1/2018 11:43:41 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_search2.js"
+      TimeStamp="9/1/2018 8:38:32 PM" />
+    <Url
+      Source="../../Content/Resources/Images/diamond25.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/hyphen25.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/checkbox25.gif"
+      TimeStamp="6/20/2011 1:12:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/block25.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/docsstylesheet2.css"
+      TimeStamp="9/1/2018 11:43:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/erwin26.png"
+      TimeStamp="12/29/2016 10:51:25 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/stylesheet2.css"
+      TimeStamp="9/1/2018 11:43:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_center25.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_right25.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_left25.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_right25.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_left25.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_center25.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/space1x26.png"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/castyles2.css"
+      TimeStamp="9/1/2018 11:43:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/cbook25.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/topic25.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc4.css"
+      TimeStamp="9/1/2018 11:43:36 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_toc2.js"
+      TimeStamp="9/1/2018 8:38:17 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc5.css"
+      TimeStamp="9/1/2018 11:43:36 PM" />
+    <Url
+      Source="../../Content/Resources/highlight2.js"
+      TimeStamp="9/6/2012 8:49:46 PM" />
+    <Url
+      Source="../../Content/Resources/mailca2.js"
+      TimeStamp="12/2/2016 4:06:20 PM" />
+    <Url
+      Source="../../Content/Resources/open_parent2.js"
+      TimeStamp="2/6/2013 4:36:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/rgtgray24.png"
+      TimeStamp="9/1/2018 8:38:32 PM" />
+    <Url
+      Source="../../Content/Resources/Images/1427.png"
+      TimeStamp="9/1/2018 8:38:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8331.jpg"
+      TimeStamp="9/1/2018 8:38:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/lftgray26.png"
+      TimeStamp="9/1/2018 8:38:32 PM" />
+  </GeneratedFiles>
+</HtmlImport>

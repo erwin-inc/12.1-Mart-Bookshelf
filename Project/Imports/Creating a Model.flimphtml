@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Creating a Model"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-08-31T22:23:01.7655874+05:30"
+  ImportTopicsLocation="Content/Tutorials/Scenarios/"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/">
+  <Files>
+    <Url
+      Source="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Creating a Model"
+      AbsoluteSource="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Creating a Model" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/dhtml_search.htm"
+      TimeStamp="8/31/2018 10:22:47 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/heading.htm"
+      TimeStamp="8/31/2018 10:22:47 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/html_frameset.htm"
+      TimeStamp="8/31/2018 10:22:47 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/index.htm"
+      TimeStamp="8/31/2018 10:22:47 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/index_template.htm"
+      TimeStamp="8/31/2018 10:22:48 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/tab_search.htm"
+      TimeStamp="8/31/2018 10:22:48 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/tab_toc.htm"
+      TimeStamp="8/31/2018 10:22:48 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/toc.htm"
+      TimeStamp="8/31/2018 10:22:48 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/Add_an_Annotation.html"
+      TimeStamp="8/31/2018 10:22:48 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/Add_an_attribute_to_an_entity.html"
+      TimeStamp="8/31/2018 10:22:48 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/Add_an_Identifying_Relationship.html"
+      TimeStamp="8/31/2018 10:22:48 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/Add_a_domain_in_the_logical_edit_mode.html"
+      TimeStamp="8/31/2018 10:22:49 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/Add_a_domain_in_the_physical_edit_mode.html"
+      TimeStamp="8/31/2018 10:22:49 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/Add_a_New_Relationship_in_a_Physical_Model.html"
+      TimeStamp="8/31/2018 10:22:49 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/Add_a_Non_Identifying_Relationship.html"
+      TimeStamp="8/31/2018 10:22:49 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/Add_a_User-Defined_Property_to_a_Physical_Object.html"
+      TimeStamp="8/31/2018 10:22:49 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/Add_a_User_Defined_Property_to_a_Logical_Object.html"
+      TimeStamp="8/31/2018 10:22:49 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/Add_a_view.html"
+      TimeStamp="8/31/2018 10:22:50 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/add_entity.html"
+      TimeStamp="8/31/2018 10:22:50 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/add_model_objects.html"
+      TimeStamp="8/31/2018 10:22:50 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/copyright.html"
+      TimeStamp="8/31/2018 10:22:50 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/Create_a_New_Diagram.html"
+      TimeStamp="8/31/2018 10:22:50 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/Create_a_Subject_Area.html"
+      TimeStamp="8/31/2018 10:22:50 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/creating_model.html"
+      TimeStamp="8/31/2018 10:22:50 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/determine_the_method.html"
+      TimeStamp="8/31/2018 10:22:51 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/how_profiles_work.html"
+      TimeStamp="8/31/2018 10:22:51 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/Introduction- How to Create a Model.html"
+      TimeStamp="8/31/2018 10:22:51 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/live_permission_checking_mart.html"
+      TimeStamp="8/31/2018 10:22:51 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/mart_live_permissions.html"
+      TimeStamp="8/31/2018 10:22:51 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/review_the_prerequisites.html"
+      TimeStamp="8/31/2018 10:22:52 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/save_the_model.html"
+      TimeStamp="8/31/2018 10:22:52 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/select_template_for_mart_model.html"
+      TimeStamp="8/31/2018 10:22:52 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/Set_General_Model_Properties.html"
+      TimeStamp="8/31/2018 10:22:52 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Creating a Model/update_a_mart_model.html"
+      TimeStamp="8/31/2018 10:22:52 PM" />
+    <Url
+      Source="../TOCs/Creating a Model.fltoc"
+      TimeStamp="8/31/2018 10:23:00 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_search3.js"
+      TimeStamp="8/31/2018 9:51:13 PM" />
+    <Url
+      Source="../../Content/Resources/Images/diamond20.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/hyphen20.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/checkbox20.gif"
+      TimeStamp="6/20/2011 1:12:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/block20.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/docsstylesheet1.css"
+      TimeStamp="8/31/2018 10:22:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/erwin21.png"
+      TimeStamp="12/29/2016 10:51:25 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/stylesheet2.css"
+      TimeStamp="8/31/2018 10:22:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_center20.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_right20.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_left20.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_right20.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_left20.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_center20.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/space1x21.png"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/castyles2.css"
+      TimeStamp="8/31/2018 10:22:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/cbook20.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/topic20.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc3.css"
+      TimeStamp="8/31/2018 10:22:52 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_toc3.js"
+      TimeStamp="8/31/2018 9:51:00 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc1.css"
+      TimeStamp="8/31/2018 10:22:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/394.png"
+      TimeStamp="8/31/2018 9:51:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/1324.gif"
+      TimeStamp="8/31/2018 9:51:10 PM" />
+    <Url
+      Source="../../Content/Resources/highlight3.js"
+      TimeStamp="9/6/2012 8:49:46 PM" />
+    <Url
+      Source="../../Content/Resources/mailca3.js"
+      TimeStamp="12/2/2016 4:06:20 PM" />
+    <Url
+      Source="../../Content/Resources/open_parent3.js"
+      TimeStamp="2/6/2013 4:36:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/1031.gif"
+      TimeStamp="8/31/2018 9:51:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/1325.gif"
+      TimeStamp="8/31/2018 9:51:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/1330.gif"
+      TimeStamp="8/31/2018 9:51:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/1051.gif"
+      TimeStamp="8/31/2018 9:51:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/1344.png"
+      TimeStamp="8/31/2018 9:51:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/1345.png"
+      TimeStamp="8/31/2018 9:51:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/1326.gif"
+      TimeStamp="8/31/2018 9:51:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/rgtgray19.png"
+      TimeStamp="8/31/2018 9:51:13 PM" />
+    <Url
+      Source="../../Content/Resources/Images/1355.png"
+      TimeStamp="8/31/2018 9:51:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/798.png"
+      TimeStamp="8/31/2018 9:51:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/799.png"
+      TimeStamp="8/31/2018 9:51:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/800.png"
+      TimeStamp="8/31/2018 9:51:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8326.jpg"
+      TimeStamp="8/31/2018 9:51:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/lftgray21.png"
+      TimeStamp="8/31/2018 9:51:13 PM" />
+  </GeneratedFiles>
+</HtmlImport>

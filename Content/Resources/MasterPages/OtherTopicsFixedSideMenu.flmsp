@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title></title>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div>
+            <div id="contentBody">
+                <div>
+                    <div class="sideContent">
+                        <div>
+                            <MadCap:topicToolbarProxy />
+                        </div>
+                    </div>
+                    <MadCap:breadcrumbsProxy />
+                    <div class="ContentRow" xmlns="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+                        <div>
+                            <MadCap:bodyProxy />
+                        </div>
+                        <div>
+                            <MadCap:menuProxy style="mc-toc-depth: -1;mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" data-mc-skin="/Project/Skins/SideMenuFixed.flskn" mc-linked-toc="$topicHeadings" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

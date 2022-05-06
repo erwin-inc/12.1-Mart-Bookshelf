@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Data Modeler Release Notes"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/"
+  LastImport="2018-08-27T09:30:38.3656016+05:30"
+  ImportTopicsLocation="Content/Release Notes/">
+  <Files>
+    <Url
+      Source="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Data Modeler Release Notes"
+      AbsoluteSource="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Data Modeler Release Notes" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/dhtml_search.htm"
+      TimeStamp="8/27/2018 9:19:28 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/heading.htm"
+      TimeStamp="8/27/2018 9:19:29 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/html_frameset.htm"
+      TimeStamp="8/27/2018 9:19:29 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/index.htm"
+      TimeStamp="8/27/2018 9:19:29 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/index_template.htm"
+      TimeStamp="8/27/2018 9:19:29 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/tab_search.htm"
+      TimeStamp="8/27/2018 9:19:29 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/tab_toc.htm"
+      TimeStamp="8/27/2018 9:19:29 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/toc.htm"
+      TimeStamp="8/27/2018 9:19:30 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/.Net Requirement.html"
+      TimeStamp="8/27/2018 9:19:31 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/6933_1.html"
+      TimeStamp="8/27/2018 9:19:31 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/6940.html"
+      TimeStamp="8/27/2018 9:19:31 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Academic Edition.html"
+      TimeStamp="8/27/2018 9:19:31 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Administrative Privileges Required.html"
+      TimeStamp="8/27/2018 9:19:31 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Administrator Server System Requirements.html"
+      TimeStamp="8/27/2018 9:19:32 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/API Functions not Working for SAP ASE Mart.html"
+      TimeStamp="8/27/2018 9:19:32 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Attribute Highlight on Mouse Hover on Relationship.html"
+      TimeStamp="8/27/2018 9:19:32 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Client Workstation Requirements.html"
+      TimeStamp="8/27/2018 9:19:33 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/contact_customer_support.html"
+      TimeStamp="8/27/2018 9:19:33 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/copyright.html"
+      TimeStamp="8/27/2018 9:19:33 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/DBMS Requirements.html"
+      TimeStamp="8/27/2018 9:19:34 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Documentation.html"
+      TimeStamp="8/27/2018 9:19:34 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/DSM Logical to SQL Server 2012.html"
+      TimeStamp="8/27/2018 9:19:34 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/erwin Data Modeler and Mart Release Numbers.html"
+      TimeStamp="8/27/2018 9:19:35 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/erwin Data Modeler Editions.html"
+      TimeStamp="8/27/2018 9:19:35 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/erwin Data Modeler Navigator Edition Requirements.html"
+      TimeStamp="8/27/2018 9:19:35 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/erwin Data Modeler Workgroup Edition Requirements.html"
+      TimeStamp="8/27/2018 9:19:35 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Fixed Issues.html"
+      TimeStamp="8/27/2018 9:19:36 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/General Considerations for Using erwin Data Modeler Navigator Edition.html"
+      TimeStamp="8/27/2018 9:19:36 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/General Considerations for Using erwin Data Modeler Workgroup Edition.html"
+      TimeStamp="8/27/2018 9:19:36 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Generating Reports with Korean Characters in User Name.html"
+      TimeStamp="8/27/2018 9:19:37 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Help Files.html"
+      TimeStamp="8/27/2018 9:19:37 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Incorrect UDP in UDP Report.html"
+      TimeStamp="8/27/2018 9:19:37 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Installation Considerations for erwin Data Modeler Navigator Edition.html"
+      TimeStamp="8/27/2018 9:19:37 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Installation Considerations for erwin Data Modeler Workgroup Edition.html"
+      TimeStamp="8/27/2018 9:19:38 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Invalid Column Node for DB2 LUW Model in View Report.html"
+      TimeStamp="8/27/2018 9:19:38 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Issues Fixed in this Release.html"
+      TimeStamp="8/27/2018 9:19:38 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Known Issues.html"
+      TimeStamp="8/27/2018 9:19:39 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Limitations in Hive.html"
+      TimeStamp="8/27/2018 9:19:39 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Mart Server Name in Korean.html"
+      TimeStamp="8/27/2018 9:19:39 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Microsoft SQL Server 2005 onward Permissions.html"
+      TimeStamp="8/27/2018 9:19:40 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Model and Version Name Limit on Oracle.html"
+      TimeStamp="8/27/2018 9:19:40 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Model Display in the Difference Reconciliation Dialog.html"
+      TimeStamp="8/27/2018 9:19:40 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Navigator Edition.html"
+      TimeStamp="8/27/2018 9:19:40 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/New Features and Enhancements.html"
+      TimeStamp="8/27/2018 9:19:40 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Operating System Support.html"
+      TimeStamp="8/27/2018 9:19:41 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Owner Name not Displayed while Sorting a Guided Editor's list of Objects.html"
+      TimeStamp="8/27/2018 9:19:41 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/r9_reporting_appendix.html"
+      TimeStamp="8/27/2018 9:19:41 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Release Notes.html"
+      TimeStamp="8/27/2018 9:19:42 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Release Numbering Scheme in erwin Data Modeler.html"
+      TimeStamp="8/27/2018 9:19:42 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/release_numbers.html"
+      TimeStamp="8/27/2018 9:19:42 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Report Designer Functions for a Large Model.html"
+      TimeStamp="8/27/2018 9:19:43 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Report on Glossary Words Includes Extra Characters.html"
+      TimeStamp="8/27/2018 9:19:43 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Sample Model.html"
+      TimeStamp="8/27/2018 9:19:43 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Silent Install.html"
+      TimeStamp="8/27/2018 9:19:43 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Specify Use of Foreign Characters With Microsoft SQL Server.html"
+      TimeStamp="8/27/2018 9:19:44 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/SQL 1105 Error.html"
+      TimeStamp="8/27/2018 9:19:44 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Standard Edition.html"
+      TimeStamp="8/27/2018 9:19:44 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Subject Area Picture Report not Generated.html"
+      TimeStamp="8/27/2018 9:19:44 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Support for erwin Data Modeler Navigator Edition.html"
+      TimeStamp="8/27/2018 9:19:44 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Supported Target Databases.html"
+      TimeStamp="8/27/2018 9:19:45 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/System Information.html"
+      TimeStamp="8/27/2018 9:19:45 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/System Requirements.html"
+      TimeStamp="8/27/2018 9:19:45 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Technical Documentation Series.html"
+      TimeStamp="8/27/2018 9:19:45 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/tpsr.html"
+      TimeStamp="8/27/2018 9:19:46 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Unhandled Exception for Mart Upgrade Utility.html"
+      TimeStamp="8/27/2018 9:19:46 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Uninstalling erwin Data Modeler Workgroup Edition.html"
+      TimeStamp="8/27/2018 9:19:46 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Unwanted Result Rows in Report.html"
+      TimeStamp="8/27/2018 9:19:46 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Updating Profile Description from Notepad.html"
+      TimeStamp="8/27/2018 9:19:47 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Using Special Characters in Mart Administrator.html"
+      TimeStamp="8/27/2018 9:19:47 AM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/Workgroup Edition.html"
+      TimeStamp="8/27/2018 9:19:47 AM" />
+    <Url
+      Source="../TOCs/Data Modeler Release Notes.fltoc"
+      TimeStamp="8/27/2018 9:30:36 AM" />
+    <Url
+      Source="../../Content/Resources/dhtml_search3.js"
+      TimeStamp="8/24/2018 6:14:14 PM" />
+    <Url
+      Source="../../Content/Resources/Images/diamond9.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/hyphen9.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/checkbox9.gif"
+      TimeStamp="6/20/2011 1:12:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/block9.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/docsstylesheet1.css"
+      TimeStamp="8/27/2018 9:19:47 AM" />
+    <Url
+      Source="../../Content/Resources/Images/erwin9.png"
+      TimeStamp="12/29/2016 10:51:25 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/stylesheet1.css"
+      TimeStamp="8/27/2018 9:19:47 AM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_center9.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_right9.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_left9.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_right9.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_left9.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_center9.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/space1x10.png"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/castyles1.css"
+      TimeStamp="8/27/2018 9:19:47 AM" />
+    <Url
+      Source="../../Content/Resources/Images/cbook9.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/topic9.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_toc3.js"
+      TimeStamp="8/24/2018 6:13:55 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc1.css"
+      TimeStamp="8/27/2018 9:19:47 AM" />
+    <Url
+      Source="../../Content/Resources/highlight3.js"
+      TimeStamp="9/6/2012 8:49:46 PM" />
+    <Url
+      Source="../../Content/Resources/mailca3.js"
+      TimeStamp="12/2/2016 4:06:20 PM" />
+    <Url
+      Source="../../Content/Resources/open_parent3.js"
+      TimeStamp="2/6/2013 4:36:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8315.jpg"
+      TimeStamp="8/24/2018 6:14:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/lftgray10.png"
+      TimeStamp="8/24/2018 6:14:14 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8298.png"
+      TimeStamp="8/24/2018 6:14:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/390.png"
+      TimeStamp="8/24/2018 6:14:10 PM" />
+    <Url
+      Source="../../Content/Resources/O11G JDBC Driver.txt"
+      TimeStamp="5/29/2018 10:10:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/rgtgray10.png"
+      TimeStamp="8/24/2018 6:14:14 PM" />
+  </GeneratedFiles>
+</HtmlImport>

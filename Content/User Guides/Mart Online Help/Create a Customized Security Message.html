@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html lang="en" xmlns:madcap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title>Create a Customized Security Message</title>
+        <link href="..\..\Resources\StyleSheets\stylesheet.css" rel="stylesheet" type="text/css" />
+        <link href="..\..\Resources\StyleSheets\docsstylesheet.css" rel="stylesheet" type="text/css" />
+        <meta content="&lt;authorit:componentcd&gt;" name="componentcd" />
+        <meta content="8215" name="objectid" />
+        <meta content="249" name="basedOnKey" />
+        <!--metadata variables for XMD: translatable-->
+        <meta content="" name="description" />
+        <meta content="&lt;authorit:ca_keywords&gt;" name="keywords" />
+        <meta content="&lt;authorit:ca_content_type&gt;" name="ca_content_type" />
+        <meta content="&lt;authorit:ca_context&gt;" name="ca_context" />
+        <meta content="&lt;authorit:ca_role&gt;" name="ca_role" />
+        <meta content="en-US" name="ca_language" />
+        <!--metadata variables for XMD: do not translate-->
+        <meta content="&lt;authorit:ca_offering_name&gt;" name="ca_offering_name" />
+        <meta content="&lt;authorit:ca_product_version&gt;" name="ca_product_version" />
+        <meta content="&lt;authorit:ca_product_family&gt;" name="ca_product_family" />
+        <meta content="&lt;authorit:ca_alias_name&gt;" name="ca_alias_name" />
+        <meta content="&lt;authorit:ca_related_offering&gt;" name="ca_related_offering" />
+        <meta content="&lt;authorit:ca_access_level&gt;" name="ca_access_level" />
+        <meta content="8/13/2018T12:00-5:00" name="ca_date_time" />
+        <meta content="(supervisor)" name="ca_creator" />
+        <meta content="&lt;authorit:ca_source&gt;" name="ca_source" />
+        <meta content="HTML" name="ca_format" />
+        <meta content="&lt;authorit:ca_database&gt;" name="ca_database" />
+        <meta content="&lt;authorit:ca_application_server&gt;" name="ca_application_server" />
+        <meta content="&lt;authorit:ca_operating_system&gt;" name="ca_operating_system" />
+        <meta content="&lt;authorit:ca_star_code&gt;" name="ca_star_code" />
+        <meta content="&lt;authorit:ca_cms_id&gt;" name="ca_cms_id" />
+        <script language="javascript" type="text/javascript">
+        </script> <script language="javascript" type="text/javascript"></script> <script language="javascript" src="../../Resources/mailerwin.js" type="text/javascript"></script> <script language="javascript" type="text/javascript"></script></head>
+    <body onload="loadParent();highlightx();if (isTOCLoaded()) {highlight('8215')}">
+        <p class="bodytext">
+            <MadCap:concept term="User Guides" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        </p>
+        <h1 class="heading1" id="t8215">Create a Customized Security Message</h1>
+        <p class="bodytext">As the administrator, you can add a custom message on the Connect to Mart dialog. The message appears whenever one of the client applications (erwin Mart Server or erwin Mart Server Navigator Edition) connects to the mart. The message appears after your connection to the desired mart is authenticated and before the connection dialog closes.</p>
+        <p class="proceduresubheading">Follow these steps:</p>
+        <ol class="listnumber">
+            <li class="listnumber">After you install and configure the Mart, locate and open the <em class="italic">privacy.message</em> file.
+<p class="listcontinue">If you are using the default web server Tomcat, the file is available in the following folder:  <br /></p><pre xml:space="preserve">
+C:\Program Files\erwin\Mart Server r9\Tomcat64\<br />webapps\MartServer\WEB-INF\classes
+</pre></li>
+            <li class="listnumber">Type the message that you want to display and save the file.
+<p class="listcontinue">The message can be up to 2000 characters long, anything beyond 2000 characters is not displayed. Insert line-breaks manually after every 80 characters, for the message to display properly. If there are no manual line-breaks, Windows automatically inserts line-breaks in the security message. These line-breaks are based on the specific version of Windows you use.</p></li>
+            <li class="listnumber">From the Windows Start menu, click All Programs, erwin, erwin Mart Server <MadCap:variable name="General.VersionNumber" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> , Stop MartServer Service to stop the web server. 
+</li>
+            <li class="listnumber">From the Windows Start menu, click All Programs, erwin, erwin Mart Server <MadCap:variable name="General.VersionNumber" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> , Start MartServer Service to start the web server again. 
+<p class="listcontinue">When a user connects to the Mart the next time, the security message is displayed.</p></li>
+        </ol>
+        <p class="bodytext">To suppress the security message, open the privacy.message file and delete the contents. Do not delete the file.</p>
+        <p>
+        </p>
+    </body>
+</html>

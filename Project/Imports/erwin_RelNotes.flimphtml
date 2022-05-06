@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="true"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Author-it/Publishing/HTML for Bookshelf/erwin_RelNotes"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-07-17T12:08:10.8844425+05:30"
+  ImportTopicsLocation="Content/Release Notes/Data Modeler/"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/">
+  <Files>
+    <Url
+      Source="file:///D:/Author-it/Publishing/HTML for Bookshelf/erwin_RelNotes"
+      AbsoluteSource="file:///D:/Author-it/Publishing/HTML for Bookshelf/erwin_RelNotes" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/dhtml_search.htm"
+      TimeStamp="7/17/2018 12:06:59 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/heading.htm"
+      TimeStamp="7/17/2018 12:06:59 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/html_frameset.htm"
+      TimeStamp="7/17/2018 12:06:59 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/index.htm"
+      TimeStamp="7/17/2018 12:06:59 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/index_template.htm"
+      TimeStamp="7/17/2018 12:06:59 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/tab_search.htm"
+      TimeStamp="7/17/2018 12:06:59 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/tab_toc.htm"
+      TimeStamp="7/17/2018 12:06:59 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/toc.htm"
+      TimeStamp="7/17/2018 12:07:00 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/5926.html"
+      TimeStamp="7/17/2018 12:07:00 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/5927.html"
+      TimeStamp="7/17/2018 12:07:00 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6583.html"
+      TimeStamp="7/17/2018 12:07:00 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6901.html"
+      TimeStamp="7/17/2018 12:07:00 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6902.html"
+      TimeStamp="7/17/2018 12:07:00 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6903.html"
+      TimeStamp="7/17/2018 12:07:01 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6905.html"
+      TimeStamp="7/17/2018 12:07:01 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6912.html"
+      TimeStamp="7/17/2018 12:07:01 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6913.html"
+      TimeStamp="7/17/2018 12:07:01 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6915.html"
+      TimeStamp="7/17/2018 12:07:01 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6919.html"
+      TimeStamp="7/17/2018 12:07:01 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6920.html"
+      TimeStamp="7/17/2018 12:07:01 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6921.html"
+      TimeStamp="7/17/2018 12:07:02 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6922.html"
+      TimeStamp="7/17/2018 12:07:02 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6923.html"
+      TimeStamp="7/17/2018 12:07:02 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6924.html"
+      TimeStamp="7/17/2018 12:07:02 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6925.html"
+      TimeStamp="7/17/2018 12:07:02 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6926.html"
+      TimeStamp="7/17/2018 12:07:02 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6927.html"
+      TimeStamp="7/17/2018 12:07:02 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6929.html"
+      TimeStamp="7/17/2018 12:07:02 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6930.html"
+      TimeStamp="7/17/2018 12:07:03 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6931.html"
+      TimeStamp="7/17/2018 12:07:03 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6933.html"
+      TimeStamp="7/17/2018 12:07:03 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6933_1.html"
+      TimeStamp="7/17/2018 12:07:03 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6934.html"
+      TimeStamp="7/17/2018 12:07:03 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6935.html"
+      TimeStamp="7/17/2018 12:07:03 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6936.html"
+      TimeStamp="7/17/2018 12:07:03 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6939.html"
+      TimeStamp="7/17/2018 12:07:03 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6940.html"
+      TimeStamp="7/17/2018 12:07:04 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/6941.html"
+      TimeStamp="7/17/2018 12:07:04 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/7142.html"
+      TimeStamp="7/17/2018 12:07:04 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/7143.html"
+      TimeStamp="7/17/2018 12:07:04 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/7144.html"
+      TimeStamp="7/17/2018 12:07:04 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/7146.html"
+      TimeStamp="7/17/2018 12:07:04 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/7147.html"
+      TimeStamp="7/17/2018 12:07:05 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/7149.html"
+      TimeStamp="7/17/2018 12:07:05 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/7150.html"
+      TimeStamp="7/17/2018 12:07:05 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/7151.html"
+      TimeStamp="7/17/2018 12:07:05 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/7152.html"
+      TimeStamp="7/17/2018 12:07:05 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/7153.html"
+      TimeStamp="7/17/2018 12:07:05 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/7154.html"
+      TimeStamp="7/17/2018 12:07:05 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/7155.html"
+      TimeStamp="7/17/2018 12:07:05 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/7156.html"
+      TimeStamp="7/17/2018 12:07:05 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/7157.html"
+      TimeStamp="7/17/2018 12:07:06 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/7158.html"
+      TimeStamp="7/17/2018 12:07:06 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/7159.html"
+      TimeStamp="7/17/2018 12:07:06 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/7196.html"
+      TimeStamp="7/17/2018 12:07:06 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/7199.html"
+      TimeStamp="7/17/2018 12:07:06 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/7201.html"
+      TimeStamp="7/17/2018 12:07:06 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/7245.html"
+      TimeStamp="7/17/2018 12:07:07 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/8103.html"
+      TimeStamp="7/17/2018 12:07:07 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/8140.html"
+      TimeStamp="7/17/2018 12:07:07 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/8141.html"
+      TimeStamp="7/17/2018 12:07:07 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/8217.html"
+      TimeStamp="7/17/2018 12:07:07 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/8218.html"
+      TimeStamp="7/17/2018 12:07:08 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/8219.html"
+      TimeStamp="7/17/2018 12:07:08 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/8306.html"
+      TimeStamp="7/17/2018 12:07:08 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/contact_customer_support.html"
+      TimeStamp="7/17/2018 12:07:08 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/copyright.html"
+      TimeStamp="7/17/2018 12:07:08 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/r9_reporting_appendix.html"
+      TimeStamp="7/17/2018 12:07:09 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/release_numbers.html"
+      TimeStamp="7/17/2018 12:07:09 PM" />
+    <Url
+      Source="../../Content/Release Notes/Data Modeler/erwin_RelNotes/tpsr.html"
+      TimeStamp="7/17/2018 12:07:09 PM" />
+    <Url
+      Source="../TOCs/erwin_RelNotes.fltoc"
+      TimeStamp="7/17/2018 12:08:07 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_search.js"
+      TimeStamp="5/29/2018 5:04:19 PM" />
+    <Url
+      Source="../../Content/Resources/Images/diamond.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/hyphen.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/checkbox.gif"
+      TimeStamp="6/20/2011 1:12:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/block.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/docsstylesheet.css"
+      TimeStamp="7/17/2018 12:07:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/erwin.png"
+      TimeStamp="12/29/2016 10:51:25 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/stylesheet.css"
+      TimeStamp="7/17/2018 12:07:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_center.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_right.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_left.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_right.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_left.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_center.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/space1x1.png"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/castyles.css"
+      TimeStamp="7/17/2018 12:07:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/cbook.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/topic.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc2.css"
+      TimeStamp="7/17/2018 12:07:09 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_toc.js"
+      TimeStamp="5/29/2018 5:04:09 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc.css"
+      TimeStamp="7/17/2018 12:07:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/573.png"
+      TimeStamp="5/29/2018 5:04:19 PM" />
+    <Url
+      Source="../../Content/Resources/Images/574.png"
+      TimeStamp="5/29/2018 5:04:19 PM" />
+    <Url
+      Source="../../Content/Resources/highlight.js"
+      TimeStamp="9/6/2012 8:49:46 PM" />
+    <Url
+      Source="../../Content/Resources/mailca.js"
+      TimeStamp="12/2/2016 4:06:20 PM" />
+    <Url
+      Source="../../Content/Resources/open_parent.js"
+      TimeStamp="2/6/2013 4:36:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/382.png"
+      TimeStamp="5/29/2018 5:04:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8304.jpg"
+      TimeStamp="5/29/2018 5:04:16 PM" />
+    <Url
+      Source="../../Content/Resources/Images/lftgray.png"
+      TimeStamp="5/29/2018 5:04:19 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8285.png"
+      TimeStamp="5/29/2018 5:04:16 PM" />
+    <Url
+      Source="../../Content/Resources/Images/rgtgray.png"
+      TimeStamp="5/29/2018 5:04:19 PM" />
+  </GeneratedFiles>
+</HtmlImport>

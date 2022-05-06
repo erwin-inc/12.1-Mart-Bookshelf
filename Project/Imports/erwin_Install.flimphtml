@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Documentation/ProjectRevamp/MadCapFlare/RenamedFileNames/AIT Files/erwin_Install"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-07-25T09:40:40.4576065+05:30"
+  ImportTopicsLocation="Content/Installation/Installation/"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/">
+  <Files>
+    <Url
+      Source="file:///D:/Documentation/ProjectRevamp/MadCapFlare/RenamedFileNames/AIT Files/erwin_Install"
+      AbsoluteSource="file:///D:/Documentation/ProjectRevamp/MadCapFlare/RenamedFileNames/AIT Files/erwin_Install" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Installation/Installation/erwin_Install/dhtml_search.htm"
+      TimeStamp="7/25/2018 9:40:10 AM" />
+    <Url
+      Source="../../Content/Installation/Installation/erwin_Install/heading.htm"
+      TimeStamp="7/25/2018 9:40:10 AM" />
+    <Url
+      Source="../../Content/Installation/Installation/erwin_Install/html_frameset.htm"
+      TimeStamp="7/25/2018 9:40:11 AM" />
+    <Url
+      Source="../../Content/Installation/Installation/erwin_Install/index.htm"
+      TimeStamp="7/25/2018 9:40:11 AM" />
+    <Url
+      Source="../../Content/Installation/Installation/erwin_Install/index_template.htm"
+      TimeStamp="7/25/2018 9:40:11 AM" />
+    <Url
+      Source="../../Content/Installation/Installation/erwin_Install/tab_search.htm"
+      TimeStamp="7/25/2018 9:40:11 AM" />
+    <Url
+      Source="../../Content/Installation/Installation/erwin_Install/tab_toc.htm"
+      TimeStamp="7/25/2018 9:40:11 AM" />
+    <Url
+      Source="../../Content/Installation/Installation/erwin_Install/toc.htm"
+      TimeStamp="7/25/2018 9:40:11 AM" />
+    <Url
+      Source="../../Content/Installation/Installation/erwin_Install/Activate_License.html"
+      TimeStamp="7/25/2018 9:40:12 AM" />
+    <Url
+      Source="../../Content/Installation/Installation/erwin_Install/contact_customer_support.html"
+      TimeStamp="7/25/2018 9:40:12 AM" />
+    <Url
+      Source="../../Content/Installation/Installation/erwin_Install/copyright.html"
+      TimeStamp="7/25/2018 9:40:12 AM" />
+    <Url
+      Source="../../Content/Installation/Installation/erwin_Install/erwinÂ® Data Modeler Product References - erwin.html"
+      TimeStamp="7/25/2018 9:40:12 AM" />
+    <Url
+      Source="../../Content/Installation/Installation/erwin_Install/Install and Upgrade Considerations for erwin Data Modeler.html"
+      TimeStamp="7/25/2018 9:40:12 AM" />
+    <Url
+      Source="../../Content/Installation/Installation/erwin_Install/Installation Guide.html"
+      TimeStamp="7/25/2018 9:40:12 AM" />
+    <Url
+      Source="../../Content/Installation/Installation/erwin_Install/Installation.html"
+      TimeStamp="7/25/2018 9:40:13 AM" />
+    <Url
+      Source="../../Content/Installation/Installation/erwin_Install/Installingerwin.html"
+      TimeStamp="7/25/2018 9:40:13 AM" />
+    <Url
+      Source="../../Content/Installation/Installation/erwin_Install/install_erwin.html"
+      TimeStamp="7/25/2018 9:40:13 AM" />
+    <Url
+      Source="../../Content/Installation/Installation/erwin_Install/Licensing.html"
+      TimeStamp="7/25/2018 9:40:13 AM" />
+    <Url
+      Source="../../Content/Installation/Installation/erwin_Install/Obtain_a_License.html"
+      TimeStamp="7/25/2018 9:40:13 AM" />
+    <Url
+      Source="../../Content/Installation/Installation/erwin_Install/review_system_requirements.html"
+      TimeStamp="7/25/2018 9:40:14 AM" />
+    <Url
+      Source="../../Content/Installation/Installation/erwin_Install/Understand_Licensing.html"
+      TimeStamp="7/25/2018 9:40:14 AM" />
+    <Url
+      Source="../TOCs/erwin_Install.fltoc"
+      TimeStamp="7/25/2018 9:40:37 AM" />
+    <Url
+      Source="../../Content/Resources/dhtml_search4.js"
+      TimeStamp="7/25/2018 9:28:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/diamond4.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/hyphen4.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/checkbox4.gif"
+      TimeStamp="6/20/2011 1:12:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/block4.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/docsstylesheet4.css"
+      TimeStamp="7/25/2018 9:40:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/erwin4.png"
+      TimeStamp="12/29/2016 10:51:25 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/stylesheet4.css"
+      TimeStamp="7/25/2018 9:40:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_center4.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_right4.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_left4.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_right4.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_left4.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_center4.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/space1x5.png"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/castyles4.css"
+      TimeStamp="7/25/2018 9:40:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/cbook4.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/topic4.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc8.css"
+      TimeStamp="7/25/2018 9:40:14 AM" />
+    <Url
+      Source="../../Content/Resources/dhtml_toc4.js"
+      TimeStamp="7/25/2018 9:27:58 AM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc9.css"
+      TimeStamp="7/25/2018 9:40:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/8306.png"
+      TimeStamp="7/25/2018 9:28:15 AM" />
+    <Url
+      Source="../../Content/Resources/Images/8290.png"
+      TimeStamp="7/25/2018 9:28:15 AM" />
+    <Url
+      Source="../../Content/Resources/Images/rgtgray4.png"
+      TimeStamp="7/25/2018 9:28:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/581.png"
+      TimeStamp="7/25/2018 9:28:18 AM" />
+    <Url
+      Source="../../Content/Resources/highlight4.js"
+      TimeStamp="9/6/2012 8:49:46 PM" />
+    <Url
+      Source="../../Content/Resources/mailca4.js"
+      TimeStamp="12/2/2016 4:06:20 PM" />
+    <Url
+      Source="../../Content/Resources/open_parent4.js"
+      TimeStamp="2/6/2013 4:36:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/582.png"
+      TimeStamp="7/25/2018 9:28:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/8308.jpg"
+      TimeStamp="7/25/2018 9:28:12 AM" />
+    <Url
+      Source="../../Content/Resources/Images/lftgray4.png"
+      TimeStamp="7/25/2018 9:28:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/8052.png"
+      TimeStamp="7/25/2018 9:28:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/386.png"
+      TimeStamp="7/25/2018 9:28:15 AM" />
+  </GeneratedFiles>
+</HtmlImport>

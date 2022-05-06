@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Upgrading Mart"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-09-03T16:30:11.9315045+05:30"
+  ImportTopicsLocation="Content/Tutorials/Scenarios/"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/">
+  <Files>
+    <Url
+      Source="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Upgrading Mart"
+      AbsoluteSource="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Upgrading Mart" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/dhtml_search.htm"
+      TimeStamp="9/3/2018 4:29:08 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/heading.htm"
+      TimeStamp="9/3/2018 4:29:08 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/html_frameset.htm"
+      TimeStamp="9/3/2018 4:29:08 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/index.htm"
+      TimeStamp="9/3/2018 4:29:08 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/index_template.htm"
+      TimeStamp="9/3/2018 4:29:09 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/tab_search.htm"
+      TimeStamp="9/3/2018 4:29:09 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/tab_toc.htm"
+      TimeStamp="9/3/2018 4:29:09 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/toc.htm"
+      TimeStamp="9/3/2018 4:29:09 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/copyright.html"
+      TimeStamp="9/3/2018 4:29:09 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/Introduction- How to Upgrade Mart Models.html"
+      TimeStamp="9/3/2018 4:29:09 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/license_error.html"
+      TimeStamp="9/3/2018 4:29:10 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/log_files.html"
+      TimeStamp="9/3/2018 4:29:10 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/Paper Size Considerations When You Upgrade to This Release.html"
+      TimeStamp="9/3/2018 4:29:10 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/review_the_prerequisites.html"
+      TimeStamp="9/3/2018 4:29:10 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/select_destination_mart_details.html"
+      TimeStamp="9/3/2018 4:29:10 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/select_models.html"
+      TimeStamp="9/3/2018 4:29:10 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/select_source_details.html"
+      TimeStamp="9/3/2018 4:29:11 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/select_upgrade_data.html"
+      TimeStamp="9/3/2018 4:29:11 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/select_upgrade_options.html"
+      TimeStamp="9/3/2018 4:29:11 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/select_working_directory.html"
+      TimeStamp="9/3/2018 4:29:11 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/source_connection_failed.html"
+      TimeStamp="9/3/2018 4:29:11 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/troubleshooting.html"
+      TimeStamp="9/3/2018 4:29:11 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/unable_select_upgrade_models.html"
+      TimeStamp="9/3/2018 4:29:12 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/upgrading_mart.html"
+      TimeStamp="9/3/2018 4:29:12 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Upgrading Mart/view_migration_status.html"
+      TimeStamp="9/3/2018 4:29:12 PM" />
+    <Url
+      Source="../TOCs/Upgrading Mart.fltoc"
+      TimeStamp="9/3/2018 4:30:11 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_search1.js"
+      TimeStamp="9/3/2018 4:25:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/diamond30.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/hyphen30.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/checkbox30.gif"
+      TimeStamp="6/20/2011 1:12:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/block30.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/docsstylesheet1.css"
+      TimeStamp="9/3/2018 4:29:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/erwin31.png"
+      TimeStamp="12/29/2016 10:51:25 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/stylesheet1.css"
+      TimeStamp="9/3/2018 4:29:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_center30.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_right30.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_left30.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_right30.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_left30.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_center30.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/space1x31.png"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/castyles1.css"
+      TimeStamp="9/3/2018 4:29:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/cbook30.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/topic30.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc3.css"
+      TimeStamp="9/3/2018 4:29:12 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_toc1.js"
+      TimeStamp="9/3/2018 4:24:56 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc1.css"
+      TimeStamp="9/3/2018 4:29:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/rgtgray29.png"
+      TimeStamp="9/3/2018 4:25:04 PM" />
+    <Url
+      Source="../../Content/Resources/highlight1.js"
+      TimeStamp="9/6/2012 8:49:46 PM" />
+    <Url
+      Source="../../Content/Resources/mailca1.js"
+      TimeStamp="12/2/2016 4:06:20 PM" />
+    <Url
+      Source="../../Content/Resources/open_parent1.js"
+      TimeStamp="2/6/2013 4:36:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8335.jpg"
+      TimeStamp="9/3/2018 4:25:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/lftgray31.png"
+      TimeStamp="9/3/2018 4:25:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/404.png"
+      TimeStamp="9/3/2018 4:25:02 PM" />
+    <Url
+      Source="../../Content/Resources/Images/3386.png"
+      TimeStamp="9/3/2018 4:25:01 PM" />
+  </GeneratedFiles>
+</HtmlImport>

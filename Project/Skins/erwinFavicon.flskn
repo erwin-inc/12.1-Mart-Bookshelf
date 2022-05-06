@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="3"
+  SkinType="Component"
+  Comment="HTML5 Favicon skin"
+  ComponentType="Favicon">
+  <Stylesheet>
+    <Resources>
+      <Resource
+        Name="erwin.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0gogzMEMJF2WdB0DUizpjr6ODAwb+7n/JLIC+YzFQe5ODOvOybwEqUz2CPJlYKhSY2BoaGFg+AUUanjBwFBqwMDwKoGBwWoGA4N4wZxdgTZAfV8DfEJc1dTziEQ6ukV29nVBwd3hEf2ubs3GJuXqGvkamvlGxmU2trVa2oWmZhUVFUv37r388OHrjx+/ffn648WL9+fO3Zs+faeHZ2tJ6aIVK4/OnLnbzLwiIXHq8uVHLl584OLaFBDYdfjw9Z8/f//79+/t289Xrjy6cOH+8+fvf//+8+DBK22dwv///z99+s7Bsd7apmbhwgMfP3599frjtWtPXr36OGHCVj//zsrKpTduPv33/39p2WL/gK5t28/9/fv3168/d++93L79/Jw5e62ta8wtKo8cufHs2bv09JkamgU+vu3nzt+/f/+lp1fr8xfv1649cfv286qqZVraBQ2Nq2pqVyQlT/vw8euMGbu+fft5/vx9dY08fYMSXb3iffuuXL36+PXrj9HRE+cv2D9t+s4PH74GBnUvWXJIU6sgMmrC168/T5++8/37r5jYSZlZs6OiJ75///X160+eXm3ePu1v3nxauOiAvUO9iWn5+Qv3jx27aWhUOmXqjq9ff+Tkzr158+n1G0/b29dNnbojNXVGW/s6J+dGS6uqtPSZ+/Zd/vHj15cvP3Lz5qWmzbhx4+mfP38fPXp96PD11auPv3z5ob1j/eTJ269ff/L58/e/f//df/Bq6dLDwSE9ixcfunv3haVVdVnZ4traFbFxk0NCe3VeaUiDklhJkF8wg8aCt69Vj/w9qD57r4ouo5wrKEklebu7mLnv77gI5HAWeEQWA2kPMHY7mW0HVLDB08UxxOL02smv7S8Xihzfv83wWHrE/rV38u/HtMmfnbM2IMQo9cTcQ+cnRPtOvLNMbZeHkuZ2jdb9l5vPpn27ZfOxruoe/7mfc4oluCeeFGRo1ZmycYKBKtMinv6ETQqlDiuTilhczxUwTldfsTg5yTScZf6ssPKvs6I7uv09fLz8PH29xRkUmuPPt1hpW5u6vxcq+vzpaNMh6TalixLxPA2TT9Z8DuMMzLSSaLhjtKt2uY3f8vU7qvVf7mMoMAq1W7EpxL4mhJktInvlun+GDAsWTpw1i9FPd+20bd9e8IVP9u/6ND/rbm1pWeddJovIJfOKZld33Ys6tXGe2b3r/ufXPHBhbp5naMom9eqrgY/y+YOdcTdsD73wNtr3KWHJxsKCTXu+sZkqXpS+LDnL7WBm0Sltn/MX1vzk4TO1mHkmLvGd7t7iX8/ea3N8fvSbNf9fmT3jL9dfAo/jJr97vNzS/uC3mw7HlurXbnv0dL32/bDrf1gy9q/vtjer++cVMSWj+PRLfYZfb+feva/iVf27/g3DPy/2vmJ25T/df+sjCp8UPF0+0yIs/p8vm5jIwddd3fH6JjY3Pru5GYot5Przb5VGGZPEzga1nfk1R4GRqFriGlGSkliSapVclAqkGIwMDM10DSx0jcxCDM2sDC2tTIy1DQysDAyMw+31UTTk5qdkplXi1uDE1T4ZqIHB09XPZZ1TQhMA6qUc0tAEAAA=</Resource>
+    </Resources>
+  </Stylesheet>
+  <Master
+    Image="erwin.png" />
+  <Browser>
+    <SmallFavicon
+      Image="(generated)"
+      SizePx="16 px" />
+    <MediumFavicon
+      Image="(generated)"
+      SizePx="32 px" />
+    <LargeFavicon
+      Image="(none)"
+      SizePx="" />
+  </Browser>
+  <ShortcutIcon
+    Image="(generated)" />
+  <Touch>
+    <TouchIcon
+      Image="(none)"
+      SizePx="" />
+  </Touch>
+  <Windows>
+    <MicrosoftSmallTile
+      Image="(none)" />
+    <MicrosoftMediumTile
+      Image="(none)" />
+    <MicrosoftWideTile
+      Image="(none)" />
+    <MicrosoftLargeTile
+      Image="(none)" />
+  </Windows>
+  <Strings />
+</CatapultSkin>

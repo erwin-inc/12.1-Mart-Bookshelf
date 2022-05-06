@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Template Language and Macro Reference"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-08-30T12:10:15.3488765+05:30"
+  ImportTopicsLocation="Content/References/"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/">
+  <Files>
+    <Url
+      Source="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Template Language and Macro Reference"
+      AbsoluteSource="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Template Language and Macro Reference" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/References/Template Language and Macro Reference/dhtml_search.htm"
+      TimeStamp="8/30/2018 12:09:28 PM" />
+    <Url
+      Source="../../Content/References/Template Language and Macro Reference/heading.htm"
+      TimeStamp="8/30/2018 12:09:28 PM" />
+    <Url
+      Source="../../Content/References/Template Language and Macro Reference/html_frameset.htm"
+      TimeStamp="8/30/2018 12:09:28 PM" />
+    <Url
+      Source="../../Content/References/Template Language and Macro Reference/index.htm"
+      TimeStamp="8/30/2018 12:09:28 PM" />
+    <Url
+      Source="../../Content/References/Template Language and Macro Reference/index_template.htm"
+      TimeStamp="8/30/2018 12:09:28 PM" />
+    <Url
+      Source="../../Content/References/Template Language and Macro Reference/tab_search.htm"
+      TimeStamp="8/30/2018 12:09:29 PM" />
+    <Url
+      Source="../../Content/References/Template Language and Macro Reference/tab_toc.htm"
+      TimeStamp="8/30/2018 12:09:29 PM" />
+    <Url
+      Source="../../Content/References/Template Language and Macro Reference/toc.htm"
+      TimeStamp="8/30/2018 12:09:29 PM" />
+    <Url
+      Source="../../Content/References/Template Language and Macro Reference/contact_customer_support.html"
+      TimeStamp="8/30/2018 12:09:29 PM" />
+    <Url
+      Source="../../Content/References/Template Language and Macro Reference/copyright.html"
+      TimeStamp="8/30/2018 12:09:29 PM" />
+    <Url
+      Source="../../Content/References/Template Language and Macro Reference/Forward Engineering Macros.html"
+      TimeStamp="8/30/2018 12:09:30 PM" />
+    <Url
+      Source="../../Content/References/Template Language and Macro Reference/Macro Overview.html"
+      TimeStamp="8/30/2018 12:09:30 PM" />
+    <Url
+      Source="../../Content/References/Template Language and Macro Reference/Standard Macros.html"
+      TimeStamp="8/30/2018 12:09:37 PM" />
+    <Url
+      Source="../../Content/References/Template Language and Macro Reference/Template Language and Macro Reference Guide.html"
+      TimeStamp="8/30/2018 12:09:37 PM" />
+    <Url
+      Source="../../Content/References/Template Language and Macro Reference/Template Language and Macro Reference.html"
+      TimeStamp="8/30/2018 12:09:38 PM" />
+    <Url
+      Source="../../Content/References/Template Language and Macro Reference/TLX Expansion.html"
+      TimeStamp="8/30/2018 12:09:38 PM" />
+    <Url
+      Source="../../Content/References/Template Language and Macro Reference/TLX Syntax.html"
+      TimeStamp="8/30/2018 12:09:38 PM" />
+    <Url
+      Source="../TOCs/Template Language and Macro Reference.fltoc"
+      TimeStamp="8/30/2018 12:10:13 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_search1.js"
+      TimeStamp="8/30/2018 11:19:29 AM" />
+    <Url
+      Source="../../Content/Resources/Images/diamond15.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/hyphen15.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/checkbox15.gif"
+      TimeStamp="6/20/2011 1:12:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/block15.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/docsstylesheet1.css"
+      TimeStamp="8/30/2018 12:09:38 PM" />
+    <Url
+      Source="../../Content/Resources/Images/erwin15.png"
+      TimeStamp="12/29/2016 10:51:25 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/stylesheet1.css"
+      TimeStamp="8/30/2018 12:09:38 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_center15.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_right15.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_left15.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_right15.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_left15.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_center15.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/space1x16.png"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/castyles1.css"
+      TimeStamp="8/30/2018 12:09:38 PM" />
+    <Url
+      Source="../../Content/Resources/Images/cbook15.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/topic15.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc3.css"
+      TimeStamp="8/30/2018 12:09:38 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_toc1.js"
+      TimeStamp="8/30/2018 11:18:11 AM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc1.css"
+      TimeStamp="8/30/2018 12:09:38 PM" />
+    <Url
+      Source="../../Content/Resources/highlight1.js"
+      TimeStamp="9/6/2012 8:49:46 PM" />
+    <Url
+      Source="../../Content/Resources/mailca1.js"
+      TimeStamp="12/2/2016 4:06:20 PM" />
+    <Url
+      Source="../../Content/Resources/open_parent1.js"
+      TimeStamp="2/6/2013 4:36:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/6985.png"
+      TimeStamp="8/30/2018 11:19:28 AM" />
+    <Url
+      Source="../../Content/Resources/Images/rgtgray14.png"
+      TimeStamp="8/30/2018 11:19:30 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3626.png"
+      TimeStamp="8/30/2018 11:19:28 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3615.png"
+      TimeStamp="8/30/2018 11:19:28 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3613.png"
+      TimeStamp="8/30/2018 11:19:28 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3604.png"
+      TimeStamp="8/30/2018 11:19:28 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3600.png"
+      TimeStamp="8/30/2018 11:19:28 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3598.png"
+      TimeStamp="8/30/2018 11:19:27 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3591.png"
+      TimeStamp="8/30/2018 11:19:27 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3585.png"
+      TimeStamp="8/30/2018 11:19:27 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3578.png"
+      TimeStamp="8/30/2018 11:19:27 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3574.png"
+      TimeStamp="8/30/2018 11:19:27 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3571.png"
+      TimeStamp="8/30/2018 11:19:27 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3527.png"
+      TimeStamp="8/30/2018 11:19:27 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3524.png"
+      TimeStamp="8/30/2018 11:19:27 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3521.png"
+      TimeStamp="8/30/2018 11:19:27 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3512.png"
+      TimeStamp="8/30/2018 11:19:27 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3511.png"
+      TimeStamp="8/30/2018 11:19:27 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3510.png"
+      TimeStamp="8/30/2018 11:19:27 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3508.png"
+      TimeStamp="8/30/2018 11:19:27 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3504.png"
+      TimeStamp="8/30/2018 11:19:27 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3500.png"
+      TimeStamp="8/30/2018 11:19:27 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3498.png"
+      TimeStamp="8/30/2018 11:19:27 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3495.png"
+      TimeStamp="8/30/2018 11:19:27 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3488.png"
+      TimeStamp="8/30/2018 11:19:27 AM" />
+    <Url
+      Source="../../Content/Resources/Images/3478.png"
+      TimeStamp="8/30/2018 11:19:27 AM" />
+    <Url
+      Source="../../Content/Resources/Images/8321.jpg"
+      TimeStamp="8/30/2018 11:19:21 AM" />
+    <Url
+      Source="../../Content/Resources/Images/lftgray16.png"
+      TimeStamp="8/30/2018 11:19:30 AM" />
+    <Url
+      Source="../../Content/Resources/Images/6960.png"
+      TimeStamp="8/30/2018 11:19:22 AM" />
+    <Url
+      Source="../../Content/Resources/Images/6959.png"
+      TimeStamp="8/30/2018 11:19:22 AM" />
+  </GeneratedFiles>
+</HtmlImport>

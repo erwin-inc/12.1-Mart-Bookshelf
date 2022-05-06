@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html lang="en" xmlns:madcap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title>How Profiles Work</title>
+        <link href="..\..\Resources\StyleSheets\stylesheet.css" rel="stylesheet" type="text/css" />
+        <link href="..\..\Resources\StyleSheets\docsstylesheet.css" rel="stylesheet" type="text/css" />
+        <meta content="&lt;authorit:componentcd&gt;" name="componentcd" />
+        <meta content="791" name="objectid" />
+        <meta content="260" name="basedOnKey" />
+        <!--metadata variables for XMD: translatable-->
+        <meta content="" name="description" />
+        <meta content="&lt;authorit:ca_keywords&gt;" name="keywords" />
+        <meta content="&lt;authorit:ca_content_type&gt;" name="ca_content_type" />
+        <meta content="&lt;authorit:ca_context&gt;" name="ca_context" />
+        <meta content="&lt;authorit:ca_role&gt;" name="ca_role" />
+        <meta content="en-US" name="ca_language" />
+        <!--metadata variables for XMD: do not translate-->
+        <meta content="&lt;authorit:ca_offering_name&gt;" name="ca_offering_name" />
+        <meta content="&lt;authorit:ca_product_version&gt;" name="ca_product_version" />
+        <meta content="&lt;authorit:ca_product_family&gt;" name="ca_product_family" />
+        <meta content="&lt;authorit:ca_alias_name&gt;" name="ca_alias_name" />
+        <meta content="&lt;authorit:ca_related_offering&gt;" name="ca_related_offering" />
+        <meta content="&lt;authorit:ca_access_level&gt;" name="ca_access_level" />
+        <meta content="8/13/2018T12:00-5:00" name="ca_date_time" />
+        <meta content="(supervisor)" name="ca_creator" />
+        <meta content="&lt;authorit:ca_source&gt;" name="ca_source" />
+        <meta content="HTML" name="ca_format" />
+        <meta content="&lt;authorit:ca_database&gt;" name="ca_database" />
+        <meta content="&lt;authorit:ca_application_server&gt;" name="ca_application_server" />
+        <meta content="&lt;authorit:ca_operating_system&gt;" name="ca_operating_system" />
+        <meta content="&lt;authorit:ca_star_code&gt;" name="ca_star_code" />
+        <meta content="&lt;authorit:ca_cms_id&gt;" name="ca_cms_id" />
+        <script language="javascript" type="text/javascript">
+        </script> <script language="javascript" type="text/javascript"></script> <script language="javascript" src="../../Resources/mailerwin.js" type="text/javascript"></script> <script language="javascript" type="text/javascript"></script></head>
+    <body onload="loadParent();highlightx();if (isTOCLoaded()) {expand2('790');highlight('791')}">
+        <p class="bodytext">
+            <MadCap:concept term="User Guides" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        </p>
+        <h2 class="heading2" id="t791">How Profiles Work</h2>
+        <p class="bodytext">The way profiles work depends on the following factors:</p>
+        <ul class="listbullet">
+            <li class="listbullet">The type of user that is assigned to the profile.
+</li>
+            <li class="listbullet">The objects that are included in the profile.
+</li>
+            <li class="listbullet">The permissions that are assigned to the objects.
+</li>
+        </ul>
+        <p class="bodytext">This section describes the permissions available for various types of users. The section also includes common user profiles and describes permissions for those profiles.  </p>
+        <p class="examplesubheading">Type 1: Mart level</p>
+        <ul class="listbullet">
+            <li class="listbullet">Includes items under Catalog Management, Mart, Permission Management, Session Management, and User Management.
+</li>
+            <li class="listbullet">Mart level permissions are granted only if a user is assigned to a profile on Mart.
+</li>
+            <li class="listbullet">The Mart level permissions are restricted or allowed at Mart Server itself. The only exception is that Catalog Manager, Open is handled by the client.
+<p class="picture"><img align="bottom" alt="Displaying Mart level permissions" border="0" height="524" hspace="0" id="f792" src="../../Resources/Images/792.png" vspace="0" width="245" /></p></li>
+        </ul>
+        <p class="examplesubheading">Type 2: Catalog Object level</p>
+        <ul class="listbullet">
+            <li class="listbullet">Includes items under Library, Model, and Version. 
+</li>
+            <li class="listbullet">All library privileges, that is, create, delete, and modify are granted when a user is assigned to a profile on the Library or Mart.
+</li>
+            <li class="listbullet">Catalog Object level permissions are restricted or allowed at Mart Server itself. The only exception is that Model, Modify is also verified in erwin DM as part of live semantic.
+<p class="picture"><img align="bottom" alt="Displaying catalog object level permissions" border="0" height="586" hspace="0" id="f793" src="../../Resources/Images/793.png" vspace="0" width="243" /></p></li>
+        </ul>
+        <p class="examplesubheading">Type 3: Modeling Object level</p>
+        <ul class="listbullet">
+            <li class="listbullet">Includes items under Modeling Object.
+</li>
+            <li class="listbullet">Modeling Object level permissions are used for restricting or allowing create, modify, and delete operations on modeling objects within the Catalog of type Model.
+</li>
+            <li class="listbullet">Modeling Object level permissions are restricted or allowed from live semantic in erwin DM.
+<p class="picture"><img align="bottom" alt="Displaying modeling object level permissions" border="0" height="633" hspace="0" id="f794" src="../../Resources/Images/794.png" vspace="0" width="243" /></p></li>
+        </ul>
+        <p class="note"><strong>Note: To be able to add an entity to the Subject Area and ER Diagram, set the Modify permission for Entity, Subject Area, and ER Diagram for the profile.</strong>
+        </p>
+        <p class="examplesubheading">Permissions</p>
+        <p class="bodytext">Permission are defined as follows:</p>
+        <ul class="listbullet">
+            <li class="listbullet">A profile assigned to a user on a catalog.
+</li>
+            <li class="listbullet">A Catalog could be the Mart, a Library, or a Model.
+</li>
+        </ul>
+        <p class="bodytext">For more information about the types of users, see the Mart Users topic.</p>
+        <p class="examplesubheading">Authorization rules for users</p>
+        <p class="bodytext">The authorization rules for users are explained with examples for profiles and users. This approach helps you relate to a scenario that exists in your work environment and understand the rules better.</p>
+        <p class="bodytext">The authorization rules are explained based on the following sample catalog structure:</p>
+        <ul class="listbullet">
+            <li class="listbullet">Mart
+<ul class="listbullet2"><li class="listbullet2">Library1
+<ul class="listbullet3endash"><li class="listbullet3endash">Model1
+</li><li class="listbullet3endash">Model2
+</li></ul></li><li class="listbullet2">Library2
+<ul class="listbullet3endash"><li class="listbullet3endash">Model3
+</li><li class="listbullet3endash">Model4
+</li></ul></li></ul></li>
+        </ul>
+        <p class="bodytext">Consider the following sample profiles and users:</p>
+        <ul class="listbullet">
+            <li class="listbullet">Sample profiles P1 and P2
+</li>
+            <li class="listbullet">Sample Server user SU1
+</li>
+            <li class="listbullet">Sample Active Directory (AD) user ADU1
+</li>
+            <li class="listbullet">Sample AD groups ADG1 and ADG2
+</li>
+        </ul>
+        <p class="examplesubheading">Authorization Rules for Server User</p>
+        <ul class="listbullet">
+            <li class="listbullet">Rule 1: P1 assigned to SU1 on Mart
+<ul class="listbullet2endash"><li class="listbullet2endash">SU1 gets the following privileges:
+<ul class="listbullet3endash"><li class="listbullet3endash">Type 1 privileges of P1 on Mart
+</li><li class="listbullet3endash">Type 2 privileges of P1 on all libraries and models
+</li><li class="listbullet3endash">Type 3 privileges of P1 on all models in Mart
+</li></ul></li></ul></li>
+            <li class="listbullet">Rule 2: P1 and P2 assigned to SU1 on Mart
+<ul class="listbullet2endash"><li class="listbullet2endash">SU1 gets the union of P1 and P2 privileges on the entire Mart. Type 1, 2, and 3 privileges are considered. Union here means that if a privilege is restricted in P1 but allowed in P2, it is allowed for SU1.
+</li><li class="listbullet2endash">In this case, multiple profile rule does not apply, as the union of privileges is used.
+</li></ul></li>
+            <li class="listbullet">Rule 3: P1 assigned to SU1 on Library1
+<ul class="listbullet2endash"><li class="listbullet2endash">SU1 gets the privileges assigned for P1 on the entire Library1.
+</li><li class="listbullet2endash">Type 1 privileges are not considered. 
+</li></ul></li>
+            <li class="listbullet">Rule 4: P1 assigned to SU1 on Model1
+<ul class="listbullet2endash"><li class="listbullet2endash">SU1 gets the privileges assigned for P1 on Model1.
+</li><li class="listbullet2endash">Type 1 privileges and some Type 2 (Library) are not considered.
+</li></ul></li>
+            <li class="listbullet">Rule 5: P1 assigned to SU1 on Mart and P2 assigned to SU1 on Library1
+<ul class="listbullet2endash"><li class="listbullet2endash">SU1 gets the privileges of P1 on Mart and Library2, but not on Library1.
+</li><li class="listbullet2endash">SU1 gets the privileges of P2 on Library1.
+</li></ul></li>
+            <li class="listbullet">Rule 6: P1 assigned to SU1 on Mart and P2 assigned to SU1 on Model1
+<ul class="listbullet2endash"><li class="listbullet2endash">SU1 gets the privileges of P1 on Mart, Library1, Model2, and the entire Library2, but not on Model1.
+</li><li class="listbullet2endash">SU1 gets the privileges of P2 on Model1.
+</li></ul></li>
+        </ul>
+        <p class="examplesubheading">Authorization Rules for Windows User</p>
+        <ul class="listbullet">
+            <li class="listbullet">Rule 7:
+<ul class="listbullet2endash"><li class="listbullet2endash">If a Windows user is added as a Mart user, the rules of a Server User apply to the Windows user.
+</li></ul></li>
+        </ul>
+        <p class="examplesubheading">Authorization Rules for Group user</p>
+        <ul class="listbullet">
+            <li class="listbullet">Rule 8: P1 assigned to ADG1 on Mart, ADU1 is part of ADG1, and ADU1 not added as user on Mart
+<ul class="listbullet2endash"><li class="listbullet2endash">ADU1 gets the privileges of P1 on Mart.
+</li></ul></li>
+            <li class="listbullet">Rule 9: P1 assigned to ADG1 on Mart, P2 assigned to ADG1 on Library1, ADU1 is part of ADG1, and ADU1 is not added as user on Mart
+<ul class="listbullet2endash"><li class="listbullet2endash">ADU1 gets the privileges of P1 on Mart and Library2, but not on Library1.
+</li><li class="listbullet2endash">ADU1 gets the privileges of P2 on Library1.
+</li></ul></li>
+            <li class="listbullet">Rule 10: P1 assigned to ADG1 on Mart, P2 assigned to ADG2 on Mart, ADU1 is part of ADG1 as well as ADG2, and ADU1 is not added as user on Mart
+<ul class="listbullet2endash"><li class="listbullet2endash">ADU1 gets the union of P1 and P2 privileges on Mart.
+</li></ul></li>
+            <li class="listbullet">Rule 11: P1 assigned to ADG1 on Mart, P2 assigned to ADG2 on Library1, ADU1 is part of ADG1 as well as ADG2, and ADU1 is not added as user on Mart
+<ul class="listbullet2endash"><li class="listbullet2endash">ADU1 gets the privileges of P1 on Mart and Library2.
+</li><li class="listbullet2endash">ADU1 gets the union of P1 and P2 privileges on Library1.
+</li></ul></li>
+            <li class="listbullet">Rule 12: P1 assigned to ADG1 on Mart, ADU1 is part of ADG1, and ADU1 is also added as user on Mart
+<ul class="listbullet2endash"><li class="listbullet2endash">Since ADU1 is also added as a user on Mart, the user is not considered a part of any group. The rules are same as that of a Windows user.
+</li></ul></li>
+            <li class="listbullet">Rule 13: P1 assigned to ADG1 on Mart, P2 assigned to ADG2 on Mart, ADU1 is part of ADG1 only, ADG1 is subgroup of ADG2, and ADU1 is not added as user on Mart
+<ul class="listbullet2endash"><li class="listbullet2endash">ADU1 gets the privileges of P1 on Mart. This is because ADG1 is explicitly added on Mart and ADU1 is only part of ADG1.
+</li></ul></li>
+            <li class="listbullet">Rule 14: P1 assigned to ADG1 on Mart, P2 assigned to ADG2 on Mart, ADU1 is part of ADG1 as well as ADG2, ADG1 is subgroup of ADG2, and ADU1 is not added as user on Mart
+<ul class="listbullet2endash"><li class="listbullet2endash">ADU1 gets the union of P1 and P2 privileges on Mart.
+</li></ul></li>
+        </ul>
+        <p class="backtotop"><a class="" href="#" target="_self" title=""><img align="middle" alt="" border="0" height="15px" hspace="0" id="f382" src="..\..\Resources\Images\387.png" vspace="0" width="10px" /></a><a class="" href="#" target="_self" title="">Back to Top</a>
+        </p>
+        <p>
+        </p>
+    </body>
+</html>

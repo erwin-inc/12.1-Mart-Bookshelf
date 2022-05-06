@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Data Modeling Overview"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="include[General.PDF] exclude[General.Online] "
+  PatchHeadingLevels="true"
+  InjectEmptyPages="true"
+  MasterPageLayout="/Content/Resources/PageLayouts/FrontMatter.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/docsstylesheet.css"
+  OutputFolder="D:\DM Documentation\MadCapFlare-Build-Output\2021R1\PDF"
+  MasterToc="/Project/TOCs/PDFDataModelingOverview.fltoc"
+  OutputFile="Data Modeling Overview">
+  <PrintedOutput
+    CollapseMargins="true"
+    ExpandingTextConversion="expand"
+    PopupConversion="remove-body"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <DocumentProperties
+    Title="Data Modeling Overview Guide"
+    Author="erwin, Inc." />
+  <PDF
+    ShowUsedBookmarks="false"
+    InitialMagnification="75"
+    PageLayout="OneColumn"
+    TitleBar="DocumentTitle"
+    CollapsedBookmarks="true"
+    CropAndRegistrationMarks="false"
+    ConvertToCMYK="true"
+    Tagged="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/PDFOutput.fldes"
+      Publish="true" />
+  </Destinations>
+</CatapultTarget>

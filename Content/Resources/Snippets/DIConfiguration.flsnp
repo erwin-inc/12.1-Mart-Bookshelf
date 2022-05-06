@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="bodytext">To use DM Connect for DI, you need to configure your erwin Data Intelligence Suite (DI Suite) application in erwin Mart Administrator. This is the application to which DM Connect for DI would export data models, data sources, and naming standards.</p>
+        <p class="bodytext">To configure erwin DI Suite, follow these steps:</p>
+        <ol class="listnumber">
+            <li class="listnumber">
+                <p class="bodytext">Go to <b>Application Menu</b> &gt; <b>Configuration</b>.<br />The DI Configuration page appears.<br /><img src="../../Resources/Images/DI-Configuration.png" style="border-left-style: solid;border-left-width: 1px;border-right-style: solid;border-right-width: 1px;border-top-style: solid;border-top-width: 1px;border-bottom-style: solid;border-bottom-width: 1px;width: 431px;height: 235px;" /></p>
+            </li>
+            <li class="listnumber">
+                <p class="bodytext">Configure your erwin DI Suite’s connection parameters as follows:</p>
+                <table border="1" cellpadding="2" cellspacing="0" class="tableintopic" style="border-collapse: collapse;border: 1px solid #010101;">
+                    <!--<table class="tableintopic" width="1256" cellpadding="2" cellspacing="0" border="1" style="border-collapse: collapse;border: 1px solid #010101;">-->
+                    <tr align="left" valign="top">
+                        <td style="border: 1px solid #010101;" width="628">
+                            <p class="tableheading">Field</p>
+                        </td>
+                        <td style="border: 1px solid #010101;" valign="middle" width="628">
+                            <p class="tableheading">Description</p>
+                        </td>
+                    </tr>
+                    <tr align="left" valign="top">
+                        <td style="border: 1px solid #010101;" width="628">
+                            <p class="tablebodytext">Server Name</p>
+                        </td>
+                        <td style="border: 1px solid #010101;" width="628">
+                            <p class="tablebodytext">Specify the server address, where erwin DI Suite is installed.</p>
+                        </td>
+                    </tr>
+                    <tr align="left" valign="top">
+                        <td style="border: 1px solid #010101;" width="628">
+                            <p class="tablebodytext">Port</p>
+                        </td>
+                        <td style="border: 1px solid #010101;" width="628">
+                            <p class="tablebodytext">Specify the port on your server that is used for erwin DI Suite.</p>
+                        </td>
+                    </tr>
+                    <tr align="left" valign="top">
+                        <td style="border: 1px solid #010101;" width="628">
+                            <p>Application Name</p>
+                        </td>
+                        <td style="border: 1px solid #010101;" width="628">
+                            <p class="tablebodytext">Specify the name of your erwin DI Suite Application.</p>
+                        </td>
+                    </tr>
+                    <tr align="left" valign="top">
+                        <td style="border: 1px solid #010101;" width="628">Enable SSL</td>
+                        <td style="border: 1px solid #010101;" width="628">
+                            <p width="628">Specify whether you want to connect to the server through a secured connection.</p>
+                        </td>
+                    </tr>
+                    <tr align="left" valign="top">
+                        <td style="border: 1px solid #010101;" width="628">Username</td>
+                        <td style="border: 1px solid #010101;" width="628">
+                            <p width="628">Specify your erwin DI Suite user name.</p>
+                        </td>
+                    </tr>
+                    <tr align="left" valign="top">
+                        <td style="border: 1px solid #010101;" width="628">Password</td>
+                        <td style="border: 1px solid #010101;" width="628">
+                            <p width="628">Specify your erwin DI Suite password.</p>
+                        </td>
+                    </tr>
+                    <tr align="left" valign="top">
+                        <td style="border: 1px solid #010101;" width="628">Session Timeout</td>
+                        <td style="border: 1px solid #010101;" width="628">
+                            <p width="628">Specify the erwin DI Suite's session time out duration in minutes.</p>
+                        </td>
+                    </tr>
+                </table>
+            </li>
+            <li class="listnumber">Click <b>Submit</b>.
+			 <br />Your connection is tested and saved.</li>
+        </ol>
+    </body>
+</html>

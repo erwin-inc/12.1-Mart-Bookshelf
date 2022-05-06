@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html lang="en" xmlns:madcap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="..\..\Resources\StyleSheets\stylesheet.css" rel="stylesheet" type="text/css" />
+        <link href="..\..\Resources\StyleSheets\docsstylesheet.css" rel="stylesheet" type="text/css" />
+        <meta content="&lt;authorit:componentcd&gt;" name="componentcd" />
+        <meta content="802" name="objectid" />
+        <meta content="260" name="basedOnKey" />
+        <!--metadata variables for XMD: translatable-->
+        <meta content="" name="description" />
+        <meta content="&lt;authorit:ca_keywords&gt;" name="keywords" />
+        <meta content="&lt;authorit:ca_content_type&gt;" name="ca_content_type" />
+        <meta content="&lt;authorit:ca_context&gt;" name="ca_context" />
+        <meta content="&lt;authorit:ca_role&gt;" name="ca_role" />
+        <meta content="en-US" name="ca_language" />
+        <!--metadata variables for XMD: do not translate-->
+        <meta content="&lt;authorit:ca_offering_name&gt;" name="ca_offering_name" />
+        <meta content="&lt;authorit:ca_product_version&gt;" name="ca_product_version" />
+        <meta content="&lt;authorit:ca_product_family&gt;" name="ca_product_family" />
+        <meta content="&lt;authorit:ca_alias_name&gt;" name="ca_alias_name" />
+        <meta content="&lt;authorit:ca_related_offering&gt;" name="ca_related_offering" />
+        <meta content="&lt;authorit:ca_access_level&gt;" name="ca_access_level" />
+        <meta content="8/13/2018T12:00-5:00" name="ca_date_time" />
+        <meta content="(supervisor)" name="ca_creator" />
+        <meta content="&lt;authorit:ca_source&gt;" name="ca_source" />
+        <meta content="HTML" name="ca_format" />
+        <meta content="&lt;authorit:ca_database&gt;" name="ca_database" />
+        <meta content="&lt;authorit:ca_application_server&gt;" name="ca_application_server" />
+        <meta content="&lt;authorit:ca_operating_system&gt;" name="ca_operating_system" />
+        <meta content="&lt;authorit:ca_star_code&gt;" name="ca_star_code" />
+        <meta content="&lt;authorit:ca_cms_id&gt;" name="ca_cms_id" />
+        <script language="javascript" type="text/javascript">
+        </script> <script language="javascript" type="text/javascript"></script> <script language="javascript" src="../../Resources/mailerwin.js" type="text/javascript"></script> <script language="javascript" type="text/javascript"></script></head>
+    <body onload="loadParent();highlightx();if (isTOCLoaded()) {highlight('802')}">
+        <h1 class="heading1" id="t802">Add Jobs</h1>
+        <p class="bodytext">A  job converts a model to erwin DI Suite compatible format and then,</p>
+        <ul class="listbullet">
+            <li class="listbullet">exports the model to the Metadata Manager</li>
+            <li class="listbullet">
+                <p>exports the source and target column data from a dimensional model into the Mapping Manager</p>
+                <p><b>Note</b>: Once source and target column data is exported, any updates made to them are not exported when the job runs again.</p>
+            </li>
+            <li class="listbullet">If the model has an associated NSM file, it exports the file to the Business Glossary Manager</li>
+        </ul>
+        <p class="bodytext">For more information about data sharing between erwin Data Modeler (DM) and erwin Data Intelligence Suite (DI Suite), refer to the <a href="data_sharing_dmconnectdi.html">Data Sharing</a> topic.</p>
+        <p class="bodytext">By default the DM Connect for DI&#160;module opens in the Calendar view. You can toggle the page view between the List View (<img src="../../Resources/Images/Icon-ListView.png" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />) or Calendar View (<img src="../../Resources/Images/Icon-CalendarView.png" />) using the respective buttons on the page toolbar.</p>
+        <p class="bodytext">To schedule a job, follow these steps:</p>
+        <ol class="listnumber">
+            <li class="listnumber">On the DM Connect For DI page, click a suitable calendar slot or click <img src="../../Resources/Images/Icon-AddJob.png" />.<br />The Schedule Job page appears.<br /><img src="../../Resources/Images/Schedule-Job-Mart.png" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="border-left-style: solid;border-left-width: 1px;border-right-style: solid;border-right-width: 1px;border-top-style: solid;border-top-width: 1px;border-bottom-style: solid;border-bottom-width: 1px;width: 396px;height: 543px;" /></li>
+            <li class="listnumber">Set up job parameters as follows:<br />On the Catalog Information tab:		<dt>Select Models</dt><dd>Select models from mart catalog to export.<br />To view selected models, click <img src="../../Resources/Images/Icon-ViewSelectedModels.png" />. The <b>Count</b> field displays the number of selected models.</dd><dt>Include NSM</dt><dd>Select whether naming standards must be exported.<br />A catalog named by the NSM file is created under <b>Business Glossary Manager</b> &gt; <b>DM NSM Files</b> custom asset.<br /><b>Note</b>: Ensure that the DM NSM Files asset is enabled in <b>erwin DI Suite</b> &gt; <b>Business Glossary Manager Settings</b>.</dd><br />On the DI Information tab:<dt>System Name</dt><dd>Enter a system name. This corresponds to System in Metadata Manager.</dd><dt>Environment Name</dt><dd>Use the predefined macros to set the environment name. This corresponds to Environment in Metadata manager.</dd><dd><b>Note</b>: For system and environment names, following special characters are allowed:</dd><ul><li><b>System</b>:  - (hyphen), _ (underscore), and space</li><li><b>Environment</b>: @ (at sign), $ (dollar sign), &amp; (ampersand), / (slash mark), - (hyphen), _ (underscore), and space</li>
+All other special characters are replaced with _ (underscore).</ul><dt>Export Options</dt><dd>Select a suitable export option:</dd><ul><li><b>Add New</b>:<ul><li>If an environment exists, this option adds any new tables or columns to it.</li><li>If an environment does not exist, this option creates an environment and adds tables and columns to it.</li></ul></li><li><b>Update Existing + Add New</b>:<ul><li>If the existing model objects have changed, this option exports the updates to the existing model objects in erwin DI Suite.</li><li>Also, it exports any new objects in the model to erwin DI Suite.</li></ul></li><li><b>Update Existing + Add New + Invalidate</b>:<br />Along with the functionality of Update Existing&#160;+ Add New option, this option invalidates any deleted tables or columns.</li><li><b>Delete &amp; Reload</b>:<br />This option deletes all the tables and columns. Then, it exports them again.<br /></li></ul><dt>Version</dt><dd>Select whether a version of an existing environment must be created. This archives the existing environment.</dd><br />On the Job Information tab:<dt>Job Name</dt><dd>Specify a job name.</dd><dt>Scheduled Job On</dt><dd>Select the date and time at which the job must run.</dd><dt>Job Interval</dt><dd>Select a suitable frequency at which the job must run. You can set the job to run once or recur daily, weekly, monthly, or yearly.</dd><dt>Notify Me</dt><dd>Select whether a notification is sent to you when the job status changes.<br />This enables the Notification Email and CC List fields.</dd><dt>Notification Email</dt><dd>Specify the email address at which you want to receive the notification.</dd><dt>CC&#160;List</dt><dd>Specify a semi-colon-separated list of email addresses that must receive the job notification</dd><dt>Run Now</dt><dd>Select the checkbox to run the job immediately.</dd></li>
+            <li class="listnumber">Click <b>Submit</b>.<br />The job is added to the calendar for execution with its <b>Job&#160;State</b> set to Scheduled.<br /><br /></li>
+        </ol>
+        <p class="bodytext">Once a job is set up, you can use the following options on it:</p>
+        <ul class="listbullet">
+            <li class="listbullet"><b>Run Job</b>: Use this option to run a scheduled recurring job immediately.</li>
+            <li class="listbullet"><b>Manage Job</b>: Use this option to modify an existing scheduled job. If you modify a job:<ul><li><p>before its run schedule, the changes take effect when the job runs</p></li><li><p>while it is running, the job is canceled, and changes are saved. They take effect when the job runs next time.</p></li><li><p>after it is past its schedule, the job runs according to the new schedule.</p></li></ul></li>
+            <li class="listbullet"><b>Refresh Job</b>: Use this option to refresh the job state.</li>
+            <li class="listbullet"><b>Cancel Job</b>: Use this option to cancel a scheduled or running job.</li>
+            <li class="listbullet"><b>Delete Job</b>: Use this option to delete a job from the job list.</li>
+            <li class="listbullet"><b>View Log</b>: Use this option to view a job's log. In case of failures, you can use the log to troubleshoot.</li>
+        </ul>
+    </body>
+</html>

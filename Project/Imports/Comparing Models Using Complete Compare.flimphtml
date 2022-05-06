@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Comparing Models Using Complete Compare"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-09-03T11:35:18.5116480+05:30"
+  ImportTopicsLocation="Content/Tutorials/Scenarios/"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/">
+  <Files>
+    <Url
+      Source="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Comparing Models Using Complete Compare"
+      AbsoluteSource="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Comparing Models Using Complete Compare" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Comparing Models Using Complete Compare/dhtml_search.htm"
+      TimeStamp="9/3/2018 11:35:11 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Comparing Models Using Complete Compare/heading.htm"
+      TimeStamp="9/3/2018 11:35:11 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Comparing Models Using Complete Compare/html_frameset.htm"
+      TimeStamp="9/3/2018 11:35:11 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Comparing Models Using Complete Compare/index.htm"
+      TimeStamp="9/3/2018 11:35:11 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Comparing Models Using Complete Compare/index_template.htm"
+      TimeStamp="9/3/2018 11:35:11 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Comparing Models Using Complete Compare/tab_search.htm"
+      TimeStamp="9/3/2018 11:35:11 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Comparing Models Using Complete Compare/tab_toc.htm"
+      TimeStamp="9/3/2018 11:35:12 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Comparing Models Using Complete Compare/toc.htm"
+      TimeStamp="9/3/2018 11:35:12 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Comparing Models Using Complete Compare/compare_model_db.html"
+      TimeStamp="9/3/2018 11:35:12 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Comparing Models Using Complete Compare/copyright.html"
+      TimeStamp="9/3/2018 11:35:12 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Comparing Models Using Complete Compare/How_you_can_generate_Alter_Script_in_Resolve_Differences_Dialog.html"
+      TimeStamp="9/3/2018 11:35:12 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Comparing Models Using Complete Compare/Introduction- Comparing Models Using Complete Compare.html"
+      TimeStamp="9/3/2018 11:35:12 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Comparing Models Using Complete Compare/Refine_the_Criteria_for_Object_Comparison_in_the_Left_Model.html"
+      TimeStamp="9/3/2018 11:35:12 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Comparing Models Using Complete Compare/Refine_the_Criteria_for_Object_Comparison_in_the_Right_Model.html"
+      TimeStamp="9/3/2018 11:35:13 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Comparing Models Using Complete Compare/resolve_type_conflicts.html"
+      TimeStamp="9/3/2018 11:35:13 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Comparing Models Using Complete Compare/search_the_resolve_differences_dialog.html"
+      TimeStamp="9/3/2018 11:35:13 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Comparing Models Using Complete Compare/Select_Advanced_Options_to_Refine_the_Compare_Criteria.html"
+      TimeStamp="9/3/2018 11:35:13 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Comparing Models Using Complete Compare/select_left_model_database.html"
+      TimeStamp="9/3/2018 11:35:13 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Comparing Models Using Complete Compare/Select_objects_properties_compare.html"
+      TimeStamp="9/3/2018 11:35:13 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Comparing Models Using Complete Compare/select_right_model_database.html"
+      TimeStamp="9/3/2018 11:35:14 AM" />
+    <Url
+      Source="../TOCs/Comparing Models Using Complete Compare.fltoc"
+      TimeStamp="9/3/2018 11:35:17 AM" />
+    <Url
+      Source="../../Content/Resources/dhtml_search1.js"
+      TimeStamp="9/3/2018 10:32:07 AM" />
+    <Url
+      Source="../../Content/Resources/Images/diamond26.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/hyphen26.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/checkbox26.gif"
+      TimeStamp="6/20/2011 1:12:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/block26.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/docsstylesheet1.css"
+      TimeStamp="9/3/2018 11:35:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/erwin27.png"
+      TimeStamp="12/29/2016 10:51:25 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/stylesheet1.css"
+      TimeStamp="9/3/2018 11:35:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_center26.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_right26.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_left26.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_right26.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_left26.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_center26.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/space1x27.png"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/castyles1.css"
+      TimeStamp="9/3/2018 11:35:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/cbook26.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/topic26.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc3.css"
+      TimeStamp="9/3/2018 11:35:14 AM" />
+    <Url
+      Source="../../Content/Resources/dhtml_toc1.js"
+      TimeStamp="9/3/2018 10:32:01 AM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc1.css"
+      TimeStamp="9/3/2018 11:35:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/1455.png"
+      TimeStamp="9/3/2018 10:32:05 AM" />
+    <Url
+      Source="../../Content/Resources/highlight1.js"
+      TimeStamp="9/6/2012 8:49:46 PM" />
+    <Url
+      Source="../../Content/Resources/mailca1.js"
+      TimeStamp="12/2/2016 4:06:20 PM" />
+    <Url
+      Source="../../Content/Resources/open_parent1.js"
+      TimeStamp="2/6/2013 4:36:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/rgtgray25.png"
+      TimeStamp="9/3/2018 10:32:07 AM" />
+    <Url
+      Source="../../Content/Resources/Images/399.png"
+      TimeStamp="9/3/2018 10:32:05 AM" />
+    <Url
+      Source="../../Content/Resources/Images/373.gif"
+      TimeStamp="9/3/2018 10:32:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/374.gif"
+      TimeStamp="9/3/2018 10:32:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/8332.jpg"
+      TimeStamp="9/3/2018 10:32:05 AM" />
+    <Url
+      Source="../../Content/Resources/Images/lftgray27.png"
+      TimeStamp="9/3/2018 10:32:07 AM" />
+    <Url
+      Source="../../Content/Resources/Images/892.png"
+      TimeStamp="9/3/2018 10:32:05 AM" />
+    <Url
+      Source="../../Content/Resources/Images/1453.png"
+      TimeStamp="9/3/2018 10:32:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/1452.png"
+      TimeStamp="9/3/2018 10:32:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/1451.png"
+      TimeStamp="9/3/2018 10:32:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/1450.png"
+      TimeStamp="9/3/2018 10:32:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/1449.png"
+      TimeStamp="9/3/2018 10:32:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/1431.png"
+      TimeStamp="9/3/2018 10:32:05 AM" />
+    <Url
+      Source="../../Content/Resources/Images/1437.png"
+      TimeStamp="9/3/2018 10:32:05 AM" />
+  </GeneratedFiles>
+</HtmlImport>
