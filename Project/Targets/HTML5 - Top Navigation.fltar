@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MoveOutputContentToRoot="false"
+  SkinComponents=""
+  EnableResponsiveOutput="true"
+  ResultsPerPage="20"
+  Skin="(none)"
+  ConditionTagExpression="include[General.Online]exclude[General.PDF]"
+  DefaultUrl="/Content/User Guides/Mart Online Help/Online_Help.html"
+  MasterToc="/Project/TOCs/Online Output.fltoc"
+  GetLatestBeforeCompile="true"
+  ExcludeNonWords="true"
+  EnableSitemap="true"
+  SitemapWebUrl="http://erwin.com/bookshelf/public_html/2020R2/Content/"
+  EquationsOutputType="PNG"
+  OutputFolder="C:\MadCapFlare Outputs\MadCapFlare-Build-Output\12.1\Mart"
+  OutputFile="erwinBookshelf"
+  MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp"
+  SearchEngine="MadCapSearch">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/Local.fldes"
+      Publish="true" />
+  </Destinations>
+  <Variables>
+    <Variable
+      Name="General/CityStateZip">Melville, NY 11747</Variable>
+    <Variable
+      Name="General/PhoneNumber">800-783-7946</Variable>
+    <Variable
+      Name="General/ProductName">erwin Data Modeler</Variable>
+    <Variable
+      Name="General/StreetAddress">225 Broadhollow Road, Suite 304</Variable>
+    <Variable
+      Name="General/VersionNumber">12.1</Variable>
+  </Variables>
+</CatapultTarget>

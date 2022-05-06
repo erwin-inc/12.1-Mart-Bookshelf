@@ -1,0 +1,4 @@
+
+*.s3db
+Analyzer/Content.cadbf/Content12.s3db-shm
+*.s3db-wal
