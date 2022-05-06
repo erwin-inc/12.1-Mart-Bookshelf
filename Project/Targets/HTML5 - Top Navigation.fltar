@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
   Comment="MadCap HTML5 Target"
@@ -42,6 +42,6 @@
     <Variable
       Name="General/StreetAddress">225 Broadhollow Road, Suite 304</Variable>
     <Variable
-      Name="General/VersionNumber">12.0</Variable>
+      Name="General/VersionNumber">12.1</Variable>
   </Variables>
 </CatapultTarget>

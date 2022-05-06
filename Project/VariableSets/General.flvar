@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultVariableSet>
   <Variable
     Comment=""
@@ -28,7 +28,7 @@
   <Variable
     Name="VersionNumber"
     OriginalName="VersionNumberDot"
-    EvaluatedDefinition="12.0">12.0</Variable>
+    EvaluatedDefinition="12.1">12.1</Variable>
   <Variable
     Name="PDFGuideTitle"
     Comment=""
