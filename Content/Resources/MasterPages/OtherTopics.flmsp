@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js" type="text/javascript">
+    </script>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title></title>
+        <link href="../Stylesheets/stylesheet.css" rel="stylesheet" type="text/css" />
+        <link href="../Stylesheets/docsstylesheet.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div>
+            <div id="contentBody">
+                <div>
+                    <div class="sideContent">
+                        <div>
+                            <MadCap:topicToolbarProxy style="mc-topic-toolbar-items: AddTopicToFavorites PreviousTopic NextTopic Print;" data-mc-skin="/Project/Skins/TopicToolBar.flskn" />
+                        </div>
+                        <MadCap:menuProxy style="mc-context-sensitive: True;" data-mc-skin="/Project/Skins/SideMenu.flskn" />
+                    </div>
+                    <MadCap:breadcrumbsProxy style="font-size: 11pt;" />
+                    <MadCap:bodyProxy />
+                    <hr />
+                    <p>
+                    </p>
+                    <table border="1" cellpadding="2" cellspacing="0" role="presentation" style="border-collapse: collapse;width: 100%;">
+                        <col />
+                        <tr>
+                            <td valign="top">
+                                <!--<div align="left">-->
+                                <form id="ratings">
+                                    <p><span class="heading5">Was this helpful?</span>
+                                    </p>
+                                    <fieldset>
+                                        <label for="radio1" title="Yes" class="bold">Yes</label>
+                                        <input class="radio" id="radio1" name="group1" title="Yes" type="radio" value="Yes" />
+                                        <label for="radio1" title="No" class="bold">No</label>
+                                        <input class="radio" id="radio2" name="group1" title="No" type="radio" value="No" />
+                                    </fieldset><a class="ilink" href="javascript:sendRating();" type="submit">Send feedback</a>
+                                </form>
+                                <!--</div>-->
+                            </td>
+                        </tr>
+                    </table>
+                    <p>
+                    </p>
+                    <table border="0" cellpadding="2" cellspacing="0" class="copyrighttable" role="presentation" width="100%">
+                        <col />
+                        <tr>
+                            <td valign="top">
+                                <p id="foo" class="bodytext">
+                                    <p>Copyright © <MadCap:variable name="General.Year" /> <MadCap:variable name="General.CompanyName" /><br />All rights reserved. All trademarks, trade names, service marks, and logos referenced herein belong to their respective companies.</p>
+                                </p>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

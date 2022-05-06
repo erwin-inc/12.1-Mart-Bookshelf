@@ -1,0 +1,682 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="true"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Workgroup Edition Implementation and Administration"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-08-22T16:13:44.4017386+05:30"
+  ImportTopicsLocation="Content/Installation/"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/">
+  <Files>
+    <Url
+      Source="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Workgroup Edition Implementation and Administration"
+      AbsoluteSource="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Workgroup Edition Implementation and Administration" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/dhtml_search.htm"
+      TimeStamp="8/22/2018 4:11:36 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/heading.htm"
+      TimeStamp="8/22/2018 4:11:36 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/html_frameset.htm"
+      TimeStamp="8/22/2018 4:11:36 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/index.htm"
+      TimeStamp="8/22/2018 4:11:36 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/index_template.htm"
+      TimeStamp="8/22/2018 4:11:36 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/tab_search.htm"
+      TimeStamp="8/22/2018 4:11:36 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/tab_toc.htm"
+      TimeStamp="8/22/2018 4:11:36 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/toc.htm"
+      TimeStamp="8/22/2018 4:11:37 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/4561.html"
+      TimeStamp="8/22/2018 4:11:37 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/4562.html"
+      TimeStamp="8/22/2018 4:11:37 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/79771.html"
+      TimeStamp="8/22/2018 4:11:37 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/79772.html"
+      TimeStamp="8/22/2018 4:11:38 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/79773.html"
+      TimeStamp="8/22/2018 4:11:38 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/79781.html"
+      TimeStamp="8/22/2018 4:11:38 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/79782.html"
+      TimeStamp="8/22/2018 4:11:38 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/79783.html"
+      TimeStamp="8/22/2018 4:11:38 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/7994_1.html"
+      TimeStamp="8/22/2018 4:11:39 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/8232_1.html"
+      TimeStamp="8/22/2018 4:11:39 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/8232_2.html"
+      TimeStamp="8/22/2018 4:11:39 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/8232_3.html"
+      TimeStamp="8/22/2018 4:11:39 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/8233_1.html"
+      TimeStamp="8/22/2018 4:11:39 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/8233_2.html"
+      TimeStamp="8/22/2018 4:11:40 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/8233_3.html"
+      TimeStamp="8/22/2018 4:11:40 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/8234_1.html"
+      TimeStamp="8/22/2018 4:11:40 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/8234_2.html"
+      TimeStamp="8/22/2018 4:11:40 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/8234_3.html"
+      TimeStamp="8/22/2018 4:11:40 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/8235_1.html"
+      TimeStamp="8/22/2018 4:11:40 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/8235_2.html"
+      TimeStamp="8/22/2018 4:11:41 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/8235_3.html"
+      TimeStamp="8/22/2018 4:11:41 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/8236_1.html"
+      TimeStamp="8/22/2018 4:11:41 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/8236_2.html"
+      TimeStamp="8/22/2018 4:11:41 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/8236_3.html"
+      TimeStamp="8/22/2018 4:11:41 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/8295_1.html"
+      TimeStamp="8/22/2018 4:11:42 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/8295_2.html"
+      TimeStamp="8/22/2018 4:11:42 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/8295_3.html"
+      TimeStamp="8/22/2018 4:11:42 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/add_a_user.html"
+      TimeStamp="8/22/2018 4:11:42 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Administer Mart.html"
+      TimeStamp="8/22/2018 4:11:43 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/assign_permissions_to_a_user.html"
+      TimeStamp="8/22/2018 4:11:43 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/catalog_manager.html"
+      TimeStamp="8/22/2018 4:11:43 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/catalog_mgmt.html"
+      TimeStamp="8/22/2018 4:11:43 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Change the Mart Database Server.html"
+      TimeStamp="8/22/2018 4:11:43 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Changing Application Name and Port Number.html"
+      TimeStamp="8/22/2018 4:11:43 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Character Limitations.html"
+      TimeStamp="8/22/2018 4:11:44 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Checkpoints.html"
+      TimeStamp="8/22/2018 4:11:44 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Configure the Mart Server.html"
+      TimeStamp="8/22/2018 4:11:44 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Create a Pluggable Database.html"
+      TimeStamp="8/22/2018 4:11:44 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Create a PostgreSQL Database.html"
+      TimeStamp="8/22/2018 4:11:44 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Create a Profile.html"
+      TimeStamp="8/22/2018 4:11:44 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Create a SAP ASE Database.html"
+      TimeStamp="8/22/2018 4:11:45 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Create a SQL Server Database.html"
+      TimeStamp="8/22/2018 4:11:45 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/create_a_library.html"
+      TimeStamp="8/22/2018 4:11:45 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/create_rep_report_designer.html"
+      TimeStamp="8/22/2018 4:11:45 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Data Redundancy.html"
+      TimeStamp="8/22/2018 4:11:45 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Database and Log Sizing.html"
+      TimeStamp="8/22/2018 4:11:46 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Database Configuration.html"
+      TimeStamp="8/22/2018 4:11:46 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Database Placement.html"
+      TimeStamp="8/22/2018 4:11:46 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Database Tuning Parameters.html"
+      TimeStamp="8/22/2018 4:11:46 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/DBCC Commands.html"
+      TimeStamp="8/22/2018 4:11:46 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/delete_the_mart.html"
+      TimeStamp="8/22/2018 4:11:47 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/deploy_mart_server.html"
+      TimeStamp="8/22/2018 4:11:47 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/deploy_mart_server_1.html"
+      TimeStamp="8/22/2018 4:11:47 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/deploy_mart_server_2.html"
+      TimeStamp="8/22/2018 4:11:47 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/deploy_mart_server_3.html"
+      TimeStamp="8/22/2018 4:11:48 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/erwin Data Modeler Product References - erwin.html"
+      TimeStamp="8/22/2018 4:11:48 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/erwin Data Modeler Workgroup Edition Performance.html"
+      TimeStamp="8/22/2018 4:11:48 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/erwin_Model_Manager.html"
+      TimeStamp="8/22/2018 4:11:48 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/ExampleOracleStatisticsCommands.html"
+      TimeStamp="8/22/2018 4:11:48 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Generate a Model Validation Report.html"
+      TimeStamp="8/22/2018 4:11:48 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/generate_current_diagram_picture.html"
+      TimeStamp="8/22/2018 4:11:48 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/generate_diagram_report.html"
+      TimeStamp="8/22/2018 4:11:49 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/generate_global_report.html"
+      TimeStamp="8/22/2018 4:11:49 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/generate_lock_report.html"
+      TimeStamp="8/22/2018 4:11:49 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/group_user_best_practices.html"
+      TimeStamp="8/22/2018 4:11:49 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/How to Upgrade any r9 Series Mart to the Current Version.html"
+      TimeStamp="8/22/2018 4:11:49 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/how_profiles_work.html"
+      TimeStamp="8/22/2018 4:11:50 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Increase Space in Redo Logs.html"
+      TimeStamp="8/22/2018 4:11:50 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Informational Model Framework.html"
+      TimeStamp="8/22/2018 4:11:50 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Initialize a SAP ASE Mart.html"
+      TimeStamp="8/22/2018 4:11:50 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/initialize_oracle_mart.html"
+      TimeStamp="8/22/2018 4:11:50 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/initialize_SQL_server_mart.html"
+      TimeStamp="8/22/2018 4:11:51 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/initialize_SQL_server_mart_2.html"
+      TimeStamp="8/22/2018 4:11:51 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Install a Mart or Upgrade a Mart-.html"
+      TimeStamp="8/22/2018 4:11:51 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Install a Mart.html"
+      TimeStamp="8/22/2018 4:11:51 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Install and Configure a PostgreSQL Mart.html"
+      TimeStamp="8/22/2018 4:11:51 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Install and Configure a SAP ASE Mart.html"
+      TimeStamp="8/22/2018 4:11:51 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Install and Configure a SQL Server Mart.html"
+      TimeStamp="8/22/2018 4:11:52 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Install and Configure an Oracle Mart.html"
+      TimeStamp="8/22/2018 4:11:52 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Install erwin Mart Server with a Pluggable Database.html"
+      TimeStamp="8/22/2018 4:11:52 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/installing_configuring_mart.html"
+      TimeStamp="8/22/2018 4:11:52 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/installing_configuring_mart_2.html"
+      TimeStamp="8/22/2018 4:11:52 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/installing_configuring_mart_3.html"
+      TimeStamp="8/22/2018 4:11:52 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/installing_configuring_mart_4.html"
+      TimeStamp="8/22/2018 4:11:53 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Introduction- Adding a User.html"
+      TimeStamp="8/22/2018 4:11:53 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Library_Security_Levels.html"
+      TimeStamp="8/22/2018 4:11:53 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Library_Structure_Considerations.html"
+      TimeStamp="8/22/2018 4:11:53 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Library_Structure_Organization.html"
+      TimeStamp="8/22/2018 4:11:53 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Library_Structure_Planning.html"
+      TimeStamp="8/22/2018 4:11:53 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/lock_a_catalog_entry.html"
+      TimeStamp="8/22/2018 4:11:53 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/lock_behavior.html"
+      TimeStamp="8/22/2018 4:11:54 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Log In to erwin Mart Administrator.html"
+      TimeStamp="8/22/2018 4:11:54 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/log_in_to_mart_and_configure.html"
+      TimeStamp="8/22/2018 4:11:54 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/log_in_to_mart_and_configure_1.html"
+      TimeStamp="8/22/2018 4:11:54 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/log_in_to_mart_and_configure_2.html"
+      TimeStamp="8/22/2018 4:11:54 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/log_in_to_mart_and_configure_3.html"
+      TimeStamp="8/22/2018 4:11:55 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Mart Report Data Compression.html"
+      TimeStamp="8/22/2018 4:11:55 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/mart_architecture.html"
+      TimeStamp="8/22/2018 4:11:55 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/mart_architecture_2.html"
+      TimeStamp="8/22/2018 4:11:55 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/mart_architecture_3.html"
+      TimeStamp="8/22/2018 4:11:55 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/mart_architecture_4.html"
+      TimeStamp="8/22/2018 4:11:55 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/mart_server_windows_service.html"
+      TimeStamp="8/22/2018 4:11:56 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/mart_server_windows_service_1.html"
+      TimeStamp="8/22/2018 4:11:56 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/mart_server_windows_service_2.html"
+      TimeStamp="8/22/2018 4:11:56 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/mart_server_windows_service_3.html"
+      TimeStamp="8/22/2018 4:11:56 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/mart_sessions.html"
+      TimeStamp="8/22/2018 4:11:56 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/mart_users.html"
+      TimeStamp="8/22/2018 4:11:56 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Maximum Number of Processes.html"
+      TimeStamp="8/22/2018 4:11:57 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Microsoft SQL Server and SAP ASE Tuning Recommendations.html"
+      TimeStamp="8/22/2018 4:11:57 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Microsoft_SQL_Server_2005_Permissions.html"
+      TimeStamp="8/22/2018 4:11:57 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Model Life Cycle Frameworks.html"
+      TimeStamp="8/22/2018 4:11:57 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Model-Driven Development Framework.html"
+      TimeStamp="8/22/2018 4:11:57 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/modeling_in_the_multiuser_environment.html"
+      TimeStamp="8/22/2018 4:11:57 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/model_contents_class.html"
+      TimeStamp="8/22/2018 4:11:57 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/model_report_status.html"
+      TimeStamp="8/22/2018 4:11:58 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Modify the Workstation Registry.html"
+      TimeStamp="8/22/2018 4:11:58 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/multiple_threads_update_models.html"
+      TimeStamp="8/22/2018 4:11:58 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Named Cache Configuration.html"
+      TimeStamp="8/22/2018 4:11:58 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/optimize_performance.html"
+      TimeStamp="8/22/2018 4:11:58 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Oracle SQL Commands.html"
+      TimeStamp="8/22/2018 4:11:58 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Oracle Tuning Recommendations.html"
+      TimeStamp="8/22/2018 4:11:59 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Physical Tuning Parameters.html"
+      TimeStamp="8/22/2018 4:11:59 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Prepare to Use IIS with Mart.html"
+      TimeStamp="8/22/2018 4:11:59 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/prepare_dbms_environment.html"
+      TimeStamp="8/22/2018 4:11:59 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Recommended Disk Configurations.html"
+      TimeStamp="8/22/2018 4:11:59 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Redo Log Buffer.html"
+      TimeStamp="8/22/2018 4:11:59 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Redo Log Files.html"
+      TimeStamp="8/22/2018 4:12:00 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/reindex_db.html"
+      TimeStamp="8/22/2018 4:12:00 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Restart the Mart Server Service.html"
+      TimeStamp="8/22/2018 4:12:00 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Review the Prerequisites.html"
+      TimeStamp="8/22/2018 4:12:00 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/review_prereq.html"
+      TimeStamp="8/22/2018 4:12:00 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/review_prereq_2.html"
+      TimeStamp="8/22/2018 4:12:00 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/review_prereq_3.html"
+      TimeStamp="8/22/2018 4:12:01 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/review_prereq_4.html"
+      TimeStamp="8/22/2018 4:12:01 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Rollback Segments.html"
+      TimeStamp="8/22/2018 4:12:01 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Run the Database Statistics.html"
+      TimeStamp="8/22/2018 4:12:01 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Run the Oracle DBMS Reindex Script.html"
+      TimeStamp="8/22/2018 4:12:01 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/sample_files.html"
+      TimeStamp="8/22/2018 4:12:01 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/SAP ASE Mart Database Memory.html"
+      TimeStamp="8/22/2018 4:12:02 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/schedule_mart_report_synch.html"
+      TimeStamp="8/22/2018 4:12:02 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/scn_adding_a_user.html"
+      TimeStamp="8/22/2018 4:12:02 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/server_level_tuning_parameters.html"
+      TimeStamp="8/22/2018 4:12:02 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Set Optimal Configuration for the Rollback Logs.html"
+      TimeStamp="8/22/2018 4:12:02 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Shared Pool.html"
+      TimeStamp="8/22/2018 4:12:03 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Specify Use of Foreign Characters With Microsoft SQL Server 2005.html"
+      TimeStamp="8/22/2018 4:12:03 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Storage Parameters.html"
+      TimeStamp="8/22/2018 4:12:03 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/System-Driven Model Framework.html"
+      TimeStamp="8/22/2018 4:12:03 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Terminate_Inactive_or_Closed_Sessions.html"
+      TimeStamp="8/22/2018 4:12:03 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/The_Report_Viewer.html"
+      TimeStamp="8/22/2018 4:12:04 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Threshold Procedures.html"
+      TimeStamp="8/22/2018 4:12:04 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Transact-SQL Commands.html"
+      TimeStamp="8/22/2018 4:12:04 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Transaction Log.html"
+      TimeStamp="8/22/2018 4:12:04 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Troubleshooting.html"
+      TimeStamp="8/22/2018 4:12:04 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/trunc_logon_checkpoint_option.html"
+      TimeStamp="8/22/2018 4:12:04 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Upgrade the Mart Server.html"
+      TimeStamp="8/22/2018 4:12:05 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/verify_if_existing_profile_suits.html"
+      TimeStamp="8/22/2018 4:12:05 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/verify_if_req_catalog_library_exists.html"
+      TimeStamp="8/22/2018 4:12:05 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Workgroup Edition Implementation and Administration Guide.html"
+      TimeStamp="8/22/2018 4:12:05 PM" />
+    <Url
+      Source="../../Content/Installation/Workgroup Edition Implementation and Administration/Workgroup_Modeling_reports.html"
+      TimeStamp="8/22/2018 4:12:05 PM" />
+    <Url
+      Source="../TOCs/Workgroup Edition Implementation and Administration.fltoc"
+      TimeStamp="8/22/2018 4:13:41 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_search1.js"
+      TimeStamp="8/22/2018 4:08:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/diamond6.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/hyphen6.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/checkbox6.gif"
+      TimeStamp="6/20/2011 1:12:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/block6.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/docsstylesheet1.css"
+      TimeStamp="8/22/2018 4:12:05 PM" />
+    <Url
+      Source="../../Content/Resources/Images/erwin6.png"
+      TimeStamp="12/29/2016 10:51:25 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/stylesheet1.css"
+      TimeStamp="8/22/2018 4:12:06 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_center6.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_right6.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_left6.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_right6.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_left6.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_center6.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/space1x7.png"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/castyles1.css"
+      TimeStamp="8/22/2018 4:12:06 PM" />
+    <Url
+      Source="../../Content/Resources/Images/cbook6.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/topic6.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc2.css"
+      TimeStamp="8/22/2018 4:12:06 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_toc1.js"
+      TimeStamp="8/22/2018 2:20:49 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc1.css"
+      TimeStamp="8/22/2018 4:12:06 PM" />
+    <Url
+      Source="../../Content/Resources/highlight1.js"
+      TimeStamp="9/6/2012 8:49:46 PM" />
+    <Url
+      Source="../../Content/Resources/mailca1.js"
+      TimeStamp="12/2/2016 4:06:20 PM" />
+    <Url
+      Source="../../Content/Resources/open_parent1.js"
+      TimeStamp="2/6/2013 4:36:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/388.png"
+      TimeStamp="8/22/2018 2:21:46 PM" />
+    <Url
+      Source="../../Content/Resources/Images/462.png"
+      TimeStamp="8/22/2018 2:21:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/1601.png"
+      TimeStamp="8/22/2018 2:21:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/795.png"
+      TimeStamp="8/22/2018 2:21:57 PM" />
+    <Url
+      Source="../../Content/Resources/Images/796.png"
+      TimeStamp="8/22/2018 2:21:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/797.png"
+      TimeStamp="8/22/2018 2:21:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/461.png"
+      TimeStamp="8/22/2018 2:21:46 PM" />
+    <Url
+      Source="../../Content/Resources/Images/827.png"
+      TimeStamp="8/22/2018 2:21:49 PM" />
+    <Url
+      Source="../../Content/Resources/Images/484.png"
+      TimeStamp="8/22/2018 2:21:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/822.png"
+      TimeStamp="8/22/2018 2:21:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8310.jpg"
+      TimeStamp="8/22/2018 2:21:45 PM" />
+    <Url
+      Source="../../Content/Resources/Images/442.png"
+      TimeStamp="8/22/2018 2:21:47 PM" />
+    <Url
+      Source="../../Content/Resources/Images/3428.png"
+      TimeStamp="8/22/2018 2:21:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/rgtgray6.png"
+      TimeStamp="8/22/2018 2:22:05 PM" />
+    <Url
+      Source="../../Content/Resources/Images/1509.png"
+      TimeStamp="8/22/2018 2:21:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/763.gif"
+      TimeStamp="8/22/2018 2:21:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/764.gif"
+      TimeStamp="8/22/2018 2:21:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/765.gif"
+      TimeStamp="8/22/2018 2:21:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/766.gif"
+      TimeStamp="8/22/2018 2:21:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/767.gif"
+      TimeStamp="8/22/2018 2:21:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/768.gif"
+      TimeStamp="8/22/2018 2:21:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/769.gif"
+      TimeStamp="8/22/2018 2:21:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/770.gif"
+      TimeStamp="8/22/2018 2:21:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/771.gif"
+      TimeStamp="8/22/2018 2:21:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/772.gif"
+      TimeStamp="8/22/2018 2:21:57 PM" />
+    <Url
+      Source="../../Content/Resources/Images/773.gif"
+      TimeStamp="8/22/2018 2:21:57 PM" />
+    <Url
+      Source="../../Content/Resources/Images/lftgray6.png"
+      TimeStamp="8/22/2018 2:22:05 PM" />
+  </GeneratedFiles>
+</HtmlImport>

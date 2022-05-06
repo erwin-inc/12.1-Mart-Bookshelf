@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Documentation/ProjectRevamp/MadCapFlare/RenamedFileNames/AIT Files/Mart Online Help"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/"
+  LastImport="2018-08-13T13:41:42.3458894+05:30"
+  ImportTopicsLocation="Content/User Guides/">
+  <Files>
+    <Url
+      Source="file:///D:/Documentation/ProjectRevamp/MadCapFlare/RenamedFileNames/AIT Files/Mart Online Help"
+      AbsoluteSource="file:///D:/Documentation/ProjectRevamp/MadCapFlare/RenamedFileNames/AIT Files/Mart Online Help" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/dhtml_search.htm"
+      TimeStamp="8/13/2018 1:40:54 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/heading.htm"
+      TimeStamp="8/13/2018 1:40:54 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/html_frameset.htm"
+      TimeStamp="8/13/2018 1:40:54 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/index.htm"
+      TimeStamp="8/13/2018 1:40:54 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/index_template.htm"
+      TimeStamp="8/13/2018 1:40:55 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/tab_search.htm"
+      TimeStamp="8/13/2018 1:40:55 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/tab_toc.htm"
+      TimeStamp="8/13/2018 1:40:55 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/toc.htm"
+      TimeStamp="8/13/2018 1:40:55 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/assign_permissions_to_a_user.html"
+      TimeStamp="8/13/2018 1:40:55 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/catalog_manager.html"
+      TimeStamp="8/13/2018 1:40:55 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/Character Limitations.html"
+      TimeStamp="8/13/2018 1:40:56 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/complete_mart_settings.html"
+      TimeStamp="8/13/2018 1:40:56 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/Create a Customized Security Message.html"
+      TimeStamp="8/13/2018 1:40:56 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/Customize Mart Emails.html"
+      TimeStamp="8/13/2018 1:40:56 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/delete_the_mart.html"
+      TimeStamp="8/13/2018 1:40:56 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/Generate_Log_Files_on_Mart_Server.html"
+      TimeStamp="8/13/2018 1:40:57 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/Generate_Log_Files_on_Mart_Server_1.html"
+      TimeStamp="8/13/2018 1:40:57 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/group_user_best_practices.html"
+      TimeStamp="8/13/2018 1:40:57 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/how_profiles_work.html"
+      TimeStamp="8/13/2018 1:40:57 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/lock_a_catalog_entry.html"
+      TimeStamp="8/13/2018 1:40:57 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/lock_behavior.html"
+      TimeStamp="8/13/2018 1:40:58 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/log_in_to_mart.html"
+      TimeStamp="8/13/2018 1:40:58 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/manage_profiles.html"
+      TimeStamp="8/13/2018 1:40:58 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/manage_sessions.html"
+      TimeStamp="8/13/2018 1:40:58 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/manage_users_mart.html"
+      TimeStamp="8/13/2018 1:40:58 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/Mart Server Log Files.html"
+      TimeStamp="8/13/2018 1:40:59 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/mart_users.html"
+      TimeStamp="8/13/2018 1:40:59 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/Online Help.html"
+      TimeStamp="8/13/2018 1:40:59 PM" />
+    <Url
+      Source="../../Content/User Guides/Mart Online Help/Set session time-out.html"
+      TimeStamp="8/13/2018 1:40:59 PM" />
+    <Url
+      Source="../TOCs/Mart Online Help.fltoc"
+      TimeStamp="8/13/2018 1:41:41 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_search5.js"
+      TimeStamp="8/13/2018 12:01:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/diamond5.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/hyphen5.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/checkbox5.gif"
+      TimeStamp="6/20/2011 1:12:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/block5.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/docsstylesheet5.css"
+      TimeStamp="8/13/2018 1:40:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/erwin5.png"
+      TimeStamp="12/29/2016 10:51:25 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/stylesheet5.css"
+      TimeStamp="8/13/2018 1:40:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_center5.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_right5.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_left5.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_right5.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_left5.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_center5.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/space1x6.png"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/castyles5.css"
+      TimeStamp="8/13/2018 1:40:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/cbook5.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/topic5.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc10.css"
+      TimeStamp="8/13/2018 1:40:59 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_toc5.js"
+      TimeStamp="8/13/2018 12:00:40 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc11.css"
+      TimeStamp="8/13/2018 1:40:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/387.png"
+      TimeStamp="8/13/2018 12:01:00 PM" />
+    <Url
+      Source="../../Content/Resources/Images/583.png"
+      TimeStamp="8/13/2018 12:01:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/584.png"
+      TimeStamp="8/13/2018 12:01:04 PM" />
+    <Url
+      Source="../../Content/Resources/highlight5.js"
+      TimeStamp="9/6/2012 8:49:46 PM" />
+    <Url
+      Source="../../Content/Resources/mailca5.js"
+      TimeStamp="12/2/2016 4:06:20 PM" />
+    <Url
+      Source="../../Content/Resources/open_parent5.js"
+      TimeStamp="2/6/2013 4:36:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/rgtgray5.png"
+      TimeStamp="8/13/2018 12:01:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/794.png"
+      TimeStamp="8/13/2018 12:01:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/793.png"
+      TimeStamp="8/13/2018 12:01:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/792.png"
+      TimeStamp="8/13/2018 12:01:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/7757.png"
+      TimeStamp="8/13/2018 12:01:02 PM" />
+    <Url
+      Source="../../Content/Resources/Images/7756.png"
+      TimeStamp="8/13/2018 12:01:02 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8309.jpg"
+      TimeStamp="8/13/2018 12:00:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/lftgray5.png"
+      TimeStamp="8/13/2018 12:01:04 PM" />
+  </GeneratedFiles>
+</HtmlImport>

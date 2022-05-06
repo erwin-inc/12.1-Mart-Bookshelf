@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Install and Configure an SQL Server Mart"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-09-03T18:08:01.6913876+05:30"
+  ImportTopicsLocation="Content/Tutorials/Scenarios/"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/">
+  <Files>
+    <Url
+      Source="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Install and Configure an SQL Server Mart"
+      AbsoluteSource="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Install and Configure an SQL Server Mart" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/dhtml_search.htm"
+      TimeStamp="9/3/2018 6:06:45 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/heading.htm"
+      TimeStamp="9/3/2018 6:06:45 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/html_frameset.htm"
+      TimeStamp="9/3/2018 6:06:45 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/index.htm"
+      TimeStamp="9/3/2018 6:06:45 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/index_template.htm"
+      TimeStamp="9/3/2018 6:06:46 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/tab_search.htm"
+      TimeStamp="9/3/2018 6:06:46 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/tab_toc.htm"
+      TimeStamp="9/3/2018 6:06:46 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/toc.htm"
+      TimeStamp="9/3/2018 6:06:46 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/Change the Mart Database Server.html"
+      TimeStamp="9/3/2018 6:06:46 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/Configure the Mart Server.html"
+      TimeStamp="9/3/2018 6:06:46 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/Create a SQL Server Database.html"
+      TimeStamp="9/3/2018 6:06:46 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/deploy_mart_server.html"
+      TimeStamp="9/3/2018 6:06:47 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/How to Upgrade any r9 Series Mart to the Current Version.html"
+      TimeStamp="9/3/2018 6:06:47 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/initialize_SQL_server_mart.html"
+      TimeStamp="9/3/2018 6:06:47 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/Install a Mart or Upgrade a Mart-.html"
+      TimeStamp="9/3/2018 6:06:47 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/installing_configuring_mart.html"
+      TimeStamp="9/3/2018 6:06:47 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/Log In to erwin Mart Administrator.html"
+      TimeStamp="9/3/2018 6:06:47 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/log_in_to_mart_and_configure.html"
+      TimeStamp="9/3/2018 6:06:48 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/mart_architecture.html"
+      TimeStamp="9/3/2018 6:06:48 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/mart_server_windows_service.html"
+      TimeStamp="9/3/2018 6:06:48 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/Microsoft_SQL_Server_2005_Permissions.html"
+      TimeStamp="9/3/2018 6:06:48 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/Restart the Mart Server Service.html"
+      TimeStamp="9/3/2018 6:06:48 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/Review the Prerequisites.html"
+      TimeStamp="9/3/2018 6:06:48 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/review_prereq.html"
+      TimeStamp="9/3/2018 6:06:49 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/Specify Use of Foreign Characters With Microsoft SQL Server 2005.html"
+      TimeStamp="9/3/2018 6:06:49 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/Troubleshooting.html"
+      TimeStamp="9/3/2018 6:06:49 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure an SQL Server Mart/Upgrade the Mart Server.html"
+      TimeStamp="9/3/2018 6:06:49 PM" />
+    <Url
+      Source="../TOCs/Install and Configure an SQL Server Mart.fltoc"
+      TimeStamp="9/3/2018 6:08:01 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_search1.js"
+      TimeStamp="9/3/2018 6:02:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/diamond32.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/hyphen32.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/checkbox32.gif"
+      TimeStamp="6/20/2011 1:12:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/block32.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/docsstylesheet1.css"
+      TimeStamp="9/3/2018 6:06:50 PM" />
+    <Url
+      Source="../../Content/Resources/Images/erwin33.png"
+      TimeStamp="12/29/2016 10:51:25 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/stylesheet1.css"
+      TimeStamp="9/3/2018 6:06:50 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_center32.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_right32.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_left32.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_right32.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_left32.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_center32.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/space1x33.png"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/castyles1.css"
+      TimeStamp="9/3/2018 6:06:50 PM" />
+    <Url
+      Source="../../Content/Resources/Images/cbook32.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/topic32.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc3.css"
+      TimeStamp="9/3/2018 6:06:50 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_toc1.js"
+      TimeStamp="9/3/2018 6:02:45 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc1.css"
+      TimeStamp="9/3/2018 6:06:50 PM" />
+    <Url
+      Source="../../Content/Resources/highlight1.js"
+      TimeStamp="9/6/2012 8:49:46 PM" />
+    <Url
+      Source="../../Content/Resources/mailca1.js"
+      TimeStamp="12/2/2016 4:06:20 PM" />
+    <Url
+      Source="../../Content/Resources/open_parent1.js"
+      TimeStamp="2/6/2013 4:36:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/406.png"
+      TimeStamp="9/3/2018 6:02:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/465.png"
+      TimeStamp="9/3/2018 6:02:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/486.png"
+      TimeStamp="9/3/2018 6:02:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/lftgray33.png"
+      TimeStamp="9/3/2018 6:02:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/445.png"
+      TimeStamp="9/3/2018 6:02:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/rgtgray31.png"
+      TimeStamp="9/3/2018 6:02:54 PM" />
+  </GeneratedFiles>
+</HtmlImport>

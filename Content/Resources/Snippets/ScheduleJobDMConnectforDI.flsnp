@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="bodytext">A  job converts a model to erwin DI Suite compatible format and then,</p>
+        <ul class="listbullet">
+            <li class="listbullet">exports the model to the Metadata Manager</li>
+            <li class="listbullet">
+                <p>exports the source and target column data from a dimensional model into the Mapping Manager</p>
+                <p><b>Note</b>: Once source and target column data is exported, any updates made to them are not exported when the job runs again.</p>
+            </li>
+            <li class="listbullet">If the model has an associated NSM file, it exports the file to the Business Glossary Manager</li>
+        </ul>
+        <p class="bodytext">For more information about data sharing between erwin Data Modeler (DM) and erwin Data Intelligence Suite (DI Suite), refer to the <a href="../../User Guides/Mart Online Help/data_sharing_dmconnectdi.html">Data Sharing</a> topic.</p>
+        <p class="bodytext">To schedule a job, follow these steps:</p>
+        <ol class="listnumber">
+            <li class="listnumber">On the DM Connect For DI page, click a suitable calendar slot.<br />The Schedule Job page appears.</li>
+            <li class="listnumber">Set up job parameters as follows:
+				<dt>Select Models</dt><dd>Select models from mart catalog to export. To view selected models, click the <b>Selected Models</b> icon.</dd><dt>Include NSM</dt><dd>Select whether naming standards must be exported. A catalog named by the NSM file is created under <b>Business Glossary Manager</b> &gt; <b>DM NSM Files</b> custom asset.<br /><b>Note</b>: Ensure that the DM NSM Files asset is enabled in <b>erwin DI Suite</b> &gt; <b>Business Glossary Manager Settings</b>.</dd><dt>System Name</dt><dd>Enter a system name. This corresponds to System in Metadata Manager.</dd><dt>Environment Name</dt><dd>Use the predefined macros to set the environment name. This corresponds to Environment in Metadata manager.</dd><dd><b>Note</b>: For system and environment names, following special characters are allowed:</dd><ul><li><b>System</b>:  - (hyphen), _ (underscore), and space</li><li><b>Environment</b>: @ (at sign), $ (dollar sign), &amp; (ampersand), / (slash mark), - (hyphen), _ (underscore), and space</li>
+All other special characters are replaced with _ (underscore).</ul><dt>Export Options</dt><dd>Select a suitable export option:</dd><ul><li><b>Add New</b>:<ul><li>If an environment exists, this option adds any new tables or columns to it.</li><li>If an environment does not exist, this option creates an environment and adds tables and columns to it.</li></ul></li><li><b>Update Existing + Add New</b>:<ul><li>If the existing model objects have changed, this option exports the updates to the existing model objects in erwin DI Suite.</li><li>Also, it exports any new objects in the model to erwin DI Suite.</li></ul></li><li><b>Update Existing + Add New + Invalidate</b>:<br />Along with the functionality of Update Existing&#160;+ Add New option, this option invalidates any deleted tables or columns.</li><li><b>Delete &amp; Reload</b>:<br />This option deletes all the tables and columns. Then, it exports them again.<br /></li></ul><dt>Version</dt><dd>Select whether a version of an existing environment must be created. This archives the existing environment.</dd><dt>Job Name</dt><dd>Specify a job name.</dd><dt>Scheduled Job On</dt><dd>Select the date and time at which the job must run.</dd><dt>Job Interval</dt><dd>Select a suitable frequency at which the job must run. You can set the job to run once or recur daily, weekly, monthly, or yearly.</dd><dt>Notify Me</dt><dd>Select whether a notification is sent to you when the job status changes.<br />This enables the Notification Email and CC List fields.</dd><dt>Notification Email</dt><dd>Specify the email address at which you want to receive the notification.</dd><dt>CC&#160;List</dt><dd>Specify a semi-colon-separated list of email addresses that must receive the job notification</dd></li>
+            <li class="listnumber">Click <b>Submit</b>.<br />The job is added to the calendar for execution with its <b>Job&#160;State</b> set to Scheduled.<br /><br /></li>
+        </ol>
+    </body>
+</html>

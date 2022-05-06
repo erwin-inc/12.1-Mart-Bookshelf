@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///C:/Users/Shrutika/Desktop/New folder"
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="content"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-08-08T12:14:54.0515278+05:30"
+  ImportTopicsLocation="Content/">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/New folder"
+      AbsoluteSource="file:///C:/Users/Shrutika/Desktop/New folder" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/New folder/contactus.html"
+      TimeStamp="8/8/2018 12:14:49 PM" />
+    <Url
+      Source="../../Content/New folder/legal.html"
+      TimeStamp="8/8/2018 12:14:49 PM" />
+    <Url
+      Source="../TOCs/New folder.fltoc"
+      TimeStamp="8/8/2018 12:14:53 PM" />
+  </GeneratedFiles>
+</HtmlImport>

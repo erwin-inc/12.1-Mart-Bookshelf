@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Working on a Mart"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-09-03T15:45:28.9951194+05:30"
+  ImportTopicsLocation="Content/Tutorials/Scenarios/"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/">
+  <Files>
+    <Url
+      Source="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Working on a Mart"
+      AbsoluteSource="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Working on a Mart" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/dhtml_search.htm"
+      TimeStamp="9/3/2018 3:45:01 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/index.htm"
+      TimeStamp="9/3/2018 3:45:01 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/tab_search.htm"
+      TimeStamp="9/3/2018 3:45:01 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/tab_toc.htm"
+      TimeStamp="9/3/2018 3:45:02 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/toc.htm"
+      TimeStamp="9/3/2018 3:45:02 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/admin_tasks.html"
+      TimeStamp="9/3/2018 3:45:02 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Catalog_Manager.html"
+      TimeStamp="9/3/2018 3:45:02 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Change_Management_in_ERwin_WE.html"
+      TimeStamp="9/3/2018 3:45:02 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Close_a_Mart_Model.html"
+      TimeStamp="9/3/2018 3:45:03 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Compare_model_versions.html"
+      TimeStamp="9/3/2018 3:45:03 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/connect_to_mart.html"
+      TimeStamp="9/3/2018 3:45:03 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/copy_library_model.html"
+      TimeStamp="9/3/2018 3:45:03 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Create a Delta Version.html"
+      TimeStamp="9/3/2018 3:45:03 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Create a Named Version.html"
+      TimeStamp="9/3/2018 3:45:03 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Delete Versions.html"
+      TimeStamp="9/3/2018 3:45:04 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Difference_Reconciliation_Impact_Analysis_and_Reporting_Toolbar.html"
+      TimeStamp="9/3/2018 3:45:04 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Difference_Reconciliation_Known_Difference_Toolbar.html"
+      TimeStamp="9/3/2018 3:45:04 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Difference_Reconciliation_Navigation_Toolbar.html"
+      TimeStamp="9/3/2018 3:45:05 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Difference_Reconciliation_Standard_Filters_Toolbar.html"
+      TimeStamp="9/3/2018 3:45:05 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Difference_Reconciliation_Standard_Toolbar.html"
+      TimeStamp="9/3/2018 3:45:05 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Disconnect_from_the_Mart.html"
+      TimeStamp="9/3/2018 3:45:06 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/disconnect_mart.html"
+      TimeStamp="9/3/2018 3:45:06 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Filter_the_Change_List.html"
+      TimeStamp="9/3/2018 3:45:06 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Generate a Model Validation Report.html"
+      TimeStamp="9/3/2018 3:45:06 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/generate_diagram_report.html"
+      TimeStamp="9/3/2018 3:45:06 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/generate_global_report.html"
+      TimeStamp="9/3/2018 3:45:06 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/generate_lock_report.html"
+      TimeStamp="9/3/2018 3:45:06 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Generate_Log_Files_on_Mart_Server.html"
+      TimeStamp="9/3/2018 3:45:07 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/How_You_Merge_Model_Objects.html"
+      TimeStamp="9/3/2018 3:45:07 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Lock_a_Catalog_Entry.html"
+      TimeStamp="9/3/2018 3:45:07 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/lock_behavior.html"
+      TimeStamp="9/3/2018 3:45:07 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Mart Server Log Files.html"
+      TimeStamp="9/3/2018 3:45:07 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/mart_architecture.html"
+      TimeStamp="9/3/2018 3:45:08 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/mart_sessions.html"
+      TimeStamp="9/3/2018 3:45:08 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Merge_two_independent_models.html"
+      TimeStamp="9/3/2018 3:45:08 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Merge_Two_Versions_of_a_Model.html"
+      TimeStamp="9/3/2018 3:45:08 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Microsoft_SQL_Server_2005_Permissions.html"
+      TimeStamp="9/3/2018 3:45:08 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Model Versions.html"
+      TimeStamp="9/3/2018 3:45:08 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/model_contents_class.html"
+      TimeStamp="9/3/2018 3:45:09 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/model_lock.html"
+      TimeStamp="9/3/2018 3:45:09 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Model_Merge_Options.html"
+      TimeStamp="9/3/2018 3:45:09 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Open_a_Model_or_a_Model_Version_from_the_Mart.html"
+      TimeStamp="9/3/2018 3:45:09 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Rebind_an_Offline_Mart_Model_to_the_Mart.html"
+      TimeStamp="9/3/2018 3:45:09 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Reconcile_model_differences.html"
+      TimeStamp="9/3/2018 3:45:10 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Refresh_your_copy_of_a_model.html"
+      TimeStamp="9/3/2018 3:45:10 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Resolve_Security_Violations.html"
+      TimeStamp="9/3/2018 3:45:10 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/retrieve_forgotten_mart_password.html"
+      TimeStamp="9/3/2018 3:45:10 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Review_model_changes.html"
+      TimeStamp="9/3/2018 3:45:10 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Save_a_Mart_Model_Offline.html"
+      TimeStamp="9/3/2018 3:45:10 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Save_a_model_to_a_different_name.html"
+      TimeStamp="9/3/2018 3:45:11 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Save_a_new_model_to_the_mart.html"
+      TimeStamp="9/3/2018 3:45:11 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/save_close_model.html"
+      TimeStamp="9/3/2018 3:45:11 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Search_for_changes_in_a_change_list.html"
+      TimeStamp="9/3/2018 3:45:11 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Specify Use of Foreign Characters With Microsoft SQL Server 2008.html"
+      TimeStamp="9/3/2018 3:45:11 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Terminate_Inactive_or_Closed_Sessions.html"
+      TimeStamp="9/3/2018 3:45:12 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/The_Report_Viewer.html"
+      TimeStamp="9/3/2018 3:45:12 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Three_Way_Merge.html"
+      TimeStamp="9/3/2018 3:45:12 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/types_of_sessions_and_statuses.html"
+      TimeStamp="9/3/2018 3:45:12 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Workgroup_Modeling_reports.html"
+      TimeStamp="9/3/2018 3:45:13 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Working on a Mart/Working_on_Mart.html"
+      TimeStamp="9/3/2018 3:45:13 PM" />
+    <Url
+      Source="../TOCs/Working on a Mart.fltoc"
+      TimeStamp="9/3/2018 3:45:27 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_search2.js"
+      TimeStamp="9/3/2018 3:08:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/erwin30.png"
+      TimeStamp="12/29/2016 10:51:25 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_center29.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_right29.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_left29.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_right29.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_left29.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_center29.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/space1x30.png"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/castyles2.css"
+      TimeStamp="9/3/2018 3:45:13 PM" />
+    <Url
+      Source="../../Content/Resources/Images/cbook29.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/topic29.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc4.css"
+      TimeStamp="9/3/2018 3:45:13 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_toc2.js"
+      TimeStamp="9/3/2018 3:08:35 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc5.css"
+      TimeStamp="9/3/2018 3:45:13 PM" />
+    <Url
+      Source="../../Content/Resources/Images/hyphen29.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/checkbox29.gif"
+      TimeStamp="6/20/2011 1:12:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/diamond29.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/block29.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/highlight2.js"
+      TimeStamp="9/6/2012 8:49:46 PM" />
+    <Url
+      Source="../../Content/Resources/mailca2.js"
+      TimeStamp="12/2/2016 4:06:20 PM" />
+    <Url
+      Source="../../Content/Resources/open_parent2.js"
+      TimeStamp="2/6/2013 4:36:10 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/docsstylesheet2.css"
+      TimeStamp="9/3/2018 3:45:13 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/stylesheet2.css"
+      TimeStamp="9/3/2018 3:45:13 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8132.png"
+      TimeStamp="9/3/2018 3:08:46 PM" />
+    <Url
+      Source="../../Content/Resources/Images/377.gif"
+      TimeStamp="9/3/2018 3:08:50 PM" />
+    <Url
+      Source="../../Content/Resources/Images/378.gif"
+      TimeStamp="9/3/2018 3:08:50 PM" />
+    <Url
+      Source="../../Content/Resources/Images/379.gif"
+      TimeStamp="9/3/2018 3:08:50 PM" />
+    <Url
+      Source="../../Content/Resources/Images/380.gif"
+      TimeStamp="9/3/2018 3:08:50 PM" />
+    <Url
+      Source="../../Content/Resources/Images/381.gif"
+      TimeStamp="9/3/2018 3:08:50 PM" />
+    <Url
+      Source="../../Content/Resources/Images/371.png"
+      TimeStamp="9/3/2018 3:08:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/372.png"
+      TimeStamp="9/3/2018 3:08:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/382.gif"
+      TimeStamp="9/3/2018 3:08:50 PM" />
+    <Url
+      Source="../../Content/Resources/Images/383.gif"
+      TimeStamp="9/3/2018 3:08:50 PM" />
+    <Url
+      Source="../../Content/Resources/Images/384.gif"
+      TimeStamp="9/3/2018 3:08:50 PM" />
+    <Url
+      Source="../../Content/Resources/Images/373.png"
+      TimeStamp="9/3/2018 3:08:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/374.png"
+      TimeStamp="9/3/2018 3:08:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/375.png"
+      TimeStamp="9/3/2018 3:08:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/385.gif"
+      TimeStamp="9/3/2018 3:08:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/376.png"
+      TimeStamp="9/3/2018 3:08:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/386.gif"
+      TimeStamp="9/3/2018 3:08:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/387.gif"
+      TimeStamp="9/3/2018 3:08:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/388.gif"
+      TimeStamp="9/3/2018 3:08:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/377.png"
+      TimeStamp="9/3/2018 3:08:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/378.png"
+      TimeStamp="9/3/2018 3:08:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/379.png"
+      TimeStamp="9/3/2018 3:08:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/380.png"
+      TimeStamp="9/3/2018 3:08:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/381.png"
+      TimeStamp="9/3/2018 3:08:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/402.png"
+      TimeStamp="9/3/2018 3:08:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/389.gif"
+      TimeStamp="9/3/2018 3:08:49 PM" />
+    <Url
+      Source="../../Content/Resources/Images/390.gif"
+      TimeStamp="9/3/2018 3:08:49 PM" />
+    <Url
+      Source="../../Content/Resources/Images/391.gif"
+      TimeStamp="9/3/2018 3:08:49 PM" />
+    <Url
+      Source="../../Content/Resources/Images/392.gif"
+      TimeStamp="9/3/2018 3:08:49 PM" />
+    <Url
+      Source="../../Content/Resources/Images/393.gif"
+      TimeStamp="9/3/2018 3:08:49 PM" />
+    <Url
+      Source="../../Content/Resources/Images/394.gif"
+      TimeStamp="9/3/2018 3:08:49 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8133.png"
+      TimeStamp="9/3/2018 3:08:46 PM" />
+    <Url
+      Source="../../Content/Resources/Images/rgtgray28.png"
+      TimeStamp="9/3/2018 3:08:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/403.png"
+      TimeStamp="9/3/2018 3:08:46 PM" />
+    <Url
+      Source="../../Content/Resources/Images/444.png"
+      TimeStamp="9/3/2018 3:08:46 PM" />
+    <Url
+      Source="../../Content/Resources/Images/774.gif"
+      TimeStamp="9/3/2018 3:08:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/775.gif"
+      TimeStamp="9/3/2018 3:08:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/776.gif"
+      TimeStamp="9/3/2018 3:08:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/777.gif"
+      TimeStamp="9/3/2018 3:08:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/778.gif"
+      TimeStamp="9/3/2018 3:08:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/779.gif"
+      TimeStamp="9/3/2018 3:08:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/780.gif"
+      TimeStamp="9/3/2018 3:08:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/781.gif"
+      TimeStamp="9/3/2018 3:08:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/782.gif"
+      TimeStamp="9/3/2018 3:08:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/783.gif"
+      TimeStamp="9/3/2018 3:08:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/784.gif"
+      TimeStamp="9/3/2018 3:08:47 PM" />
+    <Url
+      Source="../../Content/Resources/Images/lftgray30.png"
+      TimeStamp="9/3/2018 3:08:54 PM" />
+  </GeneratedFiles>
+</HtmlImport>

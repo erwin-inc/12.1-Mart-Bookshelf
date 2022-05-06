@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Generating or Viewing Reports"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-09-01T00:31:21.6031861+05:30"
+  ImportTopicsLocation="Content/Tutorials/Scenarios/"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/">
+  <Files>
+    <Url
+      Source="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Generating or Viewing Reports"
+      AbsoluteSource="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Generating or Viewing Reports" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/dhtml_search.htm"
+      TimeStamp="9/1/2018 12:30:06 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/heading.htm"
+      TimeStamp="9/1/2018 12:30:07 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/html_frameset.htm"
+      TimeStamp="9/1/2018 12:30:07 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/index.htm"
+      TimeStamp="9/1/2018 12:30:07 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/index_template.htm"
+      TimeStamp="9/1/2018 12:30:07 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/tab_search.htm"
+      TimeStamp="9/1/2018 12:30:07 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/tab_toc.htm"
+      TimeStamp="9/1/2018 12:30:07 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/toc.htm"
+      TimeStamp="9/1/2018 12:30:07 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/ABSTRACT_OBJECT_Table.html"
+      TimeStamp="9/1/2018 12:30:08 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/ABSTRACT_TYPE_Table.html"
+      TimeStamp="9/1/2018 12:30:08 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/AGGREGATION_TYPE_Table.html"
+      TimeStamp="9/1/2018 12:30:08 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/AL Schema Tables.html"
+      TimeStamp="9/1/2018 12:30:08 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/All_Objects_and_Properties_Modified_During_a_Modeling_Session.html"
+      TimeStamp="9/1/2018 12:30:08 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/All_Objects_Created_During_a_Modeling_Session.html"
+      TimeStamp="9/1/2018 12:30:09 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/All_Objects_Deleted_During_a_Modeling_Session.html"
+      TimeStamp="9/1/2018 12:30:09 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/All_Objects_Modified_During_a_Modeling_Session.html"
+      TimeStamp="9/1/2018 12:30:09 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/AL_Schema.html"
+      TimeStamp="9/1/2018 12:30:09 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/appendix_schemas.html"
+      TimeStamp="9/1/2018 12:30:09 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/ASSOCIATION_TYPE_Table.html"
+      TimeStamp="9/1/2018 12:30:09 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Attributes_with_Data_Types.html"
+      TimeStamp="9/1/2018 12:30:10 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/CATEGORY_TYPE_and_CATEGORY_MEMBERSHIP_Tables.html"
+      TimeStamp="9/1/2018 12:30:10 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Change the Logo on the HTML Report.html"
+      TimeStamp="9/1/2018 12:30:10 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Concrete_Object_Tables.html"
+      TimeStamp="9/1/2018 12:30:10 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/copyright.html"
+      TimeStamp="9/1/2018 12:30:10 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/CREATED_Table.html"
+      TimeStamp="9/1/2018 12:30:11 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/create_rep_report_designer.html"
+      TimeStamp="9/1/2018 12:30:11 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/DBMS_Specific_Tables.html"
+      TimeStamp="9/1/2018 12:30:11 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/decide_the_method.html"
+      TimeStamp="9/1/2018 12:30:11 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/DELETED_Table.html"
+      TimeStamp="9/1/2018 12:30:11 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/DGM_schema.html"
+      TimeStamp="9/1/2018 12:30:12 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/DGM_schema_tables.html"
+      TimeStamp="9/1/2018 12:30:12 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/diagram_table.html"
+      TimeStamp="9/1/2018 12:30:12 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Domains_Not_Used_by_Attributes.html"
+      TimeStamp="9/1/2018 12:30:12 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Domain_Usage.html"
+      TimeStamp="9/1/2018 12:30:12 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/EM0 Schema Tables.html"
+      TimeStamp="9/1/2018 12:30:13 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/EM0Schema.html"
+      TimeStamp="9/1/2018 12:30:13 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/EM1 Schema Tables.html"
+      TimeStamp="9/1/2018 12:30:13 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/EM1_Schema.html"
+      TimeStamp="9/1/2018 12:30:13 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Entities_Not_Having_Primary_Key_Columns.html"
+      TimeStamp="9/1/2018 12:30:14 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Entity_Definitions_and_Notes.html"
+      TimeStamp="9/1/2018 12:30:14 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Functions.html"
+      TimeStamp="9/1/2018 12:30:14 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Functions_2.html"
+      TimeStamp="9/1/2018 12:30:14 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/generate_custom_reports.html"
+      TimeStamp="9/1/2018 12:30:14 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Generating TLX Reports.html"
+      TimeStamp="9/1/2018 12:30:15 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Introduction- How to Generate or View Reports.html"
+      TimeStamp="9/1/2018 12:30:15 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/IS_AUTOCALCULATED.html"
+      TimeStamp="9/1/2018 12:30:15 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/IS_DEFAULT.html"
+      TimeStamp="9/1/2018 12:30:15 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/IS_HARDENED.html"
+      TimeStamp="9/1/2018 12:30:16 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Key_Group_Types.html"
+      TimeStamp="9/1/2018 12:30:16 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Logical_and_Physical_Names_of_Attributes.html"
+      TimeStamp="9/1/2018 12:30:16 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Logical_and_Physical_Names_of_Entities.html"
+      TimeStamp="9/1/2018 12:30:16 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Logical_Only_and_Physical_Only_Status_of_Attributes.html"
+      TimeStamp="9/1/2018 12:30:16 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Logical_Only_Attributes.html"
+      TimeStamp="9/1/2018 12:30:16 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/M0 Schema Tables.html"
+      TimeStamp="9/1/2018 12:30:17 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/M0_Schema.html"
+      TimeStamp="9/1/2018 12:30:17 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/M1 Schema Tables.html"
+      TimeStamp="9/1/2018 12:30:17 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/M1_Schema.html"
+      TimeStamp="9/1/2018 12:30:17 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Mart Report Data Compression.html"
+      TimeStamp="9/1/2018 12:30:17 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Migrated_Physical_Attributes.html"
+      TimeStamp="9/1/2018 12:30:17 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/model_report_status.html"
+      TimeStamp="9/1/2018 12:30:18 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Model_UDP_Definitions.html"
+      TimeStamp="9/1/2018 12:30:18 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/MODIFIED_and_PROPERTIES_Tables.html"
+      TimeStamp="9/1/2018 12:30:18 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/multiple_threads_update_models.html"
+      TimeStamp="9/1/2018 12:30:18 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Names_of_Logical_Entities.html"
+      TimeStamp="9/1/2018 12:30:18 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Non_Subtype_Relationships.html"
+      TimeStamp="9/1/2018 12:30:18 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Objects_Using_a_Default_Name.html"
+      TimeStamp="9/1/2018 12:30:19 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/OBJECT_TYPE_Table.html"
+      TimeStamp="9/1/2018 12:30:19 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Oracle_Model_Object_Types.html"
+      TimeStamp="9/1/2018 12:30:19 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/pinned_reports.html"
+      TimeStamp="9/1/2018 12:30:19 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/PROPERTY_TYPE_Table.html"
+      TimeStamp="9/1/2018 12:30:20 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Qualified_Names_of_Physical_Entities_for_Target_Servers.html"
+      TimeStamp="9/1/2018 12:30:20 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/r9_reporting_appendix.html"
+      TimeStamp="9/1/2018 12:30:20 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/reporting_on_model_metadata.html"
+      TimeStamp="9/1/2018 12:30:20 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/schedule_mart_report_synch.html"
+      TimeStamp="9/1/2018 12:30:20 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/standard_reports.html"
+      TimeStamp="9/1/2018 12:30:21 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Subject Area Reports.html"
+      TimeStamp="9/1/2018 12:30:21 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Subject_Area_Membership.html"
+      TimeStamp="9/1/2018 12:30:21 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/TARGET_DBMS_Table.html"
+      TimeStamp="9/1/2018 12:30:21 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/TRAN.html"
+      TimeStamp="9/1/2018 12:30:21 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/TRAN_2.html"
+      TimeStamp="9/1/2018 12:30:21 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Useful_Queries.html"
+      TimeStamp="9/1/2018 12:30:22 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/use_crystal_reports_run_query.html"
+      TimeStamp="9/1/2018 12:30:22 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/use_excel_and_run_query.html"
+      TimeStamp="9/1/2018 12:30:22 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Use_Query_Tool.html"
+      TimeStamp="9/1/2018 12:30:22 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/Vector_Property_Tables.html"
+      TimeStamp="9/1/2018 12:30:23 AM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Generating or Viewing Reports/verify_odbc_data_source.html"
+      TimeStamp="9/1/2018 12:30:23 AM" />
+    <Url
+      Source="../TOCs/Generating or Viewing Reports1.fltoc"
+      TimeStamp="9/1/2018 12:31:19 AM" />
+    <Url
+      Source="../../Content/Resources/dhtml_search2.js"
+      TimeStamp="8/31/2018 10:44:41 PM" />
+    <Url
+      Source="../../Content/Resources/Images/diamond23.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/hyphen23.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/checkbox23.gif"
+      TimeStamp="6/20/2011 1:12:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/block23.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/docsstylesheet2.css"
+      TimeStamp="9/1/2018 12:30:23 AM" />
+    <Url
+      Source="../../Content/Resources/Images/erwin24.png"
+      TimeStamp="12/29/2016 10:51:25 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/stylesheet2.css"
+      TimeStamp="9/1/2018 12:30:23 AM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_center23.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_right23.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_left23.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_right23.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_left23.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_center23.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/space1x24.png"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/castyles2.css"
+      TimeStamp="9/1/2018 12:30:23 AM" />
+    <Url
+      Source="../../Content/Resources/Images/cbook23.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/topic23.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc4.css"
+      TimeStamp="9/1/2018 12:30:23 AM" />
+    <Url
+      Source="../../Content/Resources/dhtml_toc2.js"
+      TimeStamp="8/31/2018 10:44:10 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc5.css"
+      TimeStamp="9/1/2018 12:30:23 AM" />
+    <Url
+      Source="../../Content/Resources/Images/397.png"
+      TimeStamp="8/31/2018 10:44:32 PM" />
+    <Url
+      Source="../../Content/Resources/highlight2.js"
+      TimeStamp="9/6/2012 8:49:46 PM" />
+    <Url
+      Source="../../Content/Resources/mailca2.js"
+      TimeStamp="12/2/2016 4:06:20 PM" />
+    <Url
+      Source="../../Content/Resources/open_parent2.js"
+      TimeStamp="2/6/2013 4:36:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/1710.png"
+      TimeStamp="8/31/2018 10:44:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/rgtgray22.png"
+      TimeStamp="8/31/2018 10:44:41 PM" />
+    <Url
+      Source="../../Content/Resources/Images/1608.png"
+      TimeStamp="8/31/2018 10:44:33 PM" />
+    <Url
+      Source="../../Content/Resources/Images/1609.png"
+      TimeStamp="8/31/2018 10:44:33 PM" />
+    <Url
+      Source="../../Content/Resources/Images/1610.png"
+      TimeStamp="8/31/2018 10:44:33 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8329.jpg"
+      TimeStamp="8/31/2018 10:44:31 PM" />
+    <Url
+      Source="../../Content/Resources/Images/lftgray24.png"
+      TimeStamp="8/31/2018 10:44:41 PM" />
+    <Url
+      Source="../../Content/Resources/Images/1691.png"
+      TimeStamp="8/31/2018 10:44:32 PM" />
+    <Url
+      Source="../../Content/Resources/Images/1711.png"
+      TimeStamp="8/31/2018 10:44:33 PM" />
+    <Url
+      Source="../../Content/Resources/Images/1601.gif"
+      TimeStamp="8/31/2018 10:44:38 PM" />
+  </GeneratedFiles>
+</HtmlImport>

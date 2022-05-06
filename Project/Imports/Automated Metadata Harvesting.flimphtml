@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Automated Metadata Harvesting"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-09-11T17:17:41.7392962+05:30"
+  ImportTopicsLocation="Content/Installation/"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/">
+  <Files>
+    <Url
+      Source="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Automated Metadata Harvesting"
+      AbsoluteSource="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Automated Metadata Harvesting" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Installation/Automated Metadata Harvesting/dhtml_search.htm"
+      TimeStamp="9/11/2018 5:13:07 PM" />
+    <Url
+      Source="../../Content/Installation/Automated Metadata Harvesting/heading.htm"
+      TimeStamp="9/11/2018 5:13:08 PM" />
+    <Url
+      Source="../../Content/Installation/Automated Metadata Harvesting/html_frameset.htm"
+      TimeStamp="9/11/2018 5:13:08 PM" />
+    <Url
+      Source="../../Content/Installation/Automated Metadata Harvesting/index.htm"
+      TimeStamp="9/11/2018 5:13:08 PM" />
+    <Url
+      Source="../../Content/Installation/Automated Metadata Harvesting/index_template.htm"
+      TimeStamp="9/11/2018 5:13:09 PM" />
+    <Url
+      Source="../../Content/Installation/Automated Metadata Harvesting/tab_search.htm"
+      TimeStamp="9/11/2018 5:13:09 PM" />
+    <Url
+      Source="../../Content/Installation/Automated Metadata Harvesting/tab_toc.htm"
+      TimeStamp="9/11/2018 5:13:10 PM" />
+    <Url
+      Source="../../Content/Installation/Automated Metadata Harvesting/toc.htm"
+      TimeStamp="9/11/2018 5:13:10 PM" />
+    <Url
+      Source="../../Content/Installation/Automated Metadata Harvesting/Automated Metadata Harvesting.html"
+      TimeStamp="9/11/2018 5:13:10 PM" />
+    <Url
+      Source="../../Content/Installation/Automated Metadata Harvesting/Configuring Jobs.html"
+      TimeStamp="9/11/2018 5:13:12 PM" />
+    <Url
+      Source="../../Content/Installation/Automated Metadata Harvesting/contact_customer_support.html"
+      TimeStamp="9/11/2018 5:13:12 PM" />
+    <Url
+      Source="../../Content/Installation/Automated Metadata Harvesting/copyright.html"
+      TimeStamp="9/11/2018 5:13:13 PM" />
+    <Url
+      Source="../../Content/Installation/Automated Metadata Harvesting/Installing and Configuring Automated Metadata Harvesting (AMH).html"
+      TimeStamp="9/11/2018 5:13:14 PM" />
+    <Url
+      Source="../../Content/Installation/Automated Metadata Harvesting/Introduction.html"
+      TimeStamp="9/11/2018 5:13:14 PM" />
+    <Url
+      Source="../../Content/Installation/Automated Metadata Harvesting/Running Jobs.html"
+      TimeStamp="9/11/2018 5:13:15 PM" />
+    <Url
+      Source="../TOCs/Automated Metadata Harvesting.fltoc"
+      TimeStamp="9/11/2018 5:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_search2.js"
+      TimeStamp="9/11/2018 4:49:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/diamond35.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/hyphen35.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/checkbox35.gif"
+      TimeStamp="6/20/2011 1:12:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/block35.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/docsstylesheet1.css"
+      TimeStamp="9/11/2018 5:13:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/erwin36.png"
+      TimeStamp="12/29/2016 10:51:25 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/stylesheet1.css"
+      TimeStamp="9/11/2018 5:13:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_center35.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_right35.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_left35.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_right35.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_left35.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_center35.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/space1x36.png"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/castyles1.css"
+      TimeStamp="9/11/2018 5:13:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/cbook35.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/topic35.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc3.css"
+      TimeStamp="9/11/2018 5:13:15 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_toc2.js"
+      TimeStamp="9/11/2018 4:39:19 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc1.css"
+      TimeStamp="9/11/2018 5:13:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8337.jpg"
+      TimeStamp="9/11/2018 4:39:21 PM" />
+    <Url
+      Source="../../Content/Resources/Images/lftgray36.png"
+      TimeStamp="9/11/2018 4:39:23 PM" />
+    <Url
+      Source="../../Content/Resources/highlight2.js"
+      TimeStamp="9/6/2012 8:49:46 PM" />
+    <Url
+      Source="../../Content/Resources/mailca2.js"
+      TimeStamp="12/2/2016 4:06:20 PM" />
+    <Url
+      Source="../../Content/Resources/open_parent2.js"
+      TimeStamp="2/6/2013 4:36:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8384.png"
+      TimeStamp="9/11/2018 4:39:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8383.png"
+      TimeStamp="9/11/2018 4:39:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8382.png"
+      TimeStamp="9/11/2018 4:39:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8380.png"
+      TimeStamp="9/11/2018 4:39:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8379.png"
+      TimeStamp="9/11/2018 4:39:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8371.png"
+      TimeStamp="9/11/2018 4:39:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8378.png"
+      TimeStamp="9/11/2018 4:39:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8376.png"
+      TimeStamp="9/11/2018 4:39:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8370.png"
+      TimeStamp="9/11/2018 4:39:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8375.png"
+      TimeStamp="9/11/2018 4:39:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8369.png"
+      TimeStamp="9/11/2018 4:39:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8368.png"
+      TimeStamp="9/11/2018 4:39:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8367.png"
+      TimeStamp="9/11/2018 4:39:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8364.png"
+      TimeStamp="9/11/2018 4:39:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8362.png"
+      TimeStamp="9/11/2018 4:39:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8361.png"
+      TimeStamp="9/11/2018 4:39:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8360.png"
+      TimeStamp="9/11/2018 4:39:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8359.png"
+      TimeStamp="9/11/2018 4:39:21 PM" />
+    <Url
+      Source="../../Content/Resources/Images/rgtgray34.png"
+      TimeStamp="9/11/2018 4:39:23 PM" />
+  </GeneratedFiles>
+</HtmlImport>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ImportResourcesLocation="NoImport"
+  SourceFolders=""
+  ImportTopics="specific"
+  LastImport="2019-10-11T16:56:23.1100815+05:30"
+  ImportTopicsLocation="Content/Release Notes/Data Modeler Release Notes/">
+  <Files>
+    <Url
+      Source="file:///C:/Users/admin/OneDrive - erwin, Inc/MadCap Flare Project/Backup/2018 R1/erwin Bookshelf/Content/Release Notes/Data Modeler Release Notes/API-Related Features do not Work on a Windows 2008 R2 Machine.html"
+      AbsoluteSource="file:///C:/Users/admin/OneDrive - erwin, Inc/MadCap Flare Project/Backup/2018 R1/erwin Bookshelf/Content/Release Notes/Data Modeler Release Notes/API-Related Features do not Work on a Windows 2008 R2 Machine.html" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Release Notes/Data Modeler Release Notes/API-Related Features do not Work on a Windows 2008 R2 Machine.html"
+      TimeStamp="11-10-2019 16:56:20" />
+    <Url
+      Source="../TOCs/API-Related Features do not Work on a Windows 2008 R2 Machine.fltoc"
+      TimeStamp="11-10-2019 16:56:22" />
+  </GeneratedFiles>
+</HtmlImport>

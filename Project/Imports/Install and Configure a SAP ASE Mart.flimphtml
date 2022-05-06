@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Install and Configure a SAP ASE Mart"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-09-03T18:19:54.8795450+05:30"
+  ImportTopicsLocation="Content/Tutorials/Scenarios/"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/">
+  <Files>
+    <Url
+      Source="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Install and Configure a SAP ASE Mart"
+      AbsoluteSource="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Install and Configure a SAP ASE Mart" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/dhtml_search.htm"
+      TimeStamp="9/3/2018 6:18:47 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/heading.htm"
+      TimeStamp="9/3/2018 6:18:47 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/html_frameset.htm"
+      TimeStamp="9/3/2018 6:18:47 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/index.htm"
+      TimeStamp="9/3/2018 6:18:47 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/index_template.htm"
+      TimeStamp="9/3/2018 6:18:47 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/tab_search.htm"
+      TimeStamp="9/3/2018 6:18:48 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/tab_toc.htm"
+      TimeStamp="9/3/2018 6:18:48 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/toc.htm"
+      TimeStamp="9/3/2018 6:18:48 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/Change the Mart Database Server.html"
+      TimeStamp="9/3/2018 6:18:48 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/Configure the Mart Server.html"
+      TimeStamp="9/3/2018 6:18:48 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/Create a SAP ASE Database.html"
+      TimeStamp="9/3/2018 6:18:48 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/deploy_mart_server.html"
+      TimeStamp="9/3/2018 6:18:49 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/How to Upgrade any r9 Series Mart to the Current Version.html"
+      TimeStamp="9/3/2018 6:18:49 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/Initialize a SAP ASE Mart.html"
+      TimeStamp="9/3/2018 6:18:49 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/Install a Mart or Upgrade a Mart-.html"
+      TimeStamp="9/3/2018 6:18:49 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/installing_configuring_mart.html"
+      TimeStamp="9/3/2018 6:18:49 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/Log In to erwin Mart Administrator.html"
+      TimeStamp="9/3/2018 6:18:49 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/log_in_to_mart_and_configure.html"
+      TimeStamp="9/3/2018 6:18:49 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/mart_architecture.html"
+      TimeStamp="9/3/2018 6:18:50 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/mart_server_windows_service.html"
+      TimeStamp="9/3/2018 6:18:50 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/Restart the Mart Server Service.html"
+      TimeStamp="9/3/2018 6:18:50 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/Review the Prerequisites.html"
+      TimeStamp="9/3/2018 6:18:50 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/review_prereq.html"
+      TimeStamp="9/3/2018 6:18:50 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/SAP ASE Mart Database Memory.html"
+      TimeStamp="9/3/2018 6:18:50 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/Transact-SQL Commands.html"
+      TimeStamp="9/3/2018 6:18:51 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/Troubleshooting.html"
+      TimeStamp="9/3/2018 6:18:51 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Install and Configure a SAP ASE Mart/Upgrade the Mart Server.html"
+      TimeStamp="9/3/2018 6:18:51 PM" />
+    <Url
+      Source="../TOCs/Install and Configure a SAP ASE Mart.fltoc"
+      TimeStamp="9/3/2018 6:19:54 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_search2.js"
+      TimeStamp="9/3/2018 6:16:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/diamond33.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/hyphen33.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/checkbox33.gif"
+      TimeStamp="6/20/2011 1:12:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/block33.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/docsstylesheet2.css"
+      TimeStamp="9/3/2018 6:18:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/erwin34.png"
+      TimeStamp="12/29/2016 10:51:25 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/stylesheet2.css"
+      TimeStamp="9/3/2018 6:18:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_center33.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_right33.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_left33.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_right33.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_left33.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_center33.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/space1x34.png"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/castyles2.css"
+      TimeStamp="9/3/2018 6:18:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/cbook33.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/topic33.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc4.css"
+      TimeStamp="9/3/2018 6:18:51 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_toc2.js"
+      TimeStamp="9/3/2018 6:16:04 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc5.css"
+      TimeStamp="9/3/2018 6:18:51 PM" />
+    <Url
+      Source="../../Content/Resources/highlight2.js"
+      TimeStamp="9/6/2012 8:49:46 PM" />
+    <Url
+      Source="../../Content/Resources/mailca2.js"
+      TimeStamp="12/2/2016 4:06:20 PM" />
+    <Url
+      Source="../../Content/Resources/open_parent2.js"
+      TimeStamp="2/6/2013 4:36:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/407.png"
+      TimeStamp="9/3/2018 6:16:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/466.png"
+      TimeStamp="9/3/2018 6:16:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/824.png"
+      TimeStamp="9/3/2018 6:16:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/lftgray34.png"
+      TimeStamp="9/3/2018 6:16:13 PM" />
+    <Url
+      Source="../../Content/Resources/Images/446.png"
+      TimeStamp="9/3/2018 6:16:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/rgtgray32.png"
+      TimeStamp="9/3/2018 6:16:13 PM" />
+  </GeneratedFiles>
+</HtmlImport>

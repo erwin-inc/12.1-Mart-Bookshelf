@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Mart Server Release Notes"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-08-28T18:34:59.0230989+05:30"
+  ImportTopicsLocation="Content/Release Notes/"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/">
+  <Files>
+    <Url
+      Source="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Mart Server Release Notes"
+      AbsoluteSource="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Mart Server Release Notes" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/dhtml_search.htm"
+      TimeStamp="8/28/2018 6:31:58 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/heading.htm"
+      TimeStamp="8/28/2018 6:31:58 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/html_frameset.htm"
+      TimeStamp="8/28/2018 6:31:58 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/index.htm"
+      TimeStamp="8/28/2018 6:31:58 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/index_template.htm"
+      TimeStamp="8/28/2018 6:31:58 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/tab_search.htm"
+      TimeStamp="8/28/2018 6:31:58 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/tab_toc.htm"
+      TimeStamp="8/28/2018 6:31:58 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/toc.htm"
+      TimeStamp="8/28/2018 6:31:59 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/456_1.html"
+      TimeStamp="8/28/2018 6:31:59 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/456_2.html"
+      TimeStamp="8/28/2018 6:31:59 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/7977_1.html"
+      TimeStamp="8/28/2018 6:31:59 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/7977_2.html"
+      TimeStamp="8/28/2018 6:31:59 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/7978_1.html"
+      TimeStamp="8/28/2018 6:32:00 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/7978_2.html"
+      TimeStamp="8/28/2018 6:32:00 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/8232_1.html"
+      TimeStamp="8/28/2018 6:32:00 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/8232_2.html"
+      TimeStamp="8/28/2018 6:32:00 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/8233_1.html"
+      TimeStamp="8/28/2018 6:32:00 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/8233_2.html"
+      TimeStamp="8/28/2018 6:32:00 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/8234_1.html"
+      TimeStamp="8/28/2018 6:32:01 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/8234_2.html"
+      TimeStamp="8/28/2018 6:32:01 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/8235_1.html"
+      TimeStamp="8/28/2018 6:32:01 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/8235_2.html"
+      TimeStamp="8/28/2018 6:32:01 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/8236_1.html"
+      TimeStamp="8/28/2018 6:32:01 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/8236_2.html"
+      TimeStamp="8/28/2018 6:32:01 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/8236_3.html"
+      TimeStamp="8/28/2018 6:32:01 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/8295_1.html"
+      TimeStamp="8/28/2018 6:32:02 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/8295_2.html"
+      TimeStamp="8/28/2018 6:32:02 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/8295_3.html"
+      TimeStamp="8/28/2018 6:32:02 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Change the Mart Database Server.html"
+      TimeStamp="8/28/2018 6:32:02 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Character Limitations.html"
+      TimeStamp="8/28/2018 6:32:03 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Configure the Mart Server.html"
+      TimeStamp="8/28/2018 6:32:03 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/contact_customer_support.html"
+      TimeStamp="8/28/2018 6:32:03 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/copyright.html"
+      TimeStamp="8/28/2018 6:32:03 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Create a Customized Security Message.html"
+      TimeStamp="8/28/2018 6:32:03 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Create a Pluggable Database.html"
+      TimeStamp="8/28/2018 6:32:04 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Create a PostgreSQL Database.html"
+      TimeStamp="8/28/2018 6:32:04 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Create a SAP ASE Database.html"
+      TimeStamp="8/28/2018 6:32:04 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Create a SQL Server Database.html"
+      TimeStamp="8/28/2018 6:32:04 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/deploy_mart_server.html"
+      TimeStamp="8/28/2018 6:32:05 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/deploy_mart_server_1.html"
+      TimeStamp="8/28/2018 6:32:05 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/deploy_mart_server_2.html"
+      TimeStamp="8/28/2018 6:32:05 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/deploy_mart_server_3.html"
+      TimeStamp="8/28/2018 6:32:06 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Documentation Formats and Deliverables.html"
+      TimeStamp="8/28/2018 6:32:06 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/How to Upgrade any r9 Series Mart to the Current Version.html"
+      TimeStamp="8/28/2018 6:32:06 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Initialize a SAP ASE Mart.html"
+      TimeStamp="8/28/2018 6:32:06 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/initialize_oracle_mart.html"
+      TimeStamp="8/28/2018 6:32:06 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/initialize_SQL_server_mart.html"
+      TimeStamp="8/28/2018 6:32:07 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/initialize_SQL_server_mart_2.html"
+      TimeStamp="8/28/2018 6:32:07 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Install a Mart or Upgrade a Mart-.html"
+      TimeStamp="8/28/2018 6:32:07 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Install a Mart.html"
+      TimeStamp="8/28/2018 6:32:07 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Install and Configure a PostgreSQL Mart.html"
+      TimeStamp="8/28/2018 6:32:07 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Install and Configure a SAP ASE Mart.html"
+      TimeStamp="8/28/2018 6:32:07 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Install and Configure a SQL Server Mart.html"
+      TimeStamp="8/28/2018 6:32:08 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Install and Configure an Oracle Mart.html"
+      TimeStamp="8/28/2018 6:32:08 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Install erwin Mart Server with a Pluggable Database.html"
+      TimeStamp="8/28/2018 6:32:08 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/installing_configuring_mart.html"
+      TimeStamp="8/28/2018 6:32:08 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/installing_configuring_mart_2.html"
+      TimeStamp="8/28/2018 6:32:08 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/installing_configuring_mart_3.html"
+      TimeStamp="8/28/2018 6:32:09 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/installing_configuring_mart_4.html"
+      TimeStamp="8/28/2018 6:32:09 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Log In to erwin Mart Administrator.html"
+      TimeStamp="8/28/2018 6:32:09 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/log_in_to_mart_and_configure.html"
+      TimeStamp="8/28/2018 6:32:09 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/log_in_to_mart_and_configure_1.html"
+      TimeStamp="8/28/2018 6:32:09 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/log_in_to_mart_and_configure_2.html"
+      TimeStamp="8/28/2018 6:32:09 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/log_in_to_mart_and_configure_3.html"
+      TimeStamp="8/28/2018 6:32:10 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Mart Server Log Files.html"
+      TimeStamp="8/28/2018 6:32:10 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/mart_architecture.html"
+      TimeStamp="8/28/2018 6:32:10 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/mart_architecture_2.html"
+      TimeStamp="8/28/2018 6:32:10 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/mart_architecture_3.html"
+      TimeStamp="8/28/2018 6:32:10 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/mart_architecture_4.html"
+      TimeStamp="8/28/2018 6:32:11 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/mart_server_windows_service.html"
+      TimeStamp="8/28/2018 6:32:11 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/mart_server_windows_service_1.html"
+      TimeStamp="8/28/2018 6:32:11 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/mart_server_windows_service_2.html"
+      TimeStamp="8/28/2018 6:32:11 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/mart_server_windows_service_3.html"
+      TimeStamp="8/28/2018 6:32:11 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Microsoft_SQL_Server_2005_Permissions.html"
+      TimeStamp="8/28/2018 6:32:12 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/New Features and Enhancements in erwin Mart Server.html"
+      TimeStamp="8/28/2018 6:32:12 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Oracle SQL Commands.html"
+      TimeStamp="8/28/2018 6:32:12 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Prepare to Use IIS with Mart.html"
+      TimeStamp="8/28/2018 6:32:12 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/prepare_dbms_environment.html"
+      TimeStamp="8/28/2018 6:32:12 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Release Notes.html"
+      TimeStamp="8/28/2018 6:32:12 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Restart the Mart Server Service.html"
+      TimeStamp="8/28/2018 6:32:13 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Review the Prerequisites.html"
+      TimeStamp="8/28/2018 6:32:13 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/review_prereq.html"
+      TimeStamp="8/28/2018 6:32:13 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/review_prereq_2.html"
+      TimeStamp="8/28/2018 6:32:13 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/review_prereq_3.html"
+      TimeStamp="8/28/2018 6:32:13 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/review_prereq_4.html"
+      TimeStamp="8/28/2018 6:32:14 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/SAP ASE Mart Database Memory.html"
+      TimeStamp="8/28/2018 6:32:14 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Specify Use of Foreign Characters With Microsoft SQL Server 2005.html"
+      TimeStamp="8/28/2018 6:32:14 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Transact-SQL Commands.html"
+      TimeStamp="8/28/2018 6:32:14 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Troubleshooting.html"
+      TimeStamp="8/28/2018 6:32:15 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Upgrade the Mart Server.html"
+      TimeStamp="8/28/2018 6:32:15 PM" />
+    <Url
+      Source="../../Content/Release Notes/Mart Server Release Notes/Welcome.html"
+      TimeStamp="8/28/2018 6:32:15 PM" />
+    <Url
+      Source="../TOCs/Mart Server Release Notes.fltoc"
+      TimeStamp="8/28/2018 6:34:58 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_search1.js"
+      TimeStamp="8/28/2018 12:53:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/diamond10.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/hyphen10.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/checkbox10.gif"
+      TimeStamp="6/20/2011 1:12:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/block10.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/docsstylesheet1.css"
+      TimeStamp="8/28/2018 6:32:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/erwin10.png"
+      TimeStamp="12/29/2016 10:51:25 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/stylesheet1.css"
+      TimeStamp="8/28/2018 6:32:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_center10.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_right10.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_left10.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_right10.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_left10.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_center10.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/space1x11.png"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/castyles1.css"
+      TimeStamp="8/28/2018 6:32:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/cbook10.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/topic10.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc3.css"
+      TimeStamp="8/28/2018 6:32:15 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_toc1.js"
+      TimeStamp="8/28/2018 12:51:51 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc1.css"
+      TimeStamp="8/28/2018 6:32:15 PM" />
+    <Url
+      Source="../../Content/Resources/highlight1.js"
+      TimeStamp="9/6/2012 8:49:46 PM" />
+    <Url
+      Source="../../Content/Resources/mailca1.js"
+      TimeStamp="12/2/2016 4:06:20 PM" />
+    <Url
+      Source="../../Content/Resources/open_parent4.js"
+      TimeStamp="2/6/2013 4:36:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/391.png"
+      TimeStamp="8/28/2018 12:52:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/463.png"
+      TimeStamp="8/28/2018 12:52:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/rgtgray11.png"
+      TimeStamp="8/28/2018 12:53:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/464.png"
+      TimeStamp="8/28/2018 12:52:51 PM" />
+    <Url
+      Source="../../Content/Resources/Images/828.png"
+      TimeStamp="8/28/2018 12:52:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/485.png"
+      TimeStamp="8/28/2018 12:52:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/823.png"
+      TimeStamp="8/28/2018 12:53:02 PM" />
+    <Url
+      Source="../../Content/Resources/Images/443.png"
+      TimeStamp="8/28/2018 12:52:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8316.jpg"
+      TimeStamp="8/28/2018 12:52:50 PM" />
+    <Url
+      Source="../../Content/Resources/Images/lftgray11.png"
+      TimeStamp="8/28/2018 12:53:09 PM" />
+  </GeneratedFiles>
+</HtmlImport>

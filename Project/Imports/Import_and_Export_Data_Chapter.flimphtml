@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ImportResourcesLocation="NoImport"
+  SourceFolders=""
+  ImportTopics="specific"
+  LastImport="2019-10-11T14:56:02.2168921+05:30"
+  ImportTopicsLocation="Content/User Guides/erwin Help/">
+  <Files>
+    <Url
+      Source="file:///C:/Users/admin/OneDrive - erwin, Inc/MadCap Flare Project/Backup/2018 R1/erwin Bookshelf/Content/User Guides/erwin Help/Import_and_Export_Data_Chapter.html"
+      AbsoluteSource="file:///C:/Users/admin/OneDrive - erwin, Inc/MadCap Flare Project/Backup/2018 R1/erwin Bookshelf/Content/User Guides/erwin Help/Import_and_Export_Data_Chapter.html" />
+    <Url
+      Source="file:///C:/Users/admin/OneDrive - erwin, Inc/MadCap Flare Project/Backup/2018 R1/erwin Bookshelf/Content/User Guides/erwin Help/status_log_dialog.html"
+      AbsoluteSource="file:///C:/Users/admin/OneDrive - erwin, Inc/MadCap Flare Project/Backup/2018 R1/erwin Bookshelf/Content/User Guides/erwin Help/status_log_dialog.html" />
+    <Url
+      Source="file:///C:/Users/admin/OneDrive - erwin, Inc/MadCap Flare Project/Backup/2018 R1/erwin Bookshelf/Content/User Guides/erwin Help/Disabled_Location_Field_for_Certain_Export_Bridges.html"
+      AbsoluteSource="file:///C:/Users/admin/OneDrive - erwin, Inc/MadCap Flare Project/Backup/2018 R1/erwin Bookshelf/Content/User Guides/erwin Help/Disabled_Location_Field_for_Certain_Export_Bridges.html" />
+    <Url
+      Source="file:///C:/Users/admin/OneDrive - erwin, Inc/MadCap Flare Project/Backup/2018 R1/erwin Bookshelf/Content/User Guides/erwin Help/Disabled_Location_Field_for_Certain_Import_Bridges.html"
+      AbsoluteSource="file:///C:/Users/admin/OneDrive - erwin, Inc/MadCap Flare Project/Backup/2018 R1/erwin Bookshelf/Content/User Guides/erwin Help/Disabled_Location_Field_for_Certain_Import_Bridges.html" />
+    <Url
+      Source="file:///C:/Users/admin/OneDrive - erwin, Inc/MadCap Flare Project/Backup/2018 R1/erwin Bookshelf/Content/User Guides/erwin Help/set_options_for_export_to_external_format.html"
+      AbsoluteSource="file:///C:/Users/admin/OneDrive - erwin, Inc/MadCap Flare Project/Backup/2018 R1/erwin Bookshelf/Content/User Guides/erwin Help/set_options_for_export_to_external_format.html" />
+    <Url
+      Source="file:///C:/Users/admin/OneDrive - erwin, Inc/MadCap Flare Project/Backup/2018 R1/erwin Bookshelf/Content/User Guides/erwin Help/set_options_for_import_from_external_format.html"
+      AbsoluteSource="file:///C:/Users/admin/OneDrive - erwin, Inc/MadCap Flare Project/Backup/2018 R1/erwin Bookshelf/Content/User Guides/erwin Help/set_options_for_import_from_external_format.html" />
+    <Url
+      Source="file:///C:/Users/admin/OneDrive - erwin, Inc/MadCap Flare Project/Backup/2018 R1/erwin Bookshelf/Content/User Guides/erwin Help/How_to_Use_the_Metadata_Integration_Wizard.html"
+      AbsoluteSource="file:///C:/Users/admin/OneDrive - erwin, Inc/MadCap Flare Project/Backup/2018 R1/erwin Bookshelf/Content/User Guides/erwin Help/How_to_Use_the_Metadata_Integration_Wizard.html" />
+    <Url
+      Source="file:///C:/Users/admin/OneDrive - erwin, Inc/MadCap Flare Project/Backup/2018 R1/erwin Bookshelf/Content/User Guides/erwin Help/Import_and_Export_of_Data_Model_Data.html"
+      AbsoluteSource="file:///C:/Users/admin/OneDrive - erwin, Inc/MadCap Flare Project/Backup/2018 R1/erwin Bookshelf/Content/User Guides/erwin Help/Import_and_Export_of_Data_Model_Data.html" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/User Guides/erwin Help/Import_and_Export_Data_Chapter.html"
+      TimeStamp="11-10-2019 14:55:58" />
+    <Url
+      Source="../../Content/User Guides/erwin Help/status_log_dialog.html"
+      TimeStamp="11-10-2019 14:55:58" />
+    <Url
+      Source="../../Content/User Guides/erwin Help/Disabled_Location_Field_for_Certain_Export_Bridges.html"
+      TimeStamp="11-10-2019 14:55:58" />
+    <Url
+      Source="../../Content/User Guides/erwin Help/Disabled_Location_Field_for_Certain_Import_Bridges.html"
+      TimeStamp="11-10-2019 14:55:58" />
+    <Url
+      Source="../../Content/User Guides/erwin Help/set_options_for_export_to_external_format.html"
+      TimeStamp="11-10-2019 14:55:58" />
+    <Url
+      Source="../../Content/User Guides/erwin Help/set_options_for_import_from_external_format.html"
+      TimeStamp="11-10-2019 14:55:58" />
+    <Url
+      Source="../../Content/User Guides/erwin Help/How_to_Use_the_Metadata_Integration_Wizard.html"
+      TimeStamp="11-10-2019 14:55:58" />
+    <Url
+      Source="../../Content/User Guides/erwin Help/Import_and_Export_of_Data_Model_Data1.html"
+      TimeStamp="11-10-2019 14:55:59" />
+    <Url
+      Source="../TOCs/Import_and_Export_Data_Chapter.fltoc"
+      TimeStamp="11-10-2019 14:56:02" />
+  </GeneratedFiles>
+</HtmlImport>
