@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Creating Custom Mart Reports"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-09-19T16:04:26.9129539+05:30"
+  ImportTopicsLocation="Content/User Guides/"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/">
+  <Files>
+    <Url
+      Source="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Creating Custom Mart Reports"
+      AbsoluteSource="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Creating Custom Mart Reports" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/dhtml_search.htm"
+      TimeStamp="9/19/2018 4:04:14 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/heading.htm"
+      TimeStamp="9/19/2018 4:04:14 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/html_frameset.htm"
+      TimeStamp="9/19/2018 4:04:14 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/index.htm"
+      TimeStamp="9/19/2018 4:04:14 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/index_template.htm"
+      TimeStamp="9/19/2018 4:04:14 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/tab_search.htm"
+      TimeStamp="9/19/2018 4:04:14 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/tab_toc.htm"
+      TimeStamp="9/19/2018 4:04:14 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/toc.htm"
+      TimeStamp="9/19/2018 4:04:15 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Additional_Support_for_Object_Type_Reporting.html"
+      TimeStamp="9/19/2018 4:04:15 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Alias.html"
+      TimeStamp="9/19/2018 4:04:15 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/All_Objects_Support.html"
+      TimeStamp="9/19/2018 4:04:15 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Applying_Conditions.html"
+      TimeStamp="9/19/2018 4:04:15 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/contact_customer_support.html"
+      TimeStamp="9/19/2018 4:04:15 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/copyright.html"
+      TimeStamp="9/19/2018 4:04:15 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/create_custom_mart_report.html"
+      TimeStamp="9/19/2018 4:04:15 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Create_Custom_Mart_Reports.html"
+      TimeStamp="9/19/2018 4:04:16 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Creating Custom Mart Reports Using a Reporting Tool.html"
+      TimeStamp="9/19/2018 4:04:16 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Custom_Reports_Architecture.html"
+      TimeStamp="9/19/2018 4:04:16 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Custom_reports_Introduction.html"
+      TimeStamp="9/19/2018 4:04:16 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Define_a_New_Report.html"
+      TimeStamp="9/19/2018 4:04:16 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Define_the_Report_Schema.html"
+      TimeStamp="9/19/2018 4:04:16 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Generate_Reports_using_Crystal_Reports.html"
+      TimeStamp="9/19/2018 4:04:16 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Property_Inheritance_Value.html"
+      TimeStamp="9/19/2018 4:04:16 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Property_Type_Alias.html"
+      TimeStamp="9/19/2018 4:04:17 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Report_on_Actions.html"
+      TimeStamp="9/19/2018 4:04:17 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Report_on_Catalogs.html"
+      TimeStamp="9/19/2018 4:04:17 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Report_on_Locks.html"
+      TimeStamp="9/19/2018 4:04:17 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Report_on_Model_Objects.html"
+      TimeStamp="9/19/2018 4:04:17 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Report_on_Permissions.html"
+      TimeStamp="9/19/2018 4:04:17 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Report_on_Permission_Assignment.html"
+      TimeStamp="9/19/2018 4:04:17 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Report_on_Profiles.html"
+      TimeStamp="9/19/2018 4:04:17 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Report_on_Profile_Assignments.html"
+      TimeStamp="9/19/2018 4:04:18 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Report_on_Securables.html"
+      TimeStamp="9/19/2018 4:04:18 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Report_on_Users.html"
+      TimeStamp="9/19/2018 4:04:18 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Sub_Object_Type_Support.html"
+      TimeStamp="9/19/2018 4:04:18 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/Types of Reports.html"
+      TimeStamp="9/19/2018 4:04:18 PM" />
+    <Url
+      Source="../../Content/User Guides/Creating Custom Mart Reports/UDP_Reports.html"
+      TimeStamp="9/19/2018 4:04:18 PM" />
+    <Url
+      Source="../TOCs/Creating Custom Mart Reports.fltoc"
+      TimeStamp="9/19/2018 4:04:26 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_search1.js"
+      TimeStamp="9/10/2018 1:16:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/diamond37.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/hyphen37.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/checkbox37.gif"
+      TimeStamp="6/20/2011 1:12:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/block37.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/docsstylesheet1.css"
+      TimeStamp="9/19/2018 4:04:18 PM" />
+    <Url
+      Source="../../Content/Resources/Images/erwin38.png"
+      TimeStamp="12/29/2016 10:51:25 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/stylesheet1.css"
+      TimeStamp="9/19/2018 4:04:18 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_center37.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_right37.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_left37.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_right37.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_left37.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_center37.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/space1x38.png"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/castyles1.css"
+      TimeStamp="9/19/2018 4:04:18 PM" />
+    <Url
+      Source="../../Content/Resources/Images/cbook37.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/topic37.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc3.css"
+      TimeStamp="9/19/2018 4:04:18 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_toc1.js"
+      TimeStamp="9/10/2018 1:16:02 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc1.css"
+      TimeStamp="9/19/2018 4:04:18 PM" />
+    <Url
+      Source="../../Content/Resources/highlight1.js"
+      TimeStamp="9/6/2012 8:49:46 PM" />
+    <Url
+      Source="../../Content/Resources/mailca1.js"
+      TimeStamp="12/2/2016 4:06:20 PM" />
+    <Url
+      Source="../../Content/Resources/open_parent1.js"
+      TimeStamp="2/6/2013 4:36:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/1517.png"
+      TimeStamp="9/10/2018 1:16:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8339.jpg"
+      TimeStamp="9/10/2018 1:16:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/lftgray38.png"
+      TimeStamp="9/10/2018 1:16:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/1513.png"
+      TimeStamp="9/10/2018 1:16:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/rgtgray36.png"
+      TimeStamp="9/10/2018 1:16:11 PM" />
+  </GeneratedFiles>
+</HtmlImport>

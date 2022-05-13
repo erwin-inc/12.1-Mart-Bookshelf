@@ -1,0 +1,865 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/API Reference"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-08-29T11:56:24.6644631+05:30"
+  ImportTopicsLocation="Content/References/"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/">
+  <Files>
+    <Url
+      Source="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/API Reference"
+      AbsoluteSource="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/API Reference" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/References/API Reference/dhtml_search.htm"
+      TimeStamp="8/29/2018 11:28:04 AM" />
+    <Url
+      Source="../../Content/References/API Reference/heading.htm"
+      TimeStamp="8/29/2018 11:28:04 AM" />
+    <Url
+      Source="../../Content/References/API Reference/html_frameset.htm"
+      TimeStamp="8/29/2018 11:28:04 AM" />
+    <Url
+      Source="../../Content/References/API Reference/index.htm"
+      TimeStamp="8/29/2018 11:28:04 AM" />
+    <Url
+      Source="../../Content/References/API Reference/index_template.htm"
+      TimeStamp="8/29/2018 11:28:04 AM" />
+    <Url
+      Source="../../Content/References/API Reference/tab_search.htm"
+      TimeStamp="8/29/2018 11:28:05 AM" />
+    <Url
+      Source="../../Content/References/API Reference/tab_toc.htm"
+      TimeStamp="8/29/2018 11:28:05 AM" />
+    <Url
+      Source="../../Content/References/API Reference/toc.htm"
+      TimeStamp="8/29/2018 11:28:05 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Accessing_a_Model.html"
+      TimeStamp="8/29/2018 11:28:05 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Accessing_a_Model_Set.html"
+      TimeStamp="8/29/2018 11:28:05 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Accessing_a_Specific_Object.html"
+      TimeStamp="8/29/2018 11:28:06 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Accessing_a_Specific_Property.html"
+      TimeStamp="8/29/2018 11:28:06 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Accessing_Metamodel_Information.html"
+      TimeStamp="8/29/2018 11:28:06 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Accessing_Objects_in_a_Model.html"
+      TimeStamp="8/29/2018 11:28:06 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Accessing_Object_Properties.html"
+      TimeStamp="8/29/2018 11:28:06 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Access_to_Model_Data.html"
+      TimeStamp="8/29/2018 11:28:07 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Add-in_Component_or_Script.html"
+      TimeStamp="8/29/2018 11:28:07 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Advanced_Tasks.html"
+      TimeStamp="8/29/2018 11:28:07 AM" />
+    <Url
+      Source="../../Content/References/API Reference/API Reference Guide.html"
+      TimeStamp="8/29/2018 11:28:07 AM" />
+    <Url
+      Source="../../Content/References/API Reference/API_Components.html"
+      TimeStamp="8/29/2018 11:28:07 AM" />
+    <Url
+      Source="../../Content/References/API Reference/API_Environment.html"
+      TimeStamp="8/29/2018 11:28:08 AM" />
+    <Url
+      Source="../../Content/References/API Reference/API_Interfaces.html"
+      TimeStamp="8/29/2018 11:28:08 AM" />
+    <Url
+      Source="../../Content/References/API Reference/API_Interfaces_Reference_Appendix.html"
+      TimeStamp="8/29/2018 11:28:08 AM" />
+    <Url
+      Source="../../Content/References/API Reference/API_Tasks.html"
+      TimeStamp="8/29/2018 11:28:08 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Application_API_Category.html"
+      TimeStamp="8/29/2018 11:28:08 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Application_API_Features_Category.html"
+      TimeStamp="8/29/2018 11:28:09 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Application_API_MessageLog_Category.html"
+      TimeStamp="8/29/2018 11:28:09 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Application_Category.html"
+      TimeStamp="8/29/2018 11:28:09 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Application_Modeling_Category.html"
+      TimeStamp="8/29/2018 11:28:10 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Application_Modeling_Physical_Category.html"
+      TimeStamp="8/29/2018 11:28:10 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Application_Persistence_Category.html"
+      TimeStamp="8/29/2018 11:28:10 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Application_Persistence_FileSystem_Category.html"
+      TimeStamp="8/29/2018 11:28:10 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Application_Persistence_Mart.html"
+      TimeStamp="8/29/2018 11:28:10 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Application_Properties.html"
+      TimeStamp="8/29/2018 11:28:11 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Application_Tier.html"
+      TimeStamp="8/29/2018 11:28:11 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Begin_Transaction.html"
+      TimeStamp="8/29/2018 11:28:11 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Category_Parameter_Contains_an_Empty_String.html"
+      TimeStamp="8/29/2018 11:28:11 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Clearing_Persistence_Units.html"
+      TimeStamp="8/29/2018 11:28:11 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Closing_the_API.html"
+      TimeStamp="8/29/2018 11:28:12 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Collections_and_Automation.html"
+      TimeStamp="8/29/2018 11:28:12 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Commit_Transaction.html"
+      TimeStamp="8/29/2018 11:28:12 AM" />
+    <Url
+      Source="../../Content/References/API Reference/contact_customer_support.html"
+      TimeStamp="8/29/2018 11:28:12 AM" />
+    <Url
+      Source="../../Content/References/API Reference/copyright.html"
+      TimeStamp="8/29/2018 11:28:13 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Creating_a_Model.html"
+      TimeStamp="8/29/2018 11:28:13 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Creating_Objects.html"
+      TimeStamp="8/29/2018 11:28:13 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Creating_the_ISCApplication_Object.html"
+      TimeStamp="8/29/2018 11:28:13 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Creating_User-Defined_Properties.html"
+      TimeStamp="8/29/2018 11:28:14 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Default_Properties.html"
+      TimeStamp="8/29/2018 11:28:14 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Deleting_Non-Scalar_Property_Values.html"
+      TimeStamp="8/29/2018 11:28:14 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Deleting_Objects.html"
+      TimeStamp="8/29/2018 11:28:14 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Deleting_Properties_and_Property_Values.html"
+      TimeStamp="8/29/2018 11:28:14 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Disposition_Property.html"
+      TimeStamp="8/29/2018 11:28:15 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Documentation Changes.html"
+      TimeStamp="8/29/2018 11:28:15 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Enumerations.html"
+      TimeStamp="8/29/2018 11:28:15 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Error_Handling.html"
+      TimeStamp="8/29/2018 11:28:16 AM" />
+    <Url
+      Source="../../Content/References/API Reference/erwin_DM_Metamodel_Appendix.html"
+      TimeStamp="8/29/2018 11:28:16 AM" />
+    <Url
+      Source="../../Content/References/API Reference/erwin_Spy.html"
+      TimeStamp="8/29/2018 11:28:16 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Filtering_Object_Collections.html"
+      TimeStamp="8/29/2018 11:28:16 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Filtering_Properties.html"
+      TimeStamp="8/29/2018 11:28:17 AM" />
+    <Url
+      Source="../../Content/References/API Reference/History_Tracking.html"
+      TimeStamp="8/29/2018 11:28:17 AM" />
+    <Url
+      Source="../../Content/References/API Reference/How_the_erwin_Spy_Application_Works.html"
+      TimeStamp="8/29/2018 11:28:17 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Introduction.html"
+      TimeStamp="8/29/2018 11:28:17 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCApplication.html"
+      TimeStamp="8/29/2018 11:28:18 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCApplicationEnvironment.html"
+      TimeStamp="8/29/2018 11:28:18 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCApplicationEnvironment_2.html"
+      TimeStamp="8/29/2018 11:28:18 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCApplicationEnvironment_3.html"
+      TimeStamp="8/29/2018 11:28:18 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCApplicationEnvironment_Interface.html"
+      TimeStamp="8/29/2018 11:28:18 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCApplicationEnvironment_PropertyBag.html"
+      TimeStamp="8/29/2018 11:28:19 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCApplicationEnvironment_PropertyBag_Arguments.html"
+      TimeStamp="8/29/2018 11:28:19 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCApplication_Interface.html"
+      TimeStamp="8/29/2018 11:28:19 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCApplication_Interface_2.html"
+      TimeStamp="8/29/2018 11:28:19 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelDirectory.html"
+      TimeStamp="8/29/2018 11:28:19 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelDirectoryCollection.html"
+      TimeStamp="8/29/2018 11:28:20 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelDirectoryCollection_Add_Arguments.html"
+      TimeStamp="8/29/2018 11:28:20 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelDirectoryCollection_Item_Arguments.html"
+      TimeStamp="8/29/2018 11:28:20 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelDirectoryCollection_Remove_Arguments.html"
+      TimeStamp="8/29/2018 11:28:20 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelDirectoryUnit.html"
+      TimeStamp="8/29/2018 11:28:21 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelDirectoryUnit_IsOfType_Arguments.html"
+      TimeStamp="8/29/2018 11:28:21 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelDirectoryUnit_PropertyBag_Arguments_Get_Fn.html"
+      TimeStamp="8/29/2018 11:28:21 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelDirectoryUnit_PropertyBag_Arguments_Set_Fn.html"
+      TimeStamp="8/29/2018 11:28:21 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelDirectory_DirectoryExists_Arguments.html"
+      TimeStamp="8/29/2018 11:28:21 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelDirectory_DirectoryUnitExists_Arguments.html"
+      TimeStamp="8/29/2018 11:28:21 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelDirectory_IsOfType_Arguments.html"
+      TimeStamp="8/29/2018 11:28:22 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelDirectory_LocateDirectoryUnit_Arguments.html"
+      TimeStamp="8/29/2018 11:28:22 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelDirectory_LocateDirectory_Arguments.html"
+      TimeStamp="8/29/2018 11:28:22 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelDirectory_PropertyBag_Arguments_Get_Fn.html"
+      TimeStamp="8/29/2018 11:28:22 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelDirectory_PropertyBag_Arguments_Set_Fn.html"
+      TimeStamp="8/29/2018 11:28:23 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelObject.html"
+      TimeStamp="8/29/2018 11:28:23 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelObjectCollection.html"
+      TimeStamp="8/29/2018 11:28:23 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelObjectCollection_Add_Arguments.html"
+      TimeStamp="8/29/2018 11:28:23 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelObjectCollection_Collect_Arguments.html"
+      TimeStamp="8/29/2018 11:28:23 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelObjectCollection_Interface.html"
+      TimeStamp="8/29/2018 11:28:24 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelObjectCollection_Interface_2.html"
+      TimeStamp="8/29/2018 11:28:24 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelObjectCollection_Interface_3.html"
+      TimeStamp="8/29/2018 11:28:24 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelObjectCollection_Interface_4.html"
+      TimeStamp="8/29/2018 11:28:24 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelObjectCollection_Interface_5.html"
+      TimeStamp="8/29/2018 11:28:25 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelObjectCollection_Item_Arguments.html"
+      TimeStamp="8/29/2018 11:28:25 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelObjectCollection_Remove_Arguments.html"
+      TimeStamp="8/29/2018 11:28:25 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelObject_CollectProperties_Arguments.html"
+      TimeStamp="8/29/2018 11:28:26 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelObject_Interface.html"
+      TimeStamp="8/29/2018 11:28:26 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelObject_Interface_2.html"
+      TimeStamp="8/29/2018 11:28:26 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelObject_Interface_3.html"
+      TimeStamp="8/29/2018 11:28:26 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelObject_IsInstanceOf_Arguments.html"
+      TimeStamp="8/29/2018 11:28:26 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelProperty.html"
+      TimeStamp="8/29/2018 11:28:27 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelPropertyCollection.html"
+      TimeStamp="8/29/2018 11:28:27 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelPropertyCollection_Add_Arguments.html"
+      TimeStamp="8/29/2018 11:28:27 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelPropertyCollection_HasPropertyFacets_Arguments.html"
+      TimeStamp="8/29/2018 11:28:27 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelPropertyCollection_HasProperty_Arguments.html"
+      TimeStamp="8/29/2018 11:28:27 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelPropertyCollection_Interface.html"
+      TimeStamp="8/29/2018 11:28:28 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelPropertyCollection_Interface_2.html"
+      TimeStamp="8/29/2018 11:28:28 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelPropertyCollection_Item_Arguments.html"
+      TimeStamp="8/29/2018 11:28:28 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelPropertyCollection_Remove_Arguments.html"
+      TimeStamp="8/29/2018 11:28:29 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelProperty_DataType_Arguments.html"
+      TimeStamp="8/29/2018 11:28:29 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelProperty_GetValueFacetIds_Arguments.html"
+      TimeStamp="8/29/2018 11:28:29 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelProperty_GetValueFacetNames_Arguments.html"
+      TimeStamp="8/29/2018 11:28:29 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelProperty_Interface.html"
+      TimeStamp="8/29/2018 11:28:30 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelProperty_Interface_2.html"
+      TimeStamp="8/29/2018 11:28:30 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelProperty_Interface_3.html"
+      TimeStamp="8/29/2018 11:28:30 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelProperty_Interface_4.html"
+      TimeStamp="8/29/2018 11:28:31 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelProperty_Interface_5.html"
+      TimeStamp="8/29/2018 11:28:31 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelProperty_Interface_6.html"
+      TimeStamp="8/29/2018 11:28:31 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelProperty_RemoveValue_Arguments.html"
+      TimeStamp="8/29/2018 11:28:31 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelProperty_SetValueFacets_Arguments.html"
+      TimeStamp="8/29/2018 11:28:32 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelProperty_Value_Arguments_Get_Fn.html"
+      TimeStamp="8/29/2018 11:28:32 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelProperty_Value_Arguments_Set_Fn.html"
+      TimeStamp="8/29/2018 11:28:32 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelSet.html"
+      TimeStamp="8/29/2018 11:28:32 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelSetCollection.html"
+      TimeStamp="8/29/2018 11:28:33 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelSetCollection_Interface.html"
+      TimeStamp="8/29/2018 11:28:33 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelSetCollection_Item_Arguments.html"
+      TimeStamp="8/29/2018 11:28:33 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelSet_Interface.html"
+      TimeStamp="8/29/2018 11:28:33 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelSet_PropertyBag_Arguments_Get_Fn.html"
+      TimeStamp="8/29/2018 11:28:33 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCModelSet_PropertyBag_Arguments_Set_Fn.html"
+      TimeStamp="8/29/2018 11:28:33 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPersistenceUnit--ForwardEngineer.html"
+      TimeStamp="8/29/2018 11:28:34 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPersistenceUnit--ReverseEngineer.html"
+      TimeStamp="8/29/2018 11:28:34 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPersistenceUnit.html"
+      TimeStamp="8/29/2018 11:28:34 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPersistenceUnitCollection.html"
+      TimeStamp="8/29/2018 11:28:34 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPersistenceUnitCollection_Add_Arguments.html"
+      TimeStamp="8/29/2018 11:28:35 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPersistenceUnitCollection_Create_Arguments.html"
+      TimeStamp="8/29/2018 11:28:35 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPersistenceUnitCollection_Interface.html"
+      TimeStamp="8/29/2018 11:28:35 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPersistenceUnitCollection_Interface_2.html"
+      TimeStamp="8/29/2018 11:28:35 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPersistenceUnitCollection_Interface_3.html"
+      TimeStamp="8/29/2018 11:28:36 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPersistenceUnitCollection_Interface_4.html"
+      TimeStamp="8/29/2018 11:28:36 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPersistenceUnitCollection_Item_Arguments.html"
+      TimeStamp="8/29/2018 11:28:36 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPersistenceUnitCollection_Remove_Arguments.html"
+      TimeStamp="8/29/2018 11:28:36 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPersistenceUnit_Interface.html"
+      TimeStamp="8/29/2018 11:28:37 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPersistenceUnit_Interface_2.html"
+      TimeStamp="8/29/2018 11:28:37 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPersistenceUnit_Interface_3.html"
+      TimeStamp="8/29/2018 11:28:37 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPersistenceUnit_PropertyBag_Arguments_Get_Fn.html"
+      TimeStamp="8/29/2018 11:28:37 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPersistenceUnit_PropertyBag_Arguments_Get_Fn_2.html"
+      TimeStamp="8/29/2018 11:28:37 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPersistenceUnit_PropertyBag_Arguments_Set_Fn.html"
+      TimeStamp="8/29/2018 11:28:38 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPersistenceUnit_PropertyBag_Arguments_Set_Fn_2.html"
+      TimeStamp="8/29/2018 11:28:38 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPersistenceUnit_Save_Arguments.html"
+      TimeStamp="8/29/2018 11:28:38 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPropertyBag.html"
+      TimeStamp="8/29/2018 11:28:38 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPropertyBag_Add_Arguments.html"
+      TimeStamp="8/29/2018 11:28:38 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPropertyBag_Interface.html"
+      TimeStamp="8/29/2018 11:28:39 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPropertyBag_Interface_2.html"
+      TimeStamp="8/29/2018 11:28:39 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPropertyBag_Name_Arguments.html"
+      TimeStamp="8/29/2018 11:28:39 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPropertyBag_Value_Arguments_Get_Fn.html"
+      TimeStamp="8/29/2018 11:28:39 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPropertyBag_Value_Arguments_Set_Fn.html"
+      TimeStamp="8/29/2018 11:28:39 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPropertyValue.html"
+      TimeStamp="8/29/2018 11:28:40 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPropertyValueCollection.html"
+      TimeStamp="8/29/2018 11:28:40 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPropertyValueCollection_Facet_Arguments_Get_Fn.html"
+      TimeStamp="8/29/2018 11:28:40 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPropertyValueCollection_Facet_Arguments_Set_Fn.html"
+      TimeStamp="8/29/2018 11:28:40 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPropertyValueCollection_Interface.html"
+      TimeStamp="8/29/2018 11:28:40 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPropertyValueCollection_Interface_2.html"
+      TimeStamp="8/29/2018 11:28:40 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPropertyValueCollection_Item_Arguments.html"
+      TimeStamp="8/29/2018 11:28:41 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPropertyValueCollection_RemoveFacet_Arguments.html"
+      TimeStamp="8/29/2018 11:28:41 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPropertyValue_Interface.html"
+      TimeStamp="8/29/2018 11:28:41 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPropertyValue_ValueId_Arguments.html"
+      TimeStamp="8/29/2018 11:28:41 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCPropertyValue_Value_Arguments.html"
+      TimeStamp="8/29/2018 11:28:41 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCSession.html"
+      TimeStamp="8/29/2018 11:28:42 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCSessionCollection.html"
+      TimeStamp="8/29/2018 11:28:42 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCSessionCollection_Interface.html"
+      TimeStamp="8/29/2018 11:28:42 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCSessionCollection_Interface_2.html"
+      TimeStamp="8/29/2018 11:28:42 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCSessionCollection_Item_Arguments.html"
+      TimeStamp="8/29/2018 11:28:43 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCSessionCollection_Remove_Arguments.html"
+      TimeStamp="8/29/2018 11:28:43 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCSession_BeginNamedTransaction_Arguments.html"
+      TimeStamp="8/29/2018 11:28:43 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCSession_CommitTransaction_Arguments.html"
+      TimeStamp="8/29/2018 11:28:43 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCSession_Interface.html"
+      TimeStamp="8/29/2018 11:28:43 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCSession_Interface_2.html"
+      TimeStamp="8/29/2018 11:28:44 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCSession_Interface_3.html"
+      TimeStamp="8/29/2018 11:28:44 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCSession_Interface_4.html"
+      TimeStamp="8/29/2018 11:28:44 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCSession_Interface_5.html"
+      TimeStamp="8/29/2018 11:28:44 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCSession_Interface_6.html"
+      TimeStamp="8/29/2018 11:28:45 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCSession_Interface_7.html"
+      TimeStamp="8/29/2018 11:28:45 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCSession_Interface_8.html"
+      TimeStamp="8/29/2018 11:28:45 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCSession_IsTransactionEmpty_Arguments.html"
+      TimeStamp="8/29/2018 11:28:45 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCSession_Open_Arguments.html"
+      TimeStamp="8/29/2018 11:28:46 AM" />
+    <Url
+      Source="../../Content/References/API Reference/ISCSession_Rollback_Transaction_Arguments.html"
+      TimeStamp="8/29/2018 11:28:46 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Iterating_Over_Non-Scalar_Property_Values.html"
+      TimeStamp="8/29/2018 11:28:46 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Iteration_of_Properties.html"
+      TimeStamp="8/29/2018 11:28:46 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Location_and_Disposition_in_Model_Directories_and_Persistence_Units.html"
+      TimeStamp="8/29/2018 11:28:46 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Locator_Property.html"
+      TimeStamp="8/29/2018 11:28:47 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Major_Features.html"
+      TimeStamp="8/29/2018 11:28:47 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Metadata_Element_Renaming.html"
+      TimeStamp="8/29/2018 11:28:47 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Model_Data_Tier.html"
+      TimeStamp="8/29/2018 11:28:48 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Model_Directory_Tier.html"
+      TimeStamp="8/29/2018 11:28:48 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Modifying_the_Model_Using_Session_Transactions.html"
+      TimeStamp="8/29/2018 11:28:48 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Objects_and_Properties.html"
+      TimeStamp="8/29/2018 11:28:48 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Object_Identifiers.html"
+      TimeStamp="8/29/2018 11:28:49 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Object_Identifiers_and_Type_Codes.html"
+      TimeStamp="8/29/2018 11:28:49 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Opening_an_Existing_Model.html"
+      TimeStamp="8/29/2018 11:28:49 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Opening_a_Session.html"
+      TimeStamp="8/29/2018 11:28:49 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Optional_Parameter.html"
+      TimeStamp="8/29/2018 11:28:49 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Overview.html"
+      TimeStamp="8/29/2018 11:28:49 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Properties_Property_Flags_and_Value_Facets.html"
+      TimeStamp="8/29/2018 11:28:50 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Property_Bag_Contents_for_Persistence_Unit_and_Persistence_Unit_Collection.html"
+      TimeStamp="8/29/2018 11:28:50 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Property_Bag_for_Application_Environment.html"
+      TimeStamp="8/29/2018 11:28:50 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Property_Bag_for_Model_Directory_and_Model_Directory_Unit.html"
+      TimeStamp="8/29/2018 11:28:51 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Property_Bag_for_Persistence_Units_and_Persistence_Unit_Collections.html"
+      TimeStamp="8/29/2018 11:28:51 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Property_Bag_for_Session.html"
+      TimeStamp="8/29/2018 11:28:51 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Property_Bag_Members_for_a_Persistence_Unit.html"
+      TimeStamp="8/29/2018 11:28:51 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Property_Bag_Reference.html"
+      TimeStamp="8/29/2018 11:28:51 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Register_the_Add-in_Component.html"
+      TimeStamp="8/29/2018 11:28:52 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Saving_the_Model.html"
+      TimeStamp="8/29/2018 11:28:52 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Scalar_and_Non-Scalar_Property_Values.html"
+      TimeStamp="8/29/2018 11:28:52 AM" />
+    <Url
+      Source="../../Content/References/API Reference/SC_ModelDirectoryFlags.html"
+      TimeStamp="8/29/2018 11:28:52 AM" />
+    <Url
+      Source="../../Content/References/API Reference/SC_ModelDirectoryType.html"
+      TimeStamp="8/29/2018 11:28:52 AM" />
+    <Url
+      Source="../../Content/References/API Reference/SC_ModelObjectFlags.html"
+      TimeStamp="8/29/2018 11:28:53 AM" />
+    <Url
+      Source="../../Content/References/API Reference/SC_ModelPropertyFlags.html"
+      TimeStamp="8/29/2018 11:28:53 AM" />
+    <Url
+      Source="../../Content/References/API Reference/SC_SessionFlags.html"
+      TimeStamp="8/29/2018 11:28:53 AM" />
+    <Url
+      Source="../../Content/References/API Reference/SC_SessionLevel.html"
+      TimeStamp="8/29/2018 11:28:53 AM" />
+    <Url
+      Source="../../Content/References/API Reference/SC_ValueTypes.html"
+      TimeStamp="8/29/2018 11:28:54 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Sessions_Tier.html"
+      TimeStamp="8/29/2018 11:28:54 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Setting_Non-Scalar_Property_Values.html"
+      TimeStamp="8/29/2018 11:28:54 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Setting_Property_Values.html"
+      TimeStamp="8/29/2018 11:28:54 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Setting_Scalar_Property_Values.html"
+      TimeStamp="8/29/2018 11:28:54 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Standalone_Client.html"
+      TimeStamp="8/29/2018 11:28:54 AM" />
+    <Url
+      Source="../../Content/References/API Reference/The_API_Sample_Client.html"
+      TimeStamp="8/29/2018 11:28:55 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Typical_Use_Cases.html"
+      TimeStamp="8/29/2018 11:28:55 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Using_the_API_as_an_Add-in_Tool.html"
+      TimeStamp="8/29/2018 11:28:55 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Using_the_API_as_a_Standalone_Executable.html"
+      TimeStamp="8/29/2018 11:28:55 AM" />
+    <Url
+      Source="../../Content/References/API Reference/Using_the_API_Sample_Client.html"
+      TimeStamp="8/29/2018 11:28:55 AM" />
+    <Url
+      Source="../../Content/References/API Reference/XML_Schema.html"
+      TimeStamp="8/29/2018 11:28:55 AM" />
+    <Url
+      Source="../../Content/References/API Reference/_NewEnum_Property_of_a_Collection_Object.html"
+      TimeStamp="8/29/2018 11:28:56 AM" />
+    <Url
+      Source="../TOCs/API Reference.fltoc"
+      TimeStamp="8/29/2018 11:56:22 AM" />
+    <Url
+      Source="../../Content/Resources/dhtml_search1.js"
+      TimeStamp="8/29/2018 10:25:11 AM" />
+    <Url
+      Source="../../Content/Resources/Images/diamond11.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/hyphen11.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/checkbox11.gif"
+      TimeStamp="6/20/2011 1:12:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/block11.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/docsstylesheet1.css"
+      TimeStamp="8/29/2018 11:28:56 AM" />
+    <Url
+      Source="../../Content/Resources/Images/erwin11.png"
+      TimeStamp="12/29/2016 10:51:25 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/stylesheet1.css"
+      TimeStamp="8/29/2018 11:28:56 AM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_center11.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_right11.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_left11.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_right11.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_left11.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_center11.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/space1x12.png"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/castyles1.css"
+      TimeStamp="8/29/2018 11:28:56 AM" />
+    <Url
+      Source="../../Content/Resources/Images/cbook11.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/topic11.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc3.css"
+      TimeStamp="8/29/2018 11:28:56 AM" />
+    <Url
+      Source="../../Content/Resources/dhtml_toc1.js"
+      TimeStamp="8/29/2018 10:23:56 AM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc1.css"
+      TimeStamp="8/29/2018 11:28:56 AM" />
+    <Url
+      Source="../../Content/Resources/highlight1.js"
+      TimeStamp="9/6/2012 8:49:46 PM" />
+    <Url
+      Source="../../Content/Resources/mailca1.js"
+      TimeStamp="12/2/2016 4:06:20 PM" />
+    <Url
+      Source="../../Content/Resources/open_parent1.js"
+      TimeStamp="2/6/2013 4:36:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8317.jpg"
+      TimeStamp="8/29/2018 10:24:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/lftgray12.png"
+      TimeStamp="8/29/2018 10:25:12 AM" />
+    <Url
+      Source="../../Content/Resources/Images/6296.gif"
+      TimeStamp="8/29/2018 10:25:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/6026.gif"
+      TimeStamp="8/29/2018 10:24:50 AM" />
+    <Url
+      Source="../../Content/Resources/Images/6046.gif"
+      TimeStamp="8/29/2018 10:24:52 AM" />
+    <Url
+      Source="../../Content/Resources/Images/6045.gif"
+      TimeStamp="8/29/2018 10:24:52 AM" />
+    <Url
+      Source="../../Content/Resources/Images/6184.gif"
+      TimeStamp="8/29/2018 10:24:59 AM" />
+    <Url
+      Source="../../Content/Resources/Images/6059.png"
+      TimeStamp="8/29/2018 10:24:53 AM" />
+    <Url
+      Source="../../Content/Resources/Images/6058.png"
+      TimeStamp="8/29/2018 10:24:53 AM" />
+    <Url
+      Source="../../Content/Resources/Images/6057.png"
+      TimeStamp="8/29/2018 10:24:53 AM" />
+    <Url
+      Source="../../Content/Resources/Images/6056.png"
+      TimeStamp="8/29/2018 10:24:53 AM" />
+    <Url
+      Source="../../Content/Resources/Images/6320.png"
+      TimeStamp="8/29/2018 10:25:08 AM" />
+    <Url
+      Source="../../Content/Resources/Images/6318.gif"
+      TimeStamp="8/29/2018 10:25:08 AM" />
+    <Url
+      Source="../../Content/Resources/Images/6032.gif"
+      TimeStamp="8/29/2018 10:24:51 AM" />
+    <Url
+      Source="../../Content/Resources/Images/6028.gif"
+      TimeStamp="8/29/2018 10:24:51 AM" />
+    <Url
+      Source="../../Content/Resources/Images/6134.gif"
+      TimeStamp="8/29/2018 10:24:57 AM" />
+    <Url
+      Source="../../Content/Resources/Images/6030.gif"
+      TimeStamp="8/29/2018 10:24:51 AM" />
+    <Url
+      Source="../../Content/Resources/Images/6020.png"
+      TimeStamp="8/29/2018 10:24:50 AM" />
+    <Url
+      Source="../../Content/Resources/Images/6325.gif"
+      TimeStamp="8/29/2018 10:25:08 AM" />
+    <Url
+      Source="../../Content/Resources/Images/rgtgray12.png"
+      TimeStamp="8/29/2018 10:25:12 AM" />
+  </GeneratedFiles>
+</HtmlImport>

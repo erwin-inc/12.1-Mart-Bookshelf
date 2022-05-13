@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html lang="en" xmlns:madcap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title>Log In to erwin Mart Administrator and Configure Settings</title>
+        <link href="..\..\Resources\StyleSheets\stylesheet.css" rel="stylesheet" type="text/css" />
+        <link href="..\..\Resources\StyleSheets\docsstylesheet.css" rel="stylesheet" type="text/css" />
+        <meta content="&lt;authorit:componentcd&gt;" name="componentcd" />
+        <meta content="8212" name="objectid" />
+        <meta content="305" name="basedOnKey" />
+        <!--metadata variables for XMD: translatable-->
+        <meta content="" name="description" />
+        <meta content="&lt;authorit:ca_keywords&gt;" name="keywords" />
+        <meta content="&lt;authorit:ca_content_type&gt;" name="ca_content_type" />
+        <meta content="&lt;authorit:ca_context&gt;" name="ca_context" />
+        <meta content="&lt;authorit:ca_role&gt;" name="ca_role" />
+        <meta content="en-US" name="ca_language" />
+        <!--metadata variables for XMD: do not translate-->
+        <meta content="&lt;authorit:ca_offering_name&gt;" name="ca_offering_name" />
+        <meta content="&lt;authorit:ca_product_version&gt;" name="ca_product_version" />
+        <meta content="&lt;authorit:ca_product_family&gt;" name="ca_product_family" />
+        <meta content="&lt;authorit:ca_alias_name&gt;" name="ca_alias_name" />
+        <meta content="&lt;authorit:ca_related_offering&gt;" name="ca_related_offering" />
+        <meta content="&lt;authorit:ca_access_level&gt;" name="ca_access_level" />
+        <meta content="8/13/2018T12:00-5:00" name="ca_date_time" />
+        <meta content="(supervisor)" name="ca_creator" />
+        <meta content="&lt;authorit:ca_source&gt;" name="ca_source" />
+        <meta content="HTML" name="ca_format" />
+        <meta content="&lt;authorit:ca_database&gt;" name="ca_database" />
+        <meta content="&lt;authorit:ca_application_server&gt;" name="ca_application_server" />
+        <meta content="&lt;authorit:ca_operating_system&gt;" name="ca_operating_system" />
+        <meta content="&lt;authorit:ca_star_code&gt;" name="ca_star_code" />
+        <meta content="&lt;authorit:ca_cms_id&gt;" name="ca_cms_id" />
+        <script language="javascript" type="text/javascript">
+        </script> <script language="javascript" type="text/javascript"></script> <script language="javascript" src="../../Resources/mailerwin.js" type="text/javascript"></script> <script language="javascript" type="text/javascript"></script></head>
+    <body onload="loadParent();highlightx();if (isTOCLoaded()) {highlight('8212')}">
+        <p class="bodytext">
+            <MadCap:concept term="User Guides" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        </p>
+        <h1 class="heading1" id="t8212">Log In to erwin Mart Administrator and Configure Settings</h1>
+        <p class="bodytext">After Mart is initialized, the user who initialized must log in first. When you log in to Mart for the first time, configure it per the requirements of your organization.</p>
+        <p class="bodytext"><strong>Note</strong>: A password should fulfill the following criteria:</p>
+        <ul class="listbullet">
+            <li class="listbullet">Contains at least 1 lowercase character
+</li>
+            <li class="listbullet">Contains at least 1 uppercase character
+</li>
+            <li class="listbullet">Contains at least 1 number
+</li>
+            <li class="listbullet">Is minimum 6 characters in length
+</li>
+            <li class="listbullet">Is maximum 130 characters in length
+</li>
+        </ul>
+        <p class="bodytext">Apart from the above criteria, special characters are optional.</p>
+        <p class="bodytext">Also, if you enter an incorrect password five consecutive times, your account will be locked for five minutes (300 seconds) by default.<br />You can change the time for which the account stays locked as follows:</p>
+        <ol class="listnumber2">
+            <li class="listnumber2">From Windows Start menu, click <b>erwin</b> &gt; <b>Configure MartServer</b>.
+<p class="listnote2">The erwin Mart Configuration dialog appears.<br /><img src="../../Resources/Images/erwin-Mart-Configuration.png" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="width: 473px;height: 511px;" /></p></li>
+            <li class="listnumber2">Click the 	<b>Mart Admin</b> tab.<br />The following screen appears.<br /><img src="../../Resources/Images/Mart-Admin.png" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="border-bottom-style: solid;border-bottom-width: 1px;width: 467px;height: 449px;" /></li>
+            <li class="listnumber2">Edit the value of the Account Lockout Duration (Seconds) field to an appropriate value. At the most, you can set it to 30 days (2592000 seconds).
+</li>
+            <li class="listnumber2">Click <b>Configure</b>.<br />Account lockout duration is changed.</li>
+        </ol>
+        <p class="bodytext">To log in, from the Windows Start menu, click <b>erwin</b> &gt; <b>erwin Mart Administrator <MadCap:variable name="General.VersionNumber" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></b>.</p>
+        <p class="proceduresubheading">To log in as a Windows-authenticated user, follow these steps:</p>
+        <p class="bodytext">This procedure describes how to enable a Windows-authenticated user log in to a Mart that is already initialized. Use this procedure if the Mart is initialized with either a server user or a Windows-authenticated user.</p>
+        <ol class="listnumber">
+            <li class="listnumber">Ensure that you have provided the Active Directory details with user credentials in the Active Directory Details section in the erwin Mart Configuration dialog. 
+</li>
+            <li class="listnumber">Log in to the Mart as an administrator and add the required user as a Windows user in the Mart. Ensure that the user belongs to the Active Directory that was provided at the time of configuring the Mart.
+<p class="listcontinue">Now the Windows-authenticated user can log in to erwin Mart Administrator by providing the user name in the &lt;domain name&gt;/&lt;user name&gt; format.</p><p class="listcontinue"><strong>Note:</strong> A local Windows user who does not belong to a domain or who is not part of an Active Directory cannot log in to the Mart as a Windows user. </p></li>
+        </ol>
+        <p>
+        </p>
+    </body>
+</html>

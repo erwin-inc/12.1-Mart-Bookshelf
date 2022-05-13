@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../TableStyles/TableStyle.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p class="bodytext">Ensure that you consider mart size, model count, and associated versions  while upgrading a Mart from an earlier version to the latest version.
+The following table provides sample data of the upgrade process. You can use this information as a guideline.</p>
+        <MadCap:snippetBlock src="MartUpgradePerformanceTable.flsnp" />
+        <p class="bodytext">Following are a few tips to ensure a smooth upgrade:</p>
+        <ul class="listbullet">
+            <li class="listbullet">Before upgrading, ensure that you double the number of data files in tablespaces for MMDATA and MMINDEX in an Oracle mart.</li>
+            <li class="listbullet">Check the Report Upgrade status in the MartServerUpgrade.log file.</li>
+            <li class="listbullet">If the M9Object Table has high volume of data and models over 100 MB, run the upgrade on a machine that has 64 GB or more RAM.</li>
+            <li class="listbullet">For 64-bit operating system, based on the following parameters, change the number of threads from the default 8 to 3 in the user.config  file located at C:\Users\<i>&lt;user name&gt;</i>\AppData\Local\erwin\MartConfiguration.exe_Url_<i>&lt;xxx&gt;</i>\2.0.0.0\:<br /><table style="mc-table-style: url('../TableStyles/TableStyle.css');border-left-style: solid;border-left-width: 1px;border-left-color: #000000;border-right-style: solid;border-right-width: 1px;border-right-color: #000000;border-top-style: solid;border-top-width: 1px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;margin-left: 0;margin-right: auto;" class="TableStyle-TableStyle" cellspacing="0"><col class="TableStyle-TableStyle-Column-Column1" /><col class="TableStyle-TableStyle-Column-Column1" /><col class="TableStyle-TableStyle-Column-Column1" /><tbody><tr class="TableStyle-TableStyle-Body-Body1"><td class="TableStyle-TableStyle-BodyE-Column1-Body1" style="text-align: center;"><p class="tableheading">Mart</p></td><td class="TableStyle-TableStyle-BodyE-Column1-Body1" style="text-align: center;"><p class="tableheading">Machine Configuration</p></td><td class="TableStyle-TableStyle-BodyD-Column1-Body1" style="text-align: center;"><p class="tableheading">Update</p></td></tr><tr class="TableStyle-TableStyle-Body-Body1"><td class="TableStyle-TableStyle-BodyE-Column1-Body1"><p class="tablebodytext"><b>Rows in M9Object table:</b> 42108498 million
+								</p><p class="tablebodytext"><b>Model size:</b> More than 100 MB
+							</p></td><td class="TableStyle-TableStyle-BodyE-Column1-Body1"><p class="tablebodytext">RAM less than 8 GB</p></td><td class="TableStyle-TableStyle-BodyD-Column1-Body1"><p class="tablebodytext"><b>Current:</b><br />&lt;setting name="REPORTEXPORT_THREADS" serializeAs="String"&gt;</p><p>&lt;value&gt;8&lt;/value&gt;</p><p>&lt;/setting&gt;</p><p class="tablebodytext"><![CDATA[
+								]]></p><p class="tablebodytext"><b>Updated:</b><br />&lt;setting name="REPORTEXPORT_THREADS" serializeAs="String"&gt;</p><p>&lt;value&gt;3&lt;/value&gt;</p><p>&lt;/setting&gt;</p><p class="tablebodytext"><![CDATA[			]]></p></td></tr><tr class="TableStyle-TableStyle-Body-Body1"><td class="TableStyle-TableStyle-BodyB-Column1-Body1"><p><b>Rows in M9Object table:</b> 520732699 million</p><p><b>Model size:</b> More than 100 MB
+							</p></td><td class="TableStyle-TableStyle-BodyB-Column1-Body1"><p class="tablebodytext">RAM less than 32 GB</p></td><td class="TableStyle-TableStyle-BodyA-Column1-Body1"><p><b>Current:</b><br />&lt;setting name="REPORTEXPORT_THREADS" serializeAs="String"&gt;</p><p>&lt;value&gt;8&lt;/value&gt;</p><p>&lt;/setting&gt;</p><p class="tablebodytext"><![CDATA[
+								]]></p><p class="tablebodytext"><b>Updated:</b><br />&lt;setting name="REPORTEXPORT_THREADS" serializeAs="String"&gt;</p><p>&lt;value&gt;3&lt;/value&gt;</p><p>&lt;/setting&gt;</p><p><![CDATA[		]]></p></td></tr></tbody></table></li>
+            <li class="listbullet">In case of failures in upgrade, before you rerun the upgrade, ensure that you select the following check boxes on the Advanced tab on the erwin Mart Configuration dialog:<ul><li class="listbullet">Rerun Count Upgrade</li><li class="listbullet">Rerun Report Upgrade</li></ul><p>For more information, refer to the Configure the Mart Server topic.<br /></p></li>
+        </ul>
+    </body>
+</html>

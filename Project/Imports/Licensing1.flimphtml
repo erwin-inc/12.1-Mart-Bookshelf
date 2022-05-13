@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Licensing"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/"
+  LastImport="2018-08-24T17:13:26.9000000+05:30"
+  ImportTopicsLocation="Content/Licensing/">
+  <Files>
+    <Url
+      Source="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Licensing"
+      AbsoluteSource="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Licensing" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Licensing/Licensing/dhtml_search.htm"
+      TimeStamp="8/24/2018 5:13:15 PM" />
+    <Url
+      Source="../../Content/Licensing/Licensing/heading.htm"
+      TimeStamp="8/24/2018 5:13:15 PM" />
+    <Url
+      Source="../../Content/Licensing/Licensing/html_frameset.htm"
+      TimeStamp="8/24/2018 5:13:15 PM" />
+    <Url
+      Source="../../Content/Licensing/Licensing/index.htm"
+      TimeStamp="8/24/2018 5:13:15 PM" />
+    <Url
+      Source="../../Content/Licensing/Licensing/index_template.htm"
+      TimeStamp="8/24/2018 5:13:15 PM" />
+    <Url
+      Source="../../Content/Licensing/Licensing/tab_search.htm"
+      TimeStamp="8/24/2018 5:13:16 PM" />
+    <Url
+      Source="../../Content/Licensing/Licensing/tab_toc.htm"
+      TimeStamp="8/24/2018 5:13:16 PM" />
+    <Url
+      Source="../../Content/Licensing/Licensing/toc.htm"
+      TimeStamp="8/24/2018 5:13:16 PM" />
+    <Url
+      Source="../../Content/Licensing/Licensing/copyright.html"
+      TimeStamp="8/24/2018 5:13:16 PM" />
+    <Url
+      Source="../../Content/Licensing/Licensing/Introduction- Licensing.html"
+      TimeStamp="8/24/2018 5:13:16 PM" />
+    <Url
+      Source="../../Content/Licensing/Licensing/Licensing.html"
+      TimeStamp="8/24/2018 5:13:16 PM" />
+    <Url
+      Source="../../Content/Licensing/Licensing/Obtain_and_Activate_a_License.html"
+      TimeStamp="8/24/2018 5:13:16 PM" />
+    <Url
+      Source="../../Content/Licensing/Licensing/Understand_Licensing.html"
+      TimeStamp="8/24/2018 5:13:17 PM" />
+    <Url
+      Source="../../Content/Licensing/Licensing/View_or_Return_a_License.html"
+      TimeStamp="8/24/2018 5:13:17 PM" />
+    <Url
+      Source="../TOCs/Licensing1.fltoc"
+      TimeStamp="8/24/2018 5:13:23 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_search1.js"
+      TimeStamp="8/24/2018 5:07:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/diamond7.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/hyphen7.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/checkbox7.gif"
+      TimeStamp="6/20/2011 1:12:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/block7.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/docsstylesheet1.css"
+      TimeStamp="8/24/2018 5:13:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/erwin7.png"
+      TimeStamp="12/29/2016 10:51:25 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/stylesheet1.css"
+      TimeStamp="8/24/2018 5:13:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_center7.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_right7.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_left7.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_right7.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_left7.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_center7.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/space1x8.png"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/castyles1.css"
+      TimeStamp="8/24/2018 5:13:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/cbook7.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/topic7.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc2.css"
+      TimeStamp="8/24/2018 5:13:17 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_toc1.js"
+      TimeStamp="8/23/2018 10:43:30 AM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc1.css"
+      TimeStamp="8/24/2018 5:13:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/rgtgray8.png"
+      TimeStamp="8/23/2018 10:43:41 AM" />
+    <Url
+      Source="../../Content/Resources/highlight1.js"
+      TimeStamp="9/6/2012 8:49:46 PM" />
+    <Url
+      Source="../../Content/Resources/mailca1.js"
+      TimeStamp="12/2/2016 4:06:20 PM" />
+    <Url
+      Source="../../Content/Resources/open_parent1.js"
+      TimeStamp="2/6/2013 4:36:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8313.jpg"
+      TimeStamp="8/23/2018 10:43:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/lftgray8.png"
+      TimeStamp="8/23/2018 10:43:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/8308.png"
+      TimeStamp="8/23/2018 10:43:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/8294.png"
+      TimeStamp="8/23/2018 10:43:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/8295.png"
+      TimeStamp="8/23/2018 10:43:40 AM" />
+  </GeneratedFiles>
+</HtmlImport>

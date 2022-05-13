@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Applying Data Type Standards"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-08-31T15:38:03.1017218+05:30"
+  ImportTopicsLocation="Content/Tutorials/Scenarios/"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/">
+  <Files>
+    <Url
+      Source="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Applying Data Type Standards"
+      AbsoluteSource="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Applying Data Type Standards" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Data Type Standards/dhtml_search.htm"
+      TimeStamp="8/31/2018 3:37:24 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Data Type Standards/heading.htm"
+      TimeStamp="8/31/2018 3:37:24 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Data Type Standards/html_frameset.htm"
+      TimeStamp="8/31/2018 3:37:24 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Data Type Standards/index.htm"
+      TimeStamp="8/31/2018 3:37:24 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Data Type Standards/index_template.htm"
+      TimeStamp="8/31/2018 3:37:24 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Data Type Standards/tab_search.htm"
+      TimeStamp="8/31/2018 3:37:24 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Data Type Standards/tab_toc.htm"
+      TimeStamp="8/31/2018 3:37:24 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Data Type Standards/toc.htm"
+      TimeStamp="8/31/2018 3:37:24 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Data Type Standards/Apply Data Type Standards by Binding a Model Template.html"
+      TimeStamp="8/31/2018 3:37:25 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Data Type Standards/Apply Data Type Standards to the Model.html"
+      TimeStamp="8/31/2018 3:37:25 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Data Type Standards/Applying Data Type Standards.html"
+      TimeStamp="8/31/2018 3:37:25 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Data Type Standards/Apply_Data_Type_Standards_to_the_Model.html"
+      TimeStamp="8/31/2018 3:37:25 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Data Type Standards/Bind_a_Model_Template.html"
+      TimeStamp="8/31/2018 3:37:25 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Data Type Standards/copyright.html"
+      TimeStamp="8/31/2018 3:37:25 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Data Type Standards/Create and Apply Data Type Standards.html"
+      TimeStamp="8/31/2018 3:37:25 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Data Type Standards/Create_a_Mapping.html"
+      TimeStamp="8/31/2018 3:37:26 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Data Type Standards/Decide_the_Method_to_Apply_Standards.html"
+      TimeStamp="8/31/2018 3:37:26 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Data Type Standards/Define_Data_Type_Standards_from_Model_Explorer.html"
+      TimeStamp="8/31/2018 3:37:26 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Data Type Standards/Import Data Type Standards from a Previous Version.html"
+      TimeStamp="8/31/2018 3:37:26 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Data Type Standards/Import Data Type Standards.html"
+      TimeStamp="8/31/2018 3:37:26 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Data Type Standards/Introduction- Applying Data Type Standards.html"
+      TimeStamp="8/31/2018 3:37:26 PM" />
+    <Url
+      Source="../TOCs/Applying Data Type Standards.fltoc"
+      TimeStamp="8/31/2018 3:38:01 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_search1.js"
+      TimeStamp="8/31/2018 3:13:18 PM" />
+    <Url
+      Source="../../Content/Resources/Images/diamond18.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/hyphen18.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/checkbox18.gif"
+      TimeStamp="6/20/2011 1:12:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/block18.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/docsstylesheet1.css"
+      TimeStamp="8/31/2018 3:37:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/erwin19.png"
+      TimeStamp="12/29/2016 10:51:25 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/stylesheet1.css"
+      TimeStamp="8/31/2018 3:37:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_center18.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_right18.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_left18.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_right18.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_left18.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_center18.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/space1x19.png"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/castyles1.css"
+      TimeStamp="8/31/2018 3:37:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/cbook18.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/topic18.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc3.css"
+      TimeStamp="8/31/2018 3:37:26 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_toc1.js"
+      TimeStamp="8/31/2018 3:13:13 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc1.css"
+      TimeStamp="8/31/2018 3:37:26 PM" />
+    <Url
+      Source="../../Content/Resources/highlight1.js"
+      TimeStamp="9/6/2012 8:49:46 PM" />
+    <Url
+      Source="../../Content/Resources/mailca1.js"
+      TimeStamp="12/2/2016 4:06:20 PM" />
+    <Url
+      Source="../../Content/Resources/open_parent1.js"
+      TimeStamp="2/6/2013 4:36:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/392.png"
+      TimeStamp="8/31/2018 3:13:16 PM" />
+    <Url
+      Source="../../Content/Resources/Images/1476.png"
+      TimeStamp="8/31/2018 3:13:16 PM" />
+    <Url
+      Source="../../Content/Resources/Images/rgtgray17.png"
+      TimeStamp="8/31/2018 3:13:18 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8324.jpg"
+      TimeStamp="8/31/2018 3:13:16 PM" />
+    <Url
+      Source="../../Content/Resources/Images/lftgray19.png"
+      TimeStamp="8/31/2018 3:13:18 PM" />
+  </GeneratedFiles>
+</HtmlImport>

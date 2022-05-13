@@ -1,0 +1,173 @@
+/*<meta sourceDocument="D:\Author-it\Publishing\HTML for Bookshelf\erwin_RelNotes\dhtml_toc.css" />*/
+
+body
+{
+	font-family: "Calibri", Arial, Helvetica, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	font-size: 100%;
+	line-height: 130%;
+	color: #333;
+	background: #fff;
+	margin: 0 0 0 0;
+	padding: 16px 0 16px 0;
+}
+
+img
+{
+	border: none;
+}
+
+ul#expandingmenu ul
+{
+	list-style-type: none;
+	margin: 0 0 0 0;
+	margin-left: 12px;
+	padding: 0;
+}
+
+ul#expandingmenu li
+{
+	list-style-type: none;
+	background-image: url('../Images/topic.gif');
+	background-repeat: no-repeat;
+	background-position: 1px 2px;
+	padding: 1px 1px 1px 1px;
+	margin: 0 0 0 0;
+	padding-left: 18px;
+	position: relative;
+	_height: 1;
+}
+
+ul#expandingmenu li.subnodes
+{
+	list-style-type: none;
+	background-image: url('../Images/cbook.gif');
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	position: relative;
+	hidden: true;
+}
+
+ul#expandingmenu li a.expcol
+{
+	padding: 2px 2px 2px 2px;
+	margin: 0;
+	position: absolute;
+	left: -16px;
+	top: -2px;
+}
+
+li.subnodes ul
+{
+	display: none;
+	visibility: hidden;
+}
+
+.expanded li.subnodes ul
+{
+	display: block;
+	visibility: visible;
+}
+
+a:link
+{
+	font-family: "Calibri", Arial, Helvetica, sans-serif;
+	color: #0064af;
+	text-decoration: none;
+}
+
+a:visited
+{
+	font-family: "Calibri", Arial, Helvetica, sans-serif;
+	color: #0064af;
+	text-decoration: none;
+}
+
+a:focus
+{
+	background-color: transparent;
+}
+
+a:hover
+{
+	text-decoration: none;
+	font-family: "Calibri", Arial, Helvetica, sans-serif;
+	cursor: pointer;
+	color: #FFFFFF;
+	background-color: transparent;
+}
+
+a:active
+{
+	background-color: transparent;
+}
+
+a:focus,
+a:active
+{
+	text-decoration: none;
+	font-family: "Calibri", Arial, Helvetica, sans-serif;
+	cursor: pointer;
+	/*background-color: #0064AF;*/
+	color: #FFFFFF;
+}
+
+a.expall
+{
+	margin: 0;
+	padding: 2px 2px 0px 2px;
+	background-color: white;
+	border: 2px solid white;
+	text-align: center;
+}
+
+a.expall:focus,
+a.expall:active
+{
+	margin: 0;
+	padding: 2px 2px 0px 2px;
+	background-color: white;
+	border: 2px solid #0064AF;
+	text-align: center;
+}
+
+a.expall:hover
+{
+	margin: 0;
+	padding: 2px 2px 0px 2px;
+	background-color: white;
+	border: 2px solid #006902;
+	text-align: center;
+}
+
+a.expall img
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	top: 0;
+	left: 0;
+	vertical-align: -2px;
+}
+
+ul#expandingmenu li a.expcol:focus
+{
+	color: #ffffff;
+	background: #0064af;
+}
+
+ul#expandingmenu li a.expcol:hover
+{
+	color: #ffffff;
+	background: #006902;
+	text-decoration: none;
+}
+
+ul#expandingmenu li a.expcol:active
+{
+	color: #ffffff;
+	background: #0064af;
+}
+

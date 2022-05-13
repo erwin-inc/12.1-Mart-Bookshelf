@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html lang="en" xmlns:madcap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title>Customize Mart Emails</title>
+        <link href="..\..\Resources\StyleSheets\stylesheet.css" rel="stylesheet" type="text/css" />
+        <link href="..\..\Resources\StyleSheets\docsstylesheet.css" rel="stylesheet" type="text/css" />
+        <meta content="&lt;authorit:componentcd&gt;" name="componentcd" />
+        <meta content="804" name="objectid" />
+        <meta content="305" name="basedOnKey" />
+        <!--metadata variables for XMD: translatable-->
+        <meta content="" name="description" />
+        <meta content="&lt;authorit:ca_keywords&gt;" name="keywords" />
+        <meta content="&lt;authorit:ca_content_type&gt;" name="ca_content_type" />
+        <meta content="&lt;authorit:ca_context&gt;" name="ca_context" />
+        <meta content="&lt;authorit:ca_role&gt;" name="ca_role" />
+        <meta content="en-US" name="ca_language" />
+        <!--metadata variables for XMD: do not translate-->
+        <meta content="&lt;authorit:ca_offering_name&gt;" name="ca_offering_name" />
+        <meta content="&lt;authorit:ca_product_version&gt;" name="ca_product_version" />
+        <meta content="&lt;authorit:ca_product_family&gt;" name="ca_product_family" />
+        <meta content="&lt;authorit:ca_alias_name&gt;" name="ca_alias_name" />
+        <meta content="&lt;authorit:ca_related_offering&gt;" name="ca_related_offering" />
+        <meta content="&lt;authorit:ca_access_level&gt;" name="ca_access_level" />
+        <meta content="8/13/2018T12:00-5:00" name="ca_date_time" />
+        <meta content="(supervisor)" name="ca_creator" />
+        <meta content="&lt;authorit:ca_source&gt;" name="ca_source" />
+        <meta content="HTML" name="ca_format" />
+        <meta content="&lt;authorit:ca_database&gt;" name="ca_database" />
+        <meta content="&lt;authorit:ca_application_server&gt;" name="ca_application_server" />
+        <meta content="&lt;authorit:ca_operating_system&gt;" name="ca_operating_system" />
+        <meta content="&lt;authorit:ca_star_code&gt;" name="ca_star_code" />
+        <meta content="&lt;authorit:ca_cms_id&gt;" name="ca_cms_id" />
+        <script language="javascript" type="text/javascript">
+        </script> <script language="javascript" type="text/javascript"></script> <script language="javascript" src="../../Resources/mailerwin.js" type="text/javascript"></script> <script language="javascript" type="text/javascript"></script></head>
+    <body onload="loadParent();highlightx();if (isTOCLoaded()) {highlight('804')}">
+        <p class="bodytext">
+            <MadCap:concept term="User Guides" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        </p>
+        <h1 class="heading1" id="t804">Customize Mart Emails</h1>
+        <p class="bodytext">The Mart sends automated emails for the following events:</p>
+        <ul class="listbullet">
+            <li class="listbullet">When you reset a password
+</li>
+            <li class="listbullet">When a user uses the Forgot Password option
+</li>
+            <li class="listbullet">When you add a server user or a Windows user 
+</li>
+            <li class="listbullet">When you change the email address of a user
+</li>
+        </ul>
+        <p class="bodytext">You can customize the subject and body of these emails to suit the requirements of your organization. </p>
+        <p class="proceduresubheading">Follow these steps:</p>
+        <ol class="listnumber">
+            <li class="listnumber">Navigate to the Mart Server installation directory and locate the <em class="italic">email-templates.xml</em> file.
+<p class="listcontinue">Typically, this file is available in the following location:</p><pre xml:space="preserve">
+C:\Program Files\erwin\Mart Server r9\Tomcat64\<br />webapps\MartServer\WEB-INF\classes
+</pre></li>
+            <li class="listnumber">[Optional] Create a folder named Backup on your computer and copy the email-templates.xml file to the folder.
+<p class="listcontinue">You can use the file in the Backup folder to revert to the original contents.</p></li>
+            <li class="listnumber">Open the email-templates.xml file using Notepad or a similar XML editor. 
+</li>
+            <li class="listnumber">Locate the event for which you want to customize the email.
+<p class="listcontinue">Events are included between the &lt;Name&gt; and &lt;/Name&gt; tags, within the &lt;template&gt; and &lt;/template&gt; tags.</p></li>
+            <li class="listnumber">To change the subject of the email, change the text that is available between the &lt;Subject&gt; and &lt;/Subject&gt; tags.
+</li>
+            <li class="listnumber">To change the body of the email, change the text that is available between the &lt;Content&gt; and &lt;/Content&gt; tags.
+<p class="listimportant"><strong>Important!</strong> Do not change anything that includes a % or an &amp; symbol. Modifying such predefined tokens may break the code and may disable user accounts.</p></li>
+            <li class="listnumber">Save the XML file.
+</li>
+            <li class="listnumber">Restart the Web server.
+<p class="listcontinue">The updated email template is used when the event occurs the next time.</p></li>
+        </ol>
+        <p>
+        </p>
+    </body>
+</html>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="bodytext">You can store NSM files centrally on erwin Mart and apply them to both, local and Mart models from the Naming Standard Editor.</p>
+        <p class="bodytext">To apply naming standards from the Mart, follow these steps:</p>
+        <ol class="listnumber">
+            <li class="listnumber">Connect to the mart.</li>
+            <li class="listnumber">Open a model (local or Mart model).</li>
+            <li class="listnumber">Click <b>Tools</b> &gt; <b>Naming Standards</b>.<br />The Naming Standard Editor opens.<br /><img src="../Images/NamingStandardEditor.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: ;border-right-style: solid;border-right-width: 1px;border-right-color: ;border-top-style: solid;border-top-width: 1px;border-top-color: ;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: ;width: 377px;height: 451px;" /></li>
+            <li class="listnumber">On the toolbar, click <img src="../Images/IconNSMFileList.png" />.<br />The list of NSM files available on the mart opens.<br /><img src="../Images/DMNSMFileList.png" style="border-left-style: solid;border-left-width: 1px;border-left-color: ;border-right-style: solid;border-right-width: 1px;border-right-color: ;border-top-style: solid;border-top-width: 1px;border-top-color: ;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: ;width: 373px;height: 446px;" /></li>
+            <li class="listnumber">Select an NSM file and click <b>Open</b>.<br />The selected NSM file is applied to your model.</li>
+        </ol>
+        <p class="bodytext">You can sync any changes made to the applied NSM file from the Mart to erwin Data Modeler (DM).</p>
+        <p class="bodytext">To sync the applied NSM file, follow these steps:</p>
+        <ol class="listnumber">
+            <li class="listnumber">On the Naming Standard Editor, click the <b>Glossary</b> tab.</li>
+            <li class="listnumber">On the toolbar, click <img src="../Images/IconSyncNSM.png" />.</li>
+        </ol>
+        <p><b>Note</b>: If you import the NSM file to erwin DM and apply it to a model via the Naming Standard Editor; any updates made to the NSM file in the erwin Mart Administrator do not sync on the erwin Data Modeler side. NSM sync works when an NSM&#160;file is applied to a model via erwin Mart Administrator.</p>
+    </body>
+</html>

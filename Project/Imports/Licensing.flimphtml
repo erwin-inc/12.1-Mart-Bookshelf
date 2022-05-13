@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Licensing"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-08-23T12:51:06.8425820+05:30"
+  ImportTopicsLocation="Content/Licensing/"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/">
+  <Files>
+    <Url
+      Source="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Licensing"
+      AbsoluteSource="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Licensing" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Licensing/Licensing/Introduction- Licensing.html"
+      TimeStamp="8/23/2018 12:50:47 PM" />
+    <Url
+      Source="../../Content/Licensing/Licensing/Licensing.html"
+      TimeStamp="8/23/2018 12:50:47 PM" />
+    <Url
+      Source="../../Content/Licensing/Licensing/Obtain_and_Activate_a_License.html"
+      TimeStamp="8/23/2018 12:50:47 PM" />
+    <Url
+      Source="../../Content/Licensing/Licensing/Understand_Licensing.html"
+      TimeStamp="8/23/2018 12:50:47 PM" />
+    <Url
+      Source="../../Content/Licensing/Licensing/View_or_Return_a_License.html"
+      TimeStamp="8/23/2018 12:50:47 PM" />
+    <Url
+      Source="../TOCs/Licensing.fltoc"
+      TimeStamp="8/23/2018 12:51:05 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8311.jpg"
+      TimeStamp="8/23/2018 10:43:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/8307.png"
+      TimeStamp="8/23/2018 10:43:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/8292.png"
+      TimeStamp="8/23/2018 10:43:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/8293.png"
+      TimeStamp="8/23/2018 10:43:40 AM" />
+  </GeneratedFiles>
+</HtmlImport>

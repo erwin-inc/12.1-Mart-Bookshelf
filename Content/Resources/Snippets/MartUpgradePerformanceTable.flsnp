@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <table border="1" cellpadding="2" cellspacing="0" style="border-collapse: collapse;border: 1px solid #010101;border-left-style: solid;border-left-width: 1px;border-left-color: #010101;border-right-style: solid;border-right-width: 1px;border-right-color: #010101;border-top-style: solid;border-top-width: 1px;border-top-color: #010101;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #010101;margin-left: 0;margin-right: auto;">
+            <col style="width: 262px;" />
+            <col style="width: 178px;" />
+            <col style="width: 231px;" />
+            <tr align="left" valign="top" style="height: 26px;">
+                <td style="border: 1px solid #010101;text-align: center;" valign="middle">
+                    <p class="tableheading">Mart Database</p>
+                </td>
+                <td style="border: 1px solid #010101;text-align: center;" valign="middle">
+                    <p class="tableheading">Machine Configuration</p>
+                </td>
+                <td style="border: 1px solid #010101;text-align: center;" valign="middle">
+                    <p class="tableheading" style="text-align: center;">Time Taken (Upgrade from lower version to erwin Mart 2021 R1 and above)</p>
+                </td>
+            </tr>
+            <tr align="left" valign="top">
+                <td style="border: 1px solid #010101;">
+                    <p class="tablebodytext">Oracle 12c R2 (1221 Models , 42108498 million rows present M9Object Table)</p>
+                </td>
+                <td style="border: 1px solid #010101;">
+                    <p class="tablebodytext">8 GB RAM 1 CPU</p>
+                </td>
+                <td style="border: 1px solid #010101;">
+                    <p class="tablebodytext">50 minutes</p>
+                </td>
+            </tr>
+            <tr align="left" valign="top">
+                <td style="border: 1px solid #010101;">
+                    <p class="tablebodytext">SQL Server 2017 (1277 Models,  44294824 million rows present in M9Object Table)</p>
+                </td>
+                <td style="border: 1px solid #010101;">
+                    <p class="tablebodytext">8 GB RAM 1 CPU</p>
+                </td>
+                <td style="border: 1px solid #010101;">
+                    <p class="tablebodytext">142 minutes</p>
+                </td>
+            </tr>
+            <tr align="left" valign="top">
+                <td style="border: 1px solid #010101;">
+                    <p class="tablebodytext">Postgresql 9.6.15 (1020 Models, 33594468 million rows present in M9Object Table)</p>
+                </td>
+                <td style="border: 1px solid #010101;">
+                    <p class="tablebodytext">16 GB RAM 4 CPUs</p>
+                </td>
+                <td style="border: 1px solid #010101;">
+                    <p class="tablebodytext">15 minutes</p>
+                </td>
+            </tr>
+            <tr align="left" valign="top">
+                <td style="border: 1px solid #010101;">
+                    <p class="tablebodytext">Oracle 12c R1 (10784 Models, 505178719 million rows present in M9Object Table)</p>
+                </td>
+                <td style="border: 1px solid #010101;">
+                    <p class="tablebodytext">32 GB RAM AWS Machine</p>
+                </td>
+                <td style="border: 1px solid #010101;">
+                    <p class="tablebodytext">15 hours</p>
+                </td>
+            </tr>
+            <tr align="left" valign="top">
+                <td style="border: 1px solid #010101;">
+                    <p class="tablebodytext">Oracle 12c R1 (11980 Models, 520732699 million rows present in M9Object Table)</p>
+                </td>
+                <td style="border: 1px solid #010101;">
+                    <p class="tablebodytext">32 GB RAM 4 CPU</p>
+                </td>
+                <td style="border: 1px solid #010101;">
+                    <p class="tablebodytext">20 hours 40 minutes</p>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

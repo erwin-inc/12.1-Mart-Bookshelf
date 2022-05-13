@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Applying Naming Standards"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-08-31T20:22:45.1613121+05:30"
+  ImportTopicsLocation="Content/Tutorials/Scenarios/"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/">
+  <Files>
+    <Url
+      Source="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Applying Naming Standards"
+      AbsoluteSource="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Applying Naming Standards" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Naming Standards/dhtml_search.htm"
+      TimeStamp="8/31/2018 8:22:36 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Naming Standards/heading.htm"
+      TimeStamp="8/31/2018 8:22:36 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Naming Standards/html_frameset.htm"
+      TimeStamp="8/31/2018 8:22:36 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Naming Standards/index.htm"
+      TimeStamp="8/31/2018 8:22:36 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Naming Standards/index_template.htm"
+      TimeStamp="8/31/2018 8:22:36 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Naming Standards/tab_search.htm"
+      TimeStamp="8/31/2018 8:22:36 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Naming Standards/tab_toc.htm"
+      TimeStamp="8/31/2018 8:22:36 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Naming Standards/toc.htm"
+      TimeStamp="8/31/2018 8:22:36 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Naming Standards/add_words_and_abbreviations_to_the_naming_standards_glossary.html"
+      TimeStamp="8/31/2018 8:22:37 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Naming Standards/Applying Naming Standards.html"
+      TimeStamp="8/31/2018 8:22:37 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Naming Standards/bind_template.html"
+      TimeStamp="8/31/2018 8:22:37 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Naming Standards/check_model_names_against_the_naming_standards_glossary.html"
+      TimeStamp="8/31/2018 8:22:37 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Naming Standards/Convert_names_using_naming_standard_abbreviations.html"
+      TimeStamp="8/31/2018 8:22:37 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Naming Standards/copyright.html"
+      TimeStamp="8/31/2018 8:22:37 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Naming Standards/Create and Apply Naming Standards.html"
+      TimeStamp="8/31/2018 8:22:38 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Naming Standards/Decide the Method.html"
+      TimeStamp="8/31/2018 8:22:38 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Naming Standards/define_naming_standards_for_a_logical_model.html"
+      TimeStamp="8/31/2018 8:22:38 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Naming Standards/define_naming_standards_for_a_physical_model.html"
+      TimeStamp="8/31/2018 8:22:38 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Naming Standards/import_from_previous_version.html"
+      TimeStamp="8/31/2018 8:22:38 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Naming Standards/import_words_and_abbreviations_to_the_naming_standards_glossary.html"
+      TimeStamp="8/31/2018 8:22:38 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Applying Naming Standards/Introduction- Applying Naming Standards.html"
+      TimeStamp="8/31/2018 8:22:39 PM" />
+    <Url
+      Source="../TOCs/Applying Naming Standards.fltoc"
+      TimeStamp="8/31/2018 8:22:43 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_search2.js"
+      TimeStamp="8/31/2018 7:47:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/diamond19.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/hyphen19.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/checkbox19.gif"
+      TimeStamp="6/20/2011 1:12:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/block19.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/docsstylesheet2.css"
+      TimeStamp="8/31/2018 8:22:39 PM" />
+    <Url
+      Source="../../Content/Resources/Images/erwin20.png"
+      TimeStamp="12/29/2016 10:51:25 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/stylesheet2.css"
+      TimeStamp="8/31/2018 8:22:39 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_center19.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_right19.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_left19.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_right19.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_left19.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_center19.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/space1x20.png"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/castyles2.css"
+      TimeStamp="8/31/2018 8:22:39 PM" />
+    <Url
+      Source="../../Content/Resources/Images/cbook19.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/topic19.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc4.css"
+      TimeStamp="8/31/2018 8:22:39 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_toc2.js"
+      TimeStamp="8/31/2018 7:47:22 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc5.css"
+      TimeStamp="8/31/2018 8:22:39 PM" />
+    <Url
+      Source="../../Content/Resources/Images/393.png"
+      TimeStamp="8/31/2018 7:47:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/496.gif"
+      TimeStamp="8/31/2018 7:47:27 PM" />
+    <Url
+      Source="../../Content/Resources/highlight2.js"
+      TimeStamp="9/6/2012 8:49:46 PM" />
+    <Url
+      Source="../../Content/Resources/mailca2.js"
+      TimeStamp="12/2/2016 4:06:20 PM" />
+    <Url
+      Source="../../Content/Resources/open_parent2.js"
+      TimeStamp="2/6/2013 4:36:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/7055.png"
+      TimeStamp="8/31/2018 7:47:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/rgtgray18.png"
+      TimeStamp="8/31/2018 7:47:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8325.jpg"
+      TimeStamp="8/31/2018 7:47:25 PM" />
+    <Url
+      Source="../../Content/Resources/Images/lftgray20.png"
+      TimeStamp="8/31/2018 7:47:29 PM" />
+  </GeneratedFiles>
+</HtmlImport>

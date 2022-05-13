@@ -1,4 +1,26 @@
+#################################################################################
+# Placing a # in front of any of the items listed below (e.g., #analyzer) will  #
+# allow these items to be pushed to your Git repository. Keep in mind the more  #
+# files you push to your repository, the more your performance may be affected. #
+#################################################################################
 
+/Output
+/Analyzer
+/FileSync
+/Project/Users
+/.svn
+**/Thumbs.db
+
+#################################################################################
+# Add items to be ignored below                                                 #
+#################################################################################
+
+
+Analyzer/Content.cadbf/Content12.fldb
+Analyzer/Content.cadbf/Content12.s3db
+*.fldb
 *.s3db
-Analyzer/Content.cadbf/Content12.s3db-shm
+*.s3db-shm
 *.s3db-wal
+Output/*
+

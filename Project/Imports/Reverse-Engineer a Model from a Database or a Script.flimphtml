@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Reverse-Engineer a Model from a Database or a Script"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/"
+  LastImport="2018-09-03T14:55:57.1194238+05:30"
+  ImportTopicsLocation="Content/Tutorials/Scenarios/">
+  <Files>
+    <Url
+      Source="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Reverse-Engineer a Model from a Database or a Script"
+      AbsoluteSource="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Reverse-Engineer a Model from a Database or a Script" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Reverse-Engineer a Model from a Database or a Script/dhtml_search.htm"
+      TimeStamp="9/3/2018 2:55:51 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Reverse-Engineer a Model from a Database or a Script/heading.htm"
+      TimeStamp="9/3/2018 2:55:51 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Reverse-Engineer a Model from a Database or a Script/html_frameset.htm"
+      TimeStamp="9/3/2018 2:55:51 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Reverse-Engineer a Model from a Database or a Script/index.htm"
+      TimeStamp="9/3/2018 2:55:51 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Reverse-Engineer a Model from a Database or a Script/index_template.htm"
+      TimeStamp="9/3/2018 2:55:51 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Reverse-Engineer a Model from a Database or a Script/tab_search.htm"
+      TimeStamp="9/3/2018 2:55:52 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Reverse-Engineer a Model from a Database or a Script/tab_toc.htm"
+      TimeStamp="9/3/2018 2:55:52 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Reverse-Engineer a Model from a Database or a Script/toc.htm"
+      TimeStamp="9/3/2018 2:55:52 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Reverse-Engineer a Model from a Database or a Script/connect_db_for_re.html"
+      TimeStamp="9/3/2018 2:55:52 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Reverse-Engineer a Model from a Database or a Script/copyright.html"
+      TimeStamp="9/3/2018 2:55:52 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Reverse-Engineer a Model from a Database or a Script/Inference_Table_for_Reverse_Engineer.html"
+      TimeStamp="9/3/2018 2:55:52 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Reverse-Engineer a Model from a Database or a Script/Introduction-Reverse Engineer a Database or Script.html"
+      TimeStamp="9/3/2018 2:55:52 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Reverse-Engineer a Model from a Database or a Script/Reverse_Engineer.html"
+      TimeStamp="9/3/2018 2:55:53 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Reverse-Engineer a Model from a Database or a Script/Reverse_Engineer_Processing_Errors.html"
+      TimeStamp="9/3/2018 2:55:53 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Reverse-Engineer a Model from a Database or a Script/Save_Database_Queries_to_a_Trace_File.html"
+      TimeStamp="9/3/2018 2:55:53 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Reverse-Engineer a Model from a Database or a Script/select_template_for_mart_model.html"
+      TimeStamp="9/3/2018 2:55:53 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Reverse-Engineer a Model from a Database or a Script/set_options_for_reverse_engineer.html"
+      TimeStamp="9/3/2018 2:55:54 PM" />
+    <Url
+      Source="../TOCs/Reverse-Engineer a Model from a Database or a Script.fltoc"
+      TimeStamp="9/3/2018 2:55:56 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_search1.js"
+      TimeStamp="9/3/2018 1:42:24 PM" />
+    <Url
+      Source="../../Content/Resources/Images/diamond28.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/hyphen28.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/checkbox28.gif"
+      TimeStamp="6/20/2011 1:12:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/block28.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/docsstylesheet1.css"
+      TimeStamp="9/3/2018 2:55:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/erwin29.png"
+      TimeStamp="12/29/2016 10:51:25 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/stylesheet1.css"
+      TimeStamp="9/3/2018 2:55:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_center28.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_right28.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_left28.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_right28.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_left28.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_center28.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/space1x29.png"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/castyles1.css"
+      TimeStamp="9/3/2018 2:55:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/cbook28.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/topic28.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc3.css"
+      TimeStamp="9/3/2018 2:55:54 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_toc1.js"
+      TimeStamp="9/3/2018 1:42:16 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc1.css"
+      TimeStamp="9/3/2018 2:55:54 PM" />
+    <Url
+      Source="../../Content/Resources/highlight1.js"
+      TimeStamp="9/6/2012 8:49:46 PM" />
+    <Url
+      Source="../../Content/Resources/mailca1.js"
+      TimeStamp="12/2/2016 4:06:20 PM" />
+    <Url
+      Source="../../Content/Resources/open_parent1.js"
+      TimeStamp="2/6/2013 4:36:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/rgtgray27.png"
+      TimeStamp="9/3/2018 1:42:24 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8334.jpg"
+      TimeStamp="9/3/2018 1:42:21 PM" />
+    <Url
+      Source="../../Content/Resources/Images/lftgray29.png"
+      TimeStamp="9/3/2018 1:42:24 PM" />
+    <Url
+      Source="../../Content/Resources/Images/602.png"
+      TimeStamp="9/3/2018 1:42:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/401.png"
+      TimeStamp="9/3/2018 1:42:22 PM" />
+  </GeneratedFiles>
+</HtmlImport>

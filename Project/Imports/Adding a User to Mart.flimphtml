@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="erwin Bookshelf"
+  ProjectFolder="C:\Users\Shrutika\OneDrive - ERwin\MadCap Flare Project\erwin Bookshelf\"
+  AutoSync="false"
+  SourceFolders="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Adding a User to Mart"
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2018-09-03T17:48:37.2067573+05:30"
+  ImportTopicsLocation="Content/Tutorials/Scenarios/"
+  ResourceFolder="file:///C:/Users/Shrutika/OneDrive - ERwin/MadCap Flare Project/erwin Bookshelf/Content/Resources/">
+  <Files>
+    <Url
+      Source="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Adding a User to Mart"
+      AbsoluteSource="file:///D:/Documentation/ProjectRevamp/MadCapFlare/PythonScripts/AIT Files/Adding a User to Mart" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Adding a User to Mart/dhtml_search.htm"
+      TimeStamp="9/3/2018 5:48:29 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Adding a User to Mart/heading.htm"
+      TimeStamp="9/3/2018 5:48:30 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Adding a User to Mart/html_frameset.htm"
+      TimeStamp="9/3/2018 5:48:30 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Adding a User to Mart/index.htm"
+      TimeStamp="9/3/2018 5:48:30 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Adding a User to Mart/index_template.htm"
+      TimeStamp="9/3/2018 5:48:30 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Adding a User to Mart/tab_search.htm"
+      TimeStamp="9/3/2018 5:48:30 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Adding a User to Mart/tab_toc.htm"
+      TimeStamp="9/3/2018 5:48:30 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Adding a User to Mart/toc.htm"
+      TimeStamp="9/3/2018 5:48:30 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Adding a User to Mart/add_a_user.html"
+      TimeStamp="9/3/2018 5:48:30 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Adding a User to Mart/assign_permissions_to_a_user.html"
+      TimeStamp="9/3/2018 5:48:30 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Adding a User to Mart/Create a Profile.html"
+      TimeStamp="9/3/2018 5:48:31 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Adding a User to Mart/create_a_library.html"
+      TimeStamp="9/3/2018 5:48:31 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Adding a User to Mart/group_user_best_practices.html"
+      TimeStamp="9/3/2018 5:48:31 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Adding a User to Mart/how_profiles_work.html"
+      TimeStamp="9/3/2018 5:48:31 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Adding a User to Mart/Introduction- Adding a User.html"
+      TimeStamp="9/3/2018 5:48:31 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Adding a User to Mart/mart_users.html"
+      TimeStamp="9/3/2018 5:48:31 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Adding a User to Mart/scn_adding_a_user.html"
+      TimeStamp="9/3/2018 5:48:32 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Adding a User to Mart/verify_if_existing_profile_suits.html"
+      TimeStamp="9/3/2018 5:48:32 PM" />
+    <Url
+      Source="../../Content/Tutorials/Scenarios/Adding a User to Mart/verify_if_req_catalog_library_exists.html"
+      TimeStamp="9/3/2018 5:48:32 PM" />
+    <Url
+      Source="../TOCs/Adding a User to Mart.fltoc"
+      TimeStamp="9/3/2018 5:48:36 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_search1.js"
+      TimeStamp="9/3/2018 5:21:16 PM" />
+    <Url
+      Source="../../Content/Resources/Images/diamond31.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/hyphen31.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/checkbox31.gif"
+      TimeStamp="6/20/2011 1:12:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/block31.gif"
+      TimeStamp="2/19/2010 9:44:22 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/docsstylesheet1.css"
+      TimeStamp="9/3/2018 5:48:32 PM" />
+    <Url
+      Source="../../Content/Resources/Images/erwin32.png"
+      TimeStamp="12/29/2016 10:51:25 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/stylesheet1.css"
+      TimeStamp="9/3/2018 5:48:32 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_center31.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_right31.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_unselected_left31.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_right31.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_left31.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/portal_tab_selected_center31.png"
+      TimeStamp="5/31/2012 8:27:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/space1x32.png"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/castyles1.css"
+      TimeStamp="9/3/2018 5:48:32 PM" />
+    <Url
+      Source="../../Content/Resources/Images/cbook31.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/topic31.gif"
+      TimeStamp="2/19/2010 9:44:20 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc3.css"
+      TimeStamp="9/3/2018 5:48:32 PM" />
+    <Url
+      Source="../../Content/Resources/dhtml_toc1.js"
+      TimeStamp="9/3/2018 5:21:12 PM" />
+    <Url
+      Source="../../Content/Resources/StyleSheets/dhtml_toc1.css"
+      TimeStamp="9/3/2018 5:48:32 PM" />
+    <Url
+      Source="../../Content/Resources/Images/405.png"
+      TimeStamp="9/3/2018 5:21:15 PM" />
+    <Url
+      Source="../../Content/Resources/highlight1.js"
+      TimeStamp="9/6/2012 8:49:46 PM" />
+    <Url
+      Source="../../Content/Resources/mailca1.js"
+      TimeStamp="12/2/2016 4:06:20 PM" />
+    <Url
+      Source="../../Content/Resources/open_parent1.js"
+      TimeStamp="2/6/2013 4:36:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/rgtgray30.png"
+      TimeStamp="9/3/2018 5:21:16 PM" />
+    <Url
+      Source="../../Content/Resources/Images/801.png"
+      TimeStamp="9/3/2018 5:21:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/802.png"
+      TimeStamp="9/3/2018 5:21:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/803.png"
+      TimeStamp="9/3/2018 5:21:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/8336.jpg"
+      TimeStamp="9/3/2018 5:21:14 PM" />
+    <Url
+      Source="../../Content/Resources/Images/lftgray32.png"
+      TimeStamp="9/3/2018 5:21:16 PM" />
+    <Url
+      Source="../../Content/Resources/Images/1510.png"
+      TimeStamp="9/3/2018 5:21:15 PM" />
+  </GeneratedFiles>
+</HtmlImport>

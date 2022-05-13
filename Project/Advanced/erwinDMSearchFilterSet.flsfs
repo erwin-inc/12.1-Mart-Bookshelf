@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSearchFilterSet>
+  <SearchFilter
+    Name="Installation"
+    Concepts="Installation"
+    Order="3"></SearchFilter>
+  <SearchFilter
+    Name="Release Notes"
+    Comment=""
+    Order="0"
+    Concepts="Release Notes" />
+  <SearchFilter
+    Name="Licensing"
+    Comment=""
+    Order="1"
+    Concepts="Licensing" />
+  <SearchFilter
+    Name="User Guides"
+    Comment=""
+    Order="4"
+    Concepts="User Guides" />
+  <SearchFilter
+    Name="References"
+    Comment=""
+    Order="6"
+    Concepts="References" />
+  <SearchFilter
+    Name="Tutorials"
+    Comment=""
+    Order="7"
+    Concepts="Tutorials" />
+  <SearchFilter
+    Name="Tools"
+    Comment=""
+    Order="5"
+    Concepts="Tools" />
+  <SearchFilter
+    Name="Feature Tour"
+    Comment=""
+    Order="2"
+    Concepts="Feature Tour" />
+</CatapultSearchFilterSet>

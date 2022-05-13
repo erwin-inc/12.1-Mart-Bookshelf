@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html lang="en" xmlns:madcap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title>Lock Behavior</title>
+        <link href="..\..\Resources\StyleSheets\stylesheet.css" rel="stylesheet" type="text/css" />
+        <link href="..\..\Resources\StyleSheets\docsstylesheet.css" rel="stylesheet" type="text/css" />
+        <meta content="&lt;authorit:componentcd&gt;" name="componentcd" />
+        <meta content="801" name="objectid" />
+        <meta content="260" name="basedOnKey" />
+        <!--metadata variables for XMD: translatable-->
+        <meta content="" name="description" />
+        <meta content="&lt;authorit:ca_keywords&gt;" name="keywords" />
+        <meta content="&lt;authorit:ca_content_type&gt;" name="ca_content_type" />
+        <meta content="&lt;authorit:ca_context&gt;" name="ca_context" />
+        <meta content="&lt;authorit:ca_role&gt;" name="ca_role" />
+        <meta content="en-US" name="ca_language" />
+        <!--metadata variables for XMD: do not translate-->
+        <meta content="&lt;authorit:ca_offering_name&gt;" name="ca_offering_name" />
+        <meta content="&lt;authorit:ca_product_version&gt;" name="ca_product_version" />
+        <meta content="&lt;authorit:ca_product_family&gt;" name="ca_product_family" />
+        <meta content="&lt;authorit:ca_alias_name&gt;" name="ca_alias_name" />
+        <meta content="&lt;authorit:ca_related_offering&gt;" name="ca_related_offering" />
+        <meta content="&lt;authorit:ca_access_level&gt;" name="ca_access_level" />
+        <meta content="8/13/2018T12:00-5:00" name="ca_date_time" />
+        <meta content="(supervisor)" name="ca_creator" />
+        <meta content="&lt;authorit:ca_source&gt;" name="ca_source" />
+        <meta content="HTML" name="ca_format" />
+        <meta content="&lt;authorit:ca_database&gt;" name="ca_database" />
+        <meta content="&lt;authorit:ca_application_server&gt;" name="ca_application_server" />
+        <meta content="&lt;authorit:ca_operating_system&gt;" name="ca_operating_system" />
+        <meta content="&lt;authorit:ca_star_code&gt;" name="ca_star_code" />
+        <meta content="&lt;authorit:ca_cms_id&gt;" name="ca_cms_id" />
+        <script language="javascript" type="text/javascript">
+        </script> <script language="javascript" type="text/javascript"></script> <script language="javascript" src="../../Resources/mailerwin.js" type="text/javascript"></script> <script language="javascript" type="text/javascript"></script></head>
+    <body onload="loadParent();highlightx();if (isTOCLoaded()) {expand2('799');highlight('801')}">
+        <p class="bodytext">
+            <MadCap:concept term="User Guides" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        </p>
+        <h2 class="heading2" id="t801">Lock Behavior</h2>
+        <p class="bodytext">When you edit a catalog entry, locks are applied automatically to appropriate levels in the catalog to prevent other users from editing the entry. When the edit is complete, the locks are removed or downgraded automatically.</p>
+        <p class="bodytext">The following scenarios apply to locks when you edit a catalog entry:</p>
+        <ul class="listbullet">
+            <li class="listbullet">When you load a model, Shared Lock is applied to the model and Existence Lock is applied to the parent entry up to the mart. After the model is loaded, Shared Lock is replaced with Existence Lock.
+</li>
+            <li class="listbullet">When you initially save a model, Update Lock is applied to the model automatically. After the model is saved, Update Lock is replaced with Existence Lock automatically. If you apply the Update Lock manually, the lock is retained until you release it manually, or until the model is closed. 
+</li>
+            <li class="listbullet">When you incrementally save a model, Update Lock is applied to all the versions created between the opened version and the newly created version. After the model is saved, Update Lock is replaced with Existence Lock.
+</li>
+            <li class="listbullet">When you delete a model, Exclusive Lock is applied to the model. After the model is deleted, the lock is dropped.
+</li>
+            <li class="listbullet">When you delete a user, all the locks that the user had applied are deleted.
+</li>
+            <li class="listbullet">When you rename a library, Update Lock is applied to the library. After the library is renamed, the lock is removed.
+</li>
+            <li class="listbullet">When you load models for version compare, Shared Lock is applied to the root model. After the model is loaded, Shared Lock is removed.
+</li>
+            <li class="listbullet">When you merge or import objects during version compare, Update Lock is applied to the root model. When the merge or import is complete, Update Lock is removed.
+</li>
+        </ul>
+        <p>
+        </p>
+    </body>
+</html>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ImportResourcesLocation="NoImport"
+  SourceFolders=""
+  ImportTopics="specific"
+  LastImport="2019-10-11T14:51:48.9879809+05:30"
+  ImportTopicsLocation="Content/Installation/Implementation/">
+  <Files>
+    <Url
+      Source="file:///C:/Users/admin/OneDrive - erwin, Inc/MadCap Flare Project/Backup/2018 R1/erwin Bookshelf/Content/Installation/Implementation/Supported Metadata Integration Bridges.html"
+      AbsoluteSource="file:///C:/Users/admin/OneDrive - erwin, Inc/MadCap Flare Project/Backup/2018 R1/erwin Bookshelf/Content/Installation/Implementation/Supported Metadata Integration Bridges.html" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Installation/Implementation/Supported Metadata Integration Bridges.html"
+      TimeStamp="11-10-2019 14:51:43" />
+    <Url
+      Source="../TOCs/Supported Metadata Integration Bridges.fltoc"
+      TimeStamp="11-10-2019 14:51:48" />
+  </GeneratedFiles>
+</HtmlImport>
