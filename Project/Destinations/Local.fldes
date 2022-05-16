@@ -5,7 +5,10 @@
   Host=""
   User="MyAccountId"
   Password=""
-  Directory="C:\MadCapFlare Outputs\MadCapFlare-Publish-Output\2021R2\Mart"
+
+  Directory="C:\MadCapFlare Outputs\MadCapFlare-Publish-Output\12.1\Mart"
+
+
   Port=""
   ViewUrl="http://www.erwinBookshelf.com/"
   Type="file"

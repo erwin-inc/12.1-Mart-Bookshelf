@@ -41,20 +41,26 @@
         <dl>
             <dt>Server User</dt>
             <dd>
-                <p class="normaltermcontinued">Specifies the user that is authenticated by the Mart server. The server user is an application level user and not a database user. A server user provides the user name and password to log on to Mart. For example, Peter is a Business Analyst and reviews data models. Add Peter as a Server user as he accesses Mart only at the time of reviewing data models. Peter provides his user name and password to connect to Mart.</p>
+                <p class="normaltermcontinued">Indicates a user that is authenticated by the Mart server. The server user is an application level user and not a database user. A server user provides the user name and password to log on to Mart. For example, Peter is a Business Analyst and reviews data models. Add Peter as a Server user as he accesses Mart only at the time of reviewing data models. Peter provides his user name and password to connect to Mart.</p>
                 <p class="listnote"><strong>Note: </strong>Only a Server user can access erwin Mart Administrator. There are no database level users in the current Mart.</p>
             </dd>
             <dt>Windows User</dt>
             <dd>
-                <p class="normaltermcontinued">Specifies the user that is authenticated by the Windows network. A Windows user need not provide the user name and password to log on to Mart. For example, Jane is a Data Modeler who works on Mart. Add Jane as a Windows user, so she accesses Mart using her Windows network credentials. Jane does not provide her user name and password to connect to Mart.</p>
+                <p class="normaltermcontinued">Indicates a user that is authenticated by the Windows network. A Windows user need not provide the user name and password to log on to Mart. For example, Jane is a Data Modeler who works on Mart. Add Jane as a Windows user, so she accesses Mart using her Windows network credentials. Jane does not provide her user name and password to connect to Mart.</p>
                 <p class="normaltermcontinued">Also, Azure Active Directory&#160;(AD) users can connect to erwin Mart only through erwin Data Modeler by adding Azure AD&#160;user as a Windows user in the Mart Administrator. For example, AZUREAD\abd@MyOrg.com or AZUREAD\abc or abc@MyOrg.com.</p>
                 <p class="normaltermcontinued">Note that this type of user cannot be used as a group user as Domain Controller is not available in Azure AD.</p>
             </dd>
-            <dt>User Group</dt>
+            <dt>Group User</dt>
             <dd>
-                <p class="normaltermcontinued">Specifies a user group that is part of an Active Directory. Use this option to add an entire group that accesses Mart. For example, you have a user group ABC-Domain\XYZDivision_AllModelers@MyOrg.com. Add XYZDivision_AllModelers, so that all users that are part of this group and are authenticated by ABC-Domain, connect to Mart. Users of this group do not have to provide their user name and password when they connect to Mart.</p>
-                <p class="normaltermcontinued">
-                </p>
+                <p class="normaltermcontinued">Indicates a user group that is part of an Active Directory. Use this option to add an entire group that accesses Mart. For example, you have a user group ABC-Domain\XYZDivision_AllModelers@MyOrg.com. Add XYZDivision_AllModelers, so that all users that are part of this group and are authenticated by ABC-Domain, connect to Mart. Users of this group do not have to provide their user name and password when they connect to Mart.<br />For erwin Mart on cloud, to add group users, upload a list of users (for example, LDAP users) in the CSV format.</p>
+            </dd>
+            <dt>Azure AD User</dt>
+            <dd>
+                <p class="normaltermcontinued">Indicates a user that is authenticated by the Azure Active Directory. This User Type is available only for erwin Mart on Cloud.<br /></p>
+            </dd>
+            <dt>Azure AD Group User</dt>
+            <dd>
+                <p class="normaltermcontinued">Indicates a user group that is authenticated by the Azure Active Directory. This User Type is available only for erwin Mart on Cloud.<br />Use this option to add an entire group that accesses Mart.  Users of this group do not have to provide their user name and password when they connect to Mart.</p>
             </dd>
         </dl>
         <p class="bodytext"><strong>Note</strong>: A password should fulfill the following criteria:</p>

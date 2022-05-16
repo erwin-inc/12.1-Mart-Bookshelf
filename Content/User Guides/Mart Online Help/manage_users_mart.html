@@ -47,10 +47,13 @@
                 <p class="bodytext">Click <img src="../../Resources/Images/Icon-Mart-AddUser.png" style="width: 18px;height: 14px;" />.<br />The Add User page appears.<br /><img src="../../Resources/Images/Add-User.png" style="border-left-style: solid;border-left-width: 1px;border-right-style: solid;border-right-width: 1px;border-top-style: solid;border-top-width: 1px;border-bottom-style: solid;border-bottom-width: 1px;width: 318px;height: 310px;" /></p>
             </li>
             <li class="listnumber">Select one of the user types:
-			<dl><dt>Server User</dt><dd><p class="normaltermcontinued3">Specifies a Mart user that is authenticated by the credentials provided in Mart. This is an application-level user and not a database user.<br /><strong>Note:</strong> There are no database level users in erwin DM Version 9 Mart.</p></dd></dl><dl><dt>Windows User</dt><dd><p class="normaltermcontinued3">Specifies a Mart user that is authenticated by the Windows network.</p></dd><dt>Group User</dt><dd><p class="normaltermcontinued3">Specifies a Windows user group. This means that all users that are part of the selected group can access Mart. To log in as a Group User, use your Group User's email ID.</p></dd></dl></li>
+			<dl><dt>Server User</dt><dd><p class="normaltermcontinued3">Indicates a Mart user that is authenticated by the credentials provided in Mart. This is an application-level user and not a database user.<br /><strong>Note:</strong> There are no database level users in erwin DM Version 9 Mart.</p></dd><dt>Windows User</dt><dd><p class="normaltermcontinued3">Indicates a Mart user that is authenticated by the Windows network.</p></dd><dt>Group User</dt><dd><p class="normaltermcontinued3">Indicates a Windows user group. This means that all users that are part of the selected group can access Mart. To log in as a Group User, use your Group User's email ID.</p></dd><dt>Azure AD User</dt><dd><p class="normaltermcontinued3">Indicates a Mart user that is authenticated by the Azure Active Directory network. This user type is  available only for erwin Mart on cloud. <br /></p></dd><dt>Azure AD Group User</dt><dd><p class="normaltermcontinued3">Indicates a user group that is authenticated by the Azure Active Directory. This User Type is available only for erwin Mart on cloud.</p></dd></dl></li>
             <li class="listnumber">
                 <p class="bodytext">Based on the user type, enter values to the following fields:</p>
-                <table border="1" cellpadding="2" cellspacing="0" class="tableintopic" style="border-collapse: collapse;border: 1px solid #010101;">
+                <table border="1" cellpadding="2" cellspacing="0" style="border-collapse: collapse;border: 1px solid #010101;margin-left: 0;margin-right: auto;">
+                    <col />
+                    <col />
+                    <col />
                     <!--<table class="tableintopic" width="1256" cellpadding="2" cellspacing="0" border="1" style="border-collapse: collapse;border: 1px solid #010101;">-->
                     <tr align="left" valign="top">
                         <td style="border: 1px solid #010101;" valign="middle" width="628">
@@ -59,13 +62,18 @@
                         <td style="border: 1px solid #010101;" valign="middle" width="628">
                             <p class="tableheading">Description</p>
                         </td>
+                        <td style="border: 1px solid #010101;" valign="middle" width="628">
+                            <p class="tableheading">Additional Information</p>
+                        </td>
                     </tr>
                     <tr align="left" valign="top">
                         <td style="border: 1px solid #010101;" width="628">
                             <p class="tablebodytext">Username</p>
                         </td>
                         <td style="border: 1px solid #010101;" width="628">
-                            <p class="tablebodytext">Specifies the name to use to login.</p>
+                            <p class="tablebodytext">Specifies the name to use to login</p>
+                        </td>
+                        <td style="border: 1px solid #010101;" width="628">
                             <p class="tablebodytext">This field applies to Server and Windows users.</p>
                         </td>
                     </tr>
@@ -75,7 +83,10 @@
                         </td>
                         <td style="border: 1px solid #010101;" width="628">
                             <p class="tablebodytext">Specifies the password of the user.</p>
-                            <p class="tablebodytext">This field applies to Server users. A password must fulfil the following criteria:</p>
+                        </td>
+                        <td style="border: 1px solid #010101;" width="628">
+                            <p class="tablebodytext">This field applies to Server users.</p>
+                            <p class="tablebodytext">A password must fulfill the following criteria:</p>
                             <ul class="listbullet">
                                 <li class="listbullet">Contains at least 1 lowercase character
 			</li>
@@ -98,22 +109,54 @@
                         <td style="border: 1px solid #010101;" width="628">
                             <p class="tablebodytext">Specifies the email address associated with the user account</p>
                         </td>
+                        <td style="border: 1px solid #010101;" width="628">
+                            <p>&#160;</p>
+                        </td>
                     </tr>
                     <tr align="left" valign="top">
                         <td style="border: 1px solid #010101;" width="628">Confirm Email Address</td>
                         <td style="border: 1px solid #010101;" width="628">
-                            <p width="628">Specifies the email address again to confirm.</p>
+                            <p width="628">Specifies the email address again to confirm</p>
+                        </td>
+                        <td style="border: 1px solid #010101;" width="628">
                             <p width="628">This field applies to Server and Windows users.</p>
                         </td>
                     </tr>
                     <tr align="left" valign="top">
-                        <td style="border: 1px solid #010101;" width="628">User must change password at next logon</td>
+                        <td style="border: 1px solid #010101;" width="628">User must change password at next log-on</td>
                         <td style="border: 1px solid #010101;" width="628">Specifies that the users get a change password screen when they log in next time to Mart Admin</td>
+                        <td style="border: 1px solid #010101;" width="628">This field applies to Server users.</td>
                     </tr>
                     <tr align="left" valign="top">
-                        <td style="border: 1px solid #010101;" width="628">Group User</td>
+                        <td style="border: 1px solid #010101;" width="628">Load type option</td>
                         <td style="border: 1px solid #010101;" width="628">
-                            <p width="628">Specifies the identifier of the group that you want to add.</p>
+                            <p>&#160;</p>
+                        </td>
+                        <td style="border: 1px solid #010101;" width="628">
+                            <p>This field applies only to erwin Mart on premises for a Group User </p>
+                        </td>
+                    </tr>
+                    <tr align="left" valign="top">
+                        <td style="border: 1px solid #010101;" width="628">Group name</td>
+                        <td style="border: 1px solid #010101;" width="628">
+                            <p>Specifies the group name to which a user belongs</p>
+                        </td>
+                        <td style="border: 1px solid #010101;" width="628">
+                            <p>This field applies only to erwin Mart on premises for a Group User </p>
+                        </td>
+                    </tr>
+                    <tr align="left" valign="top">
+                        <td style="border: 1px solid #010101;" width="628">LDAP file upload option</td>
+                        <td style="border: 1px solid #010101;" width="628">Specifies a list of users (for example, LDAP users) in the CSV format</td>
+                        <td style="border: 1px solid #010101;" width="628">
+                            <br />This field applies only to erwin Mart on Cloud for a Group User.</td>
+                    </tr>
+                    <tr align="left" valign="top">
+                        <td style="border: 1px solid #010101;" width="628">Group Users</td>
+                        <td style="border: 1px solid #010101;" width="628">
+                            <p width="628">Specifies the identifier of the group that you want to add</p>
+                        </td>
+                        <td style="border: 1px solid #010101;" width="628">
                             <p width="628">This field applies only to Group users.</p>
                         </td>
                     </tr>
