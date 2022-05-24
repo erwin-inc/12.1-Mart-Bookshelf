@@ -36,23 +36,24 @@
             <MadCap:concept term="User Guides" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
         </p>
         <h1 class="heading1" id="t8213">Mart Users</h1>
-        <p class="bodytext">From r9 onwards, you can add individual users and Active Directory user groups to Mart. Individual users are categorized as Server users and Windows users, which are based on the way they are authenticated. There are no database level users in the current Mart. </p>
-        <p class="bodytext">The descriptions of user types are as follows:</p>
+        <p class="bodytext">Starting release 9, you can add individual users and Active Directory user groups to Mart. Individual users are categorized as Server users and Windows users, which are based on the way they are authenticated. There are no database level users in the current Mart. </p>
+        <p class="bodytext">Following are the user types:</p>
         <dl>
             <dt>Server User</dt>
             <dd>
-                <p class="normaltermcontinued">Indicates a user that is authenticated by the Mart server. The server user is an application level user and not a database user. A server user provides the user name and password to log on to Mart. For example, Peter is a Business Analyst and reviews data models. Add Peter as a Server user as he accesses Mart only at the time of reviewing data models. Peter provides his user name and password to connect to Mart.</p>
-                <p class="listnote"><strong>Note: </strong>Only a Server user can access erwin Mart Administrator. There are no database level users in the current Mart.</p>
+                <p class="normaltermcontinued">Indicates a user that is authenticated by the Mart server.  The server user is an application level user and not a database user. A server user provides the user name and password to log on to Mart. For example, Peter is a Business Analyst and reviews data models. Add Peter as a Server user as he accesses Mart only at the time of reviewing data models. Peter provides his user name and password to connect to Mart.</p>
+                <p class="noteAlt">Only a Server user can access erwin Mart Administrator. There are no database level users in the current Mart.</p>
             </dd>
             <dt>Windows User</dt>
             <dd>
                 <p class="normaltermcontinued">Indicates a user that is authenticated by the Windows network. A Windows user need not provide the user name and password to log on to Mart. For example, Jane is a Data Modeler who works on Mart. Add Jane as a Windows user, so she accesses Mart using her Windows network credentials. Jane does not provide her user name and password to connect to Mart.</p>
                 <p class="normaltermcontinued">Also, Azure Active Directory&#160;(AD) users can connect to erwin Mart only through erwin Data Modeler by adding Azure AD&#160;user as a Windows user in the Mart Administrator. For example, AZUREAD\abd@MyOrg.com or AZUREAD\abc or abc@MyOrg.com.</p>
-                <p class="normaltermcontinued">Note that this type of user cannot be used as a group user as Domain Controller is not available in Azure AD.</p>
+                <p class="noteAlt">You cannot use this user type as a group user as Domain Controller is not available in Azure AD.</p>
             </dd>
             <dt>Group User</dt>
             <dd>
-                <p class="normaltermcontinued">Indicates a user group that is part of an Active Directory. Use this option to add an entire group that accesses Mart. For example, you have a user group ABC-Domain\XYZDivision_AllModelers@MyOrg.com. Add XYZDivision_AllModelers, so that all users that are part of this group and are authenticated by ABC-Domain, connect to Mart. Users of this group do not have to provide their user name and password when they connect to Mart.<br />For erwin Mart on cloud, to add group users, upload a list of users (for example, LDAP users) in the CSV format.</p>
+                <p class="normaltermcontinued">Indicates a user group that is part of an Active Directory. Use this option to add an entire group that accesses Mart. For example, you have a user group ABC-Domain\XYZDivision_AllModelers@MyOrg.com. Add XYZDivision_AllModelers, so that all users that are part of this group and are authenticated by ABC-Domain, connect to Mart. Users of this group do not have to provide their user name and password when they connect to Mart.</p>
+                <p class="normaltermcontinued">For erwin Mart on cloud, to add group users, upload a list of users (for example, LDAP users) in the CSV format.<br /></p>
             </dd>
             <dt>Azure AD User</dt>
             <dd>
