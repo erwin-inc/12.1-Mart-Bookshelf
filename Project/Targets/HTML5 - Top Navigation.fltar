@@ -18,9 +18,7 @@
   EnableSitemap="true"
   SitemapWebUrl="http://erwin.com/bookshelf/public_html/2020R2/Content/"
   EquationsOutputType="PNG"
-
-  OutputFolder="C:\MadCapFlare Outputs\MadCapFlare-Build-Output\12.1\Mart"
-
+  OutputFolder="C:\MadCapFlare Outputs\MadCapFlare-Build-Output\Mart12.1"
   OutputFile="erwinBookshelf"
   MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp"
   SearchEngine="MadCapSearch">
